@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# any tilda files
+*~
+
+# MacOS X
+.DS_Store
+
+#Ipynb checkpoints
+.ipynb_checkpoints/

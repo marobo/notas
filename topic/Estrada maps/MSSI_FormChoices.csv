@@ -1,0 +1,2776 @@
+list_name,name,label,municipiu_filter,postu_adm_filter,suco_filter
+jg0hi40,feto,Feto,,,
+jg0hi40,mane,Mane,,,
+Municipality,Aileu,Aileu,,,
+Municipality,Ainaro,Ainaro,,,
+Municipality,Baucau,Baucau,,,
+Municipality,Bobonaro,Bobonaro,,,
+Municipality,Covalima,Covalima,,,
+Municipality,Dili,Dili,,,
+Municipality,Ermera,Ermera,,,
+Municipality,Lautém,Lautém,,,
+Municipality,Liquiçá,Liquiçá,,,
+Municipality,Manatuto,Manatuto,,,
+Municipality,Manufahi,Manufahi,,,
+Municipality,Oe-Cusse,Oe-Cusse,,,
+Municipality,Viqueque,Viqueque,,,
+Administrative_Post,Aileu,Aileu,Aileu,,
+Administrative_Post,Laulara,Laulara,Aileu,,
+Administrative_Post,Lequidoe,Lequidoe,Aileu,,
+Administrative_Post,Remexio,Remexio,Aileu,,
+Administrative_Post,Ainaro,Ainaro,Ainaro,,
+Administrative_Post,Hato-Udo,Hato-Udo,Ainaro,,
+Administrative_Post,Hato-Builico,Hato-Builico,Ainaro,,
+Administrative_Post,Maubisse,Maubisse,Ainaro,,
+Administrative_Post,Baguia,Baguia,Baucau,,
+Administrative_Post,Baucau,Baucau,Baucau,,
+Administrative_Post,Laga,Laga,Baucau,,
+Administrative_Post,Quelicai,Quelicai,Baucau,,
+Administrative_Post,Vemasse,Vemasse,Baucau,,
+Administrative_Post,Venilale,Venilale,Baucau,,
+Administrative_Post,Atabae,Atabae,Bobonaro,,
+Administrative_Post,Balibo,Balibo,Bobonaro,,
+Administrative_Post,Bobonaro,Bobonaro,Bobonaro,,
+Administrative_Post,Cailaco,Cailaco,Bobonaro,,
+Administrative_Post,Lolotoe,Lolotoe,Bobonaro,,
+Administrative_Post,Maliana,Maliana,Bobonaro,,
+Administrative_Post,Fatululic,Fatululic,Covalima,,
+Administrative_Post,Fatumean,Fatumean,Covalima,,
+Administrative_Post,Fohorem,Fohorem,Covalima,,
+Administrative_Post,Maucatar,Maucatar,Covalima,,
+Administrative_Post,Suai,Suai,Covalima,,
+Administrative_Post,Tilomar,Tilomar,Covalima,,
+Administrative_Post,Zumalai,Zumalai,Covalima,,
+Administrative_Post,Atauro,Atauro,Dili,,
+Administrative_Post,Cristo_Rei,Cristo Rei,Dili,,
+Administrative_Post,Dom_Aleixo,Dom Aleixo,Dili,,
+Administrative_Post,Metinaro,Metinaro,Dili,,
+Administrative_Post,Nain_Feto,Nain Feto,Dili,,
+Administrative_Post,Vera_Cruz,Vera Cruz,Dili,,
+Administrative_Post,Atsabe,Atsabe,Ermera,,
+Administrative_Post,Ermera,Ermera,Ermera,,
+Administrative_Post,Hatulia,Hatulia,Ermera,,
+Administrative_Post,Letefoho,Letefoho,Ermera,,
+Administrative_Post,Railaco,Railaco,Ermera,,
+Administrative_Post,Iliomar,Iliomar,Lautém,,
+Administrative_Post,Lautém,Lautém,Lautém,,
+Administrative_Post,Lospalos,Lospalos,Lautém,,
+Administrative_Post,Luro,Luro,Lautém,,
+Administrative_Post,Tutuala,Tutuala,Lautém,,
+Administrative_Post,Bazartete,Bazartete,Liquiçá,,
+Administrative_Post,Liquiçá,Liquiçá,Liquiçá,,
+Administrative_Post,Maubara,Maubara,Liquiçá,,
+Administrative_Post,Barique,Barique,Manatuto,,
+Administrative_Post,Lacló,Lacló,Manatuto,,
+Administrative_Post,Laclubar,Laclubar,Manatuto,,
+Administrative_Post,Laleia,Laleia,Manatuto,,
+Administrative_Post,Manatuto,Manatuto,Manatuto,,
+Administrative_Post,Soibada,Soibada,Manatuto,,
+Administrative_Post,Alas,Alas,Manufahi,,
+Administrative_Post,Fatuberliu,Fatuberliu,Manufahi,,
+Administrative_Post,Same,Same,Manufahi,,
+Administrative_Post,Turiscai,Turiscai,Manufahi,,
+Administrative_Post,Nitibe,Nitibe,Oe-Cusse,,
+Administrative_Post,Oesilo,Oesilo,Oe-Cusse,,
+Administrative_Post,Pante_Macassar,Pante Macassar,Oe-Cusse,,
+Administrative_Post,Passabe,Passabe,Oe-Cusse,,
+Administrative_Post,Lacluta,Lacluta,Viqueque,,
+Administrative_Post,Ossu,Ossu,Viqueque,,
+Administrative_Post,Uato-Lari,Uato-Lari,Viqueque,,
+Administrative_Post,Uato-Carbau,Uato-Carbau,Viqueque,,
+Administrative_Post,Viqueque,Viqueque,Viqueque,,
+Suco,10101,Aissirimou,Aileu,Aileu,
+Suco,10102,Bandudato,Aileu,Aileu,
+Suco,10103,Fahiria,Aileu,Aileu,
+Suco,10104,Fatubossa,Aileu,Aileu,
+Suco,10105,Hoholau,Aileu,Aileu,
+Suco,10106,Lahae,Aileu,Aileu,
+Suco,10107,Lausi,Aileu,Aileu,
+Suco,10112,Lequitura,Aileu,Aileu,
+Suco,10108,Saboria,Aileu,Aileu,
+Suco,10109,Seloi Craic,Aileu,Aileu,
+Suco,10110,Seloi Malere,Aileu,Aileu,
+Suco,10111,Suco Liurai,Aileu,Aileu,
+Suco,10206,Bocolelo,Aileu,Laulara,
+Suco,10201,Cotolau,Aileu,Laulara,
+Suco,10202,Fatisi,Aileu,Laulara,
+Suco,10203,Madabeno,Aileu,Laulara,
+Suco,10204,Talitu,Aileu,Laulara,
+Suco,10205,Tohumeta,Aileu,Laulara,
+Suco,10301,Acubilitoho,Aileu,Lequidoe,
+Suco,10302,Bereleu,Aileu,Lequidoe,
+Suco,10303,Betulau,Aileu,Lequidoe,
+Suco,10304,Fahisoi,Aileu,Lequidoe,
+Suco,10305,Faturilau,Aileu,Lequidoe,
+Suco,10306,Manucassa,Aileu,Lequidoe,
+Suco,10307,Namolesso,Aileu,Lequidoe,
+Suco,10401,Acumau,Aileu,Remexio,
+Suco,10402,Fadabloco,Aileu,Remexio,
+Suco,10403,Fahisoi,Aileu,Remexio,
+Suco,10404,Faturasa,Aileu,Remexio,
+Suco,10405,Hautoho,Aileu,Remexio,
+Suco,10406,Maumeta,Aileu,Remexio,
+Suco,10407,Suco Liurai,Aileu,Remexio,
+Suco,10408,Tulataqueo,Aileu,Remexio,
+Suco,20101,Ainaro,Ainaro,Ainaro,
+Suco,20102,Cassa,Ainaro,Ainaro,
+Suco,20103,Manutaci,Ainaro,Ainaro,
+Suco,20104,Mau-Nuno,Ainaro,Ainaro,
+Suco,20105,Mau-Ulo,Ainaro,Ainaro,
+Suco,20106,Soro,Ainaro,Ainaro,
+Suco,20107,Suro-Craic,Ainaro,Ainaro,
+Suco,20201,Foho-Ai-Lico,Ainaro,Hato-Udo,
+Suco,20202,Leolima,Ainaro,Hato-Udo,
+Suco,20301,Mauchiga,Ainaro,Hato-Builico,
+Suco,20302,Mulo,Ainaro,Hato-Builico,
+Suco,20303,Nuno-Mogue,Ainaro,Hato-Builico,
+Suco,20401,Aituto,Ainaro,Maubisse,
+Suco,20402,Edi,Ainaro,Maubisse,
+Suco,20403,Fatubessi,Ainaro,Maubisse,
+Suco,20404,Horai-Quic,Ainaro,Maubisse,
+Suco,20405,Suco Liurai,Ainaro,Maubisse,
+Suco,20406,Manelobas,Ainaro,Maubisse,
+Suco,20407,Manetú,Ainaro,Maubisse,
+Suco,20408,Maubisse,Ainaro,Maubisse,
+Suco,20409,Maulau,Ainaro,Maubisse,
+Suco,30101,Afaloicai,Baucau,Baguia,
+Suco,30102,Alaua Craic,Baucau,Baguia,
+Suco,30103,Alaua Leten,Baucau,Baguia,
+Suco,30104,Defauasi,Baucau,Baguia,
+Suco,30105,Hae Coni,Baucau,Baguia,
+Suco,30106,Larisula,Baucau,Baguia,
+Suco,30107,Lavateri,Baucau,Baguia,
+Suco,30108,Osso Huna,Baucau,Baguia,
+Suco,30109,Samalari,Baucau,Baguia,
+Suco,30110,Uacala,Baucau,Baguia,
+Suco,30201,Bahu,Baucau,Baucau,
+Suco,30202,Bucoli,Baucau,Baucau,
+Suco,30203,Buibau,Baucau,Baucau,
+Suco,30204,Buruma,Baucau,Baucau,
+Suco,30205,Caibada,Baucau,Baucau,
+Suco,30206,Gariuai,Baucau,Baucau,
+Suco,30207,Samalari,Baucau,Baucau,
+Suco,30208,Seiçal,Baucau,Baucau,
+Suco,30209,Tirilolo,Baucau,Baucau,
+Suco,30210,Triloca,Baucau,Baucau,
+Suco,30211,Uailili,Baucau,Baucau,
+Suco,30301,Atelari,Baucau,Laga,
+Suco,30302,Libagua,Baucau,Laga,
+Suco,30303,Nunira,Baucau,Laga,
+Suco,30304,Saelari,Baucau,Laga,
+Suco,30305,Sagadate,Baucau,Laga,
+Suco,30306,Samalari,Baucau,Laga,
+Suco,30307,Soba,Baucau,Laga,
+Suco,30308,Tequinaumata,Baucau,Laga,
+Suco,30401,Abafala,Baucau,Quelicai,
+Suco,30402,Abo,Baucau,Quelicai,
+Suco,30403,Afaçá,Baucau,Quelicai,
+Suco,30404,Baguia,Baucau,Quelicai,
+Suco,30405,Bualale,Baucau,Quelicai,
+Suco,30406,Guruçá,Baucau,Quelicai,
+Suco,30407,Lacoliu,Baucau,Quelicai,
+Suco,30408,Laisorolai De Baixo,Baucau,Quelicai,
+Suco,30409,Laisorolai De Cima,Baucau,Quelicai,
+Suco,30410,Lelalai,Baucau,Quelicai,
+Suco,30411,Letemumo,Baucau,Quelicai,
+Suco,30412,Macalaco,Baucau,Quelicai,
+Suco,30413,Maluro,Baucau,Quelicai,
+Suco,30414,Namanei,Baucau,Quelicai,
+Suco,30415,Uaitame,Baucau,Quelicai,
+Suco,30501,Caicua,Baucau,Vemasse,
+Suco,30502,Loilubo,Baucau,Vemasse,
+Suco,30503,Ossouala,Baucau,Vemasse,
+Suco,30504,Ostico,Baucau,Vemasse,
+Suco,30505,Uaigae,Baucau,Vemasse,
+Suco,30506,Uato-Lari,Baucau,Vemasse,
+Suco,30507,Vemasse,Baucau,Vemasse,
+Suco,30601,Bado-Ho'o,Baucau,Venilale,
+Suco,30602,Baha Mori,Baucau,Venilale,
+Suco,30603,Fatulia,Baucau,Venilale,
+Suco,30604,Uai Oli,Baucau,Venilale,
+Suco,30605,Uailaha,Baucau,Venilale,
+Suco,30606,Uatu Haco,Baucau,Venilale,
+Suco,30607,Uma Ana Ico,Baucau,Venilale,
+Suco,30608,Uma Ana Ulo,Baucau,Venilale,
+Suco,40101,Aidabaleten,Bobonaro,Atabae,
+Suco,40102,Atabae,Bobonaro,Atabae,
+Suco,40103,Hataz,Bobonaro,Atabae,
+Suco,40104,Rairobo,Bobonaro,Atabae,
+Suco,40201,Balibo Vila,Bobonaro,Balibo,
+Suco,40202,Batugade,Bobonaro,Balibo,
+Suco,40203,Coua,Bobonaro,Balibo,
+Suco,40204,Leohito,Bobonaro,Balibo,
+Suco,40205,Leolima,Bobonaro,Balibo,
+Suco,40206,Sanirin,Bobonaro,Balibo,
+Suco,40301,Ai-Assa,Bobonaro,Bobonaro,
+Suco,40302,Atu-Aben,Bobonaro,Bobonaro,
+Suco,40303,Bobonaro,Bobonaro,Bobonaro,
+Suco,40304,Carabau,Bobonaro,Bobonaro,
+Suco,40305,Colimau,Bobonaro,Bobonaro,
+Suco,40306,Cota Bo'ot,Bobonaro,Bobonaro,
+Suco,40307,Ilat-Laun,Bobonaro,Bobonaro,
+Suco,40308,Leber,Bobonaro,Bobonaro,
+Suco,40309,Lour,Bobonaro,Bobonaro,
+Suco,40310,Lourba,Bobonaro,Bobonaro,
+Suco,40311,Maliubu,Bobonaro,Bobonaro,
+Suco,40312,Malilait,Bobonaro,Bobonaro,
+Suco,40313,Molop,Bobonaro,Bobonaro,
+Suco,40314,Oeleo,Bobonaro,Bobonaro,
+Suco,40315,Sibuni,Bobonaro,Bobonaro,
+Suco,40316,Soileco,Bobonaro,Bobonaro,
+Suco,40317,Tapo,Bobonaro,Bobonaro,
+Suco,40318,Tebabui,Bobonaro,Bobonaro,
+Suco,40401,Atudara,Bobonaro,Cailaco,
+Suco,40402,Dau Udo,Bobonaro,Cailaco,
+Suco,40403,Goulolo,Bobonaro,Cailaco,
+Suco,40404,Guenu Lai,Bobonaro,Cailaco,
+Suco,40405,Manapa,Bobonaro,Cailaco,
+Suco,40406,Meligo,Bobonaro,Cailaco,
+Suco,40407,Purugua,Bobonaro,Cailaco,
+Suco,40408,Raiheu,Bobonaro,Cailaco,
+Suco,40501,Deudet,Bobonaro,Lolotoe,
+Suco,40502,Gildapil,Bobonaro,Lolotoe,
+Suco,40503,Guda,Bobonaro,Lolotoe,
+Suco,40504,Lebos,Bobonaro,Lolotoe,
+Suco,40505,Lontas,Bobonaro,Lolotoe,
+Suco,40506,Lupal,Bobonaro,Lolotoe,
+Suco,40507,Opa,Bobonaro,Lolotoe,
+Suco,40601,Holsa,Bobonaro,Maliana,
+Suco,40602,Lahomea,Bobonaro,Maliana,
+Suco,40603,Odomau,Bobonaro,Maliana,
+Suco,40604,Raifun,Bobonaro,Maliana,
+Suco,40605,Ritabou,Bobonaro,Maliana,
+Suco,40606,Saburai,Bobonaro,Maliana,
+Suco,40607,Tapo/Memo,Bobonaro,Maliana,
+Suco,50101,Fatululic,Covalima,Fatululic,
+Suco,50102,Taroman,Covalima,Fatululic,
+Suco,50201,Belulic Leten,Covalima,Fatumean,
+Suco,50202,Fatumea,Covalima,Fatumean,
+Suco,50203,Nanu,Covalima,Fatumean,
+Suco,50301,Dato Rua,Covalima,Fohorem,
+Suco,50302,Dato Tolu,Covalima,Fohorem,
+Suco,50303,Fohoren,Covalima,Fohorem,
+Suco,50304,Lactos,Covalima,Fohorem,
+Suco,50401,Belecasac,Covalima,Maucatar,
+Suco,50402,Holpilat,Covalima,Maucatar,
+Suco,50403,Matai,Covalima,Maucatar,
+Suco,50404,Ogues,Covalima,Maucatar,
+Suco,50501,Beco,Covalima,Suai,
+Suco,50502,Camenaça,Covalima,Suai,
+Suco,50503,Debos,Covalima,Suai,
+Suco,50504,Labarai,Covalima,Suai,
+Suco,50505,Suai Loro,Covalima,Suai,
+Suco,50601,Beiseuc,Covalima,Tilomar,
+Suco,50602,Casabauc,Covalima,Tilomar,
+Suco,50603,Lalaua,Covalima,Tilomar,
+Suco,50604,Maudemo,Covalima,Tilomar,
+Suco,50701,Fatuleto,Covalima,Zumalai,
+Suco,50702,Lepo,Covalima,Zumalai,
+Suco,50703,Lour,Covalima,Zumalai,
+Suco,50704,Mape,Covalima,Zumalai,
+Suco,50705,Raimea,Covalima,Zumalai,
+Suco,50706,Tashilin,Covalima,Zumalai,
+Suco,50707,Ucecai,Covalima,Zumalai,
+Suco,50708,Zulo,Covalima,Zumalai,
+Suco,60101,Beloi,Dili,Atauro,
+Suco,60102,Biqueli,Dili,Atauro,
+Suco,60103,Macadade,Dili,Atauro,
+Suco,60104,Maquili,Dili,Atauro,
+Suco,60105,Vila Maumeta,Dili,Atauro,
+Suco,60208,Ailoc,Dili,Cristo_Rei,
+Suco,60201,Balibar,Dili,Cristo_Rei,
+Suco,60202,Becora,Dili,Cristo_Rei,
+Suco,60203,Bidau Santana,Dili,Cristo_Rei,
+Suco,60204,Camea,Dili,Cristo_Rei,
+Suco,60205,Culu Hun,Dili,Cristo_Rei,
+Suco,60206,Hera,Dili,Cristo_Rei,
+Suco,60207,Meti Aut,Dili,Cristo_Rei,
+Suco,60301,Bairo Pite,Dili,Dom_Aleixo,
+Suco,60305,Bebonuk,Dili,Dom_Aleixo,
+Suco,60302,Comoro,Dili,Dom_Aleixo,
+Suco,60303,Fatuhada,Dili,Dom_Aleixo,
+Suco,60304,Kampung Alor,Dili,Dom_Aleixo,
+Suco,60306,Madohi,Dili,Dom_Aleixo,
+Suco,60307,Manleuana,Dili,Dom_Aleixo,
+Suco,60403,Mantelolão,Dili,Metinaro,
+Suco,60402,Sabuli,Dili,Metinaro,
+Suco,60401,Wenunuc,Dili,Metinaro,
+Suco,60501,Acadiru Hun,Dili,Nain_Feto,
+Suco,60502,Bemori,Dili,Nain_Feto,
+Suco,60503,Bidau Lecidere,Dili,Nain_Feto,
+Suco,60504,Gricenfor,Dili,Nain_Feto,
+Suco,60505,Lahane Oriental,Dili,Nain_Feto,
+Suco,60506,Santa Cruz,Dili,Nain_Feto,
+Suco,60601,Caicoli,Dili,Vera_Cruz,
+Suco,60602,Colmera,Dili,Vera_Cruz,
+Suco,60603,Dare,Dili,Vera_Cruz,
+Suco,60604,Lahane Ocidental,Dili,Vera_Cruz,
+Suco,60605,Mascarenhas,Dili,Vera_Cruz,
+Suco,60606,Motael,Dili,Vera_Cruz,
+Suco,60607,Vila Verde,Dili,Vera_Cruz,
+Suco,70101,Atara,Ermera,Atsabe,
+Suco,70102,Baboi Craic,Ermera,Atsabe,
+Suco,70103,Baboi Leten,Ermera,Atsabe,
+Suco,70104,Batu Mano,Ermera,Atsabe,
+Suco,70105,Lacao,Ermera,Atsabe,
+Suco,70106,Laclo,Ermera,Atsabe,
+Suco,70107,Laubono,Ermera,Atsabe,
+Suco,70108,Leimea Leten,Ermera,Atsabe,
+Suco,70109,Malabe,Ermera,Atsabe,
+Suco,70110,Obulo,Ermera,Atsabe,
+Suco,70111,Parami,Ermera,Atsabe,
+Suco,70112,Tiarlelo,Ermera,Atsabe,
+Suco,70201,Estado,Ermera,Ermera,
+Suco,70202,Humboe,Ermera,Ermera,
+Suco,70203,Lauala,Ermera,Ermera,
+Suco,70204,Leguimea,Ermera,Ermera,
+Suco,70205,Mertuto,Ermera,Ermera,
+Suco,70206,Poetete,Ermera,Ermera,
+Suco,70207,Ponilala,Ermera,Ermera,
+Suco,70208,Raimerhei,Ermera,Ermera,
+Suco,70209,Riheu,Ermera,Ermera,
+Suco,70210,Talimoro,Ermera,Ermera,
+Suco,70301,Aculau,Ermera,Hatulia,
+Suco,70302,Ailelo,Ermera,Hatulia,
+Suco,70303,Coilate-Letelo,Ermera,Hatulia,
+Suco,70304,Fatubessi,Ermera,Hatulia,
+Suco,70305,Fatubolu,Ermera,Hatulia,
+Suco,70306,Hatolia Vila,Ermera,Hatulia,
+Suco,70307,Leimea-Craic,Ermera,Hatulia,
+Suco,70308,Leimea-Sorinbalo,Ermera,Hatulia,
+Suco,70309,Lisapat,Ermera,Hatulia,
+Suco,70310,Manusae,Ermera,Hatulia,
+Suco,70311,Mau-Ubo,Ermera,Hatulia,
+Suco,70312,Samara,Ermera,Hatulia,
+Suco,70313,Urahou,Ermera,Hatulia,
+Suco,70401,Catraileten,Ermera,Letefoho,
+Suco,70402,Ducurai,Ermera,Letefoho,
+Suco,70403,Eraulo,Ermera,Letefoho,
+Suco,70404,Goulolo,Ermera,Letefoho,
+Suco,70405,Hatugau,Ermera,Letefoho,
+Suco,70406,Haupu,Ermera,Letefoho,
+Suco,70407,Catrai Caraic,Ermera,Letefoho,
+Suco,70408,Lauana,Ermera,Letefoho,
+Suco,70501,Deleso,Ermera,Railaco,
+Suco,70502,Fatuquero,Ermera,Railaco,
+Suco,70503,Liho,Ermera,Railaco,
+Suco,70504,Matata,Ermera,Railaco,
+Suco,70505,Railaco Craic,Ermera,Railaco,
+Suco,70506,Railaco Leten,Ermera,Railaco,
+Suco,70507,Samalete,Ermera,Railaco,
+Suco,70508,Taraco,Ermera,Railaco,
+Suco,70509,Tocoluli,Ermera,Railaco,
+Suco,80101,Aelebere,Lautém,Iliomar,
+Suco,80102,Caenlio,Lautém,Iliomar,
+Suco,80103,Fuat,Lautém,Iliomar,
+Suco,80104,Iliomar 1,Lautém,Iliomar,
+Suco,80105,Iliomar 2,Lautém,Iliomar,
+Suco,80106,Tirilolo,Lautém,Iliomar,
+Suco,80201,Baduro,Lautém,Lautém,
+Suco,80202,Com,Lautém,Lautém,
+Suco,80203,Daudere,Lautém,Lautém,
+Suco,80204,Euquisi,Lautém,Lautém,
+Suco,80205,Ililai,Lautém,Lautém,
+Suco,80206,Maina 1,Lautém,Lautém,
+Suco,80207,Maina 2,Lautém,Lautém,
+Suco,80208,Pairara,Lautém,Lautém,
+Suco,80209,Parlamento,Lautém,Lautém,
+Suco,80210,Serelau,Lautém,Lautém,
+Suco,80301,Bauro,Lautém,Lospalos,
+Suco,80302,Cacavei,Lautém,Lospalos,
+Suco,80303,Fuiloro,Lautém,Lospalos,
+Suco,80304,Home,Lautém,Lospalos,
+Suco,80305,Leuro,Lautém,Lospalos,
+Suco,80306,Lore 1,Lautém,Lospalos,
+Suco,80307,Lore 2,Lautém,Lospalos,
+Suco,80308,Muapitine,Lautém,Lospalos,
+Suco,80309,Raça,Lautém,Lospalos,
+Suco,80310,Souro,Lautém,Lospalos,
+Suco,80401,Afabubu,Lautém,Luro,
+Suco,80402,Baricafa,Lautém,Luro,
+Suco,80403,Cotamutu,Lautém,Luro,
+Suco,80404,Lacaua,Lautém,Luro,
+Suco,80405,Luro,Lautém,Luro,
+Suco,80406,Uairoque,Lautém,Luro,
+Suco,80501,Mehara,Lautém,Tutuala,
+Suco,80502,Tutuala,Lautém,Tutuala,
+Suco,90101,Fahilebo,Liquiçá,Bazartete,
+Suco,90102,Fatumasi,Liquiçá,Bazartete,
+Suco,90103,Lauhata,Liquiçá,Bazartete,
+Suco,90104,Leorema,Liquiçá,Bazartete,
+Suco,90105,Maumeta,Liquiçá,Bazartete,
+Suco,90106,Metagou,Liquiçá,Bazartete,
+Suco,90107,Motaulun,Liquiçá,Bazartete,
+Suco,90108,Tibar,Liquiçá,Bazartete,
+Suco,90109,Ulmera,Liquiçá,Bazartete,
+Suco,90201,Açumanu,Liquiçá,Liquiçá,
+Suco,90202,Darulete,Liquiçá,Liquiçá,
+Suco,90203,Dato,Liquiçá,Liquiçá,
+Suco,90204,Hatuquessi,Liquiçá,Liquiçá,
+Suco,90205,Leotala,Liquiçá,Liquiçá,
+Suco,90206,Loidahar,Liquiçá,Liquiçá,
+Suco,90207,Luculai,Liquiçá,Liquiçá,
+Suco,90301,Gugleur,Liquiçá,Maubara,
+Suco,90302,Guiço,Liquiçá,Maubara,
+Suco,90303,Lissadila,Liquiçá,Maubara,
+Suco,90304,Maubaralissa,Liquiçá,Maubara,
+Suco,90305,Vatuboro,Liquiçá,Maubara,
+Suco,90306,Vatuvou,Liquiçá,Maubara,
+Suco,90307,Vaviquinia,Liquiçá,Maubara,
+Suco,100101,Fatuwaque,Manatuto,Barique,
+Suco,100102,Aubeon,Manatuto,Barique,
+Suco,100103,Barique,Manatuto,Barique,
+Suco,100104,Manehat,Manatuto,Barique,
+Suco,100105,Uma Boco,Manatuto,Barique,
+Suco,100106,Sikone-Diloli,Manatuto,Barique,
+Suco,100201,Hohorai,Manatuto,Lacló,
+Suco,100202,Lacumesac,Manatuto,Lacló,
+Suco,100205,Laicore,Manatuto,Lacló,
+Suco,100203,Uma Caduac,Manatuto,Lacló,
+Suco,100204,Uma Naruc,Manatuto,Lacló,
+Suco,100301,Batara,Manatuto,Laclubar,
+Suco,100302,Fatumaquerec,Manatuto,Laclubar,
+Suco,100303,Funar,Manatuto,Laclubar,
+Suco,100304,Manelima,Manatuto,Laclubar,
+Suco,100305,Orlalan,Manatuto,Laclubar,
+Suco,100306,Sananain,Manatuto,Laclubar,
+Suco,100401,Cairui,Manatuto,Laleia,
+Suco,100402,Haturalan,Manatuto,Laleia,
+Suco,100403,Lifau,Manatuto,Laleia,
+Suco,100501,Ailili,Manatuto,Manatuto,
+Suco,100502,Aiteas,Manatuto,Manatuto,
+Suco,100503,Cribas,Manatuto,Manatuto,
+Suco,100504,Iliheu,Manatuto,Manatuto,
+Suco,100505,Ma'abat,Manatuto,Manatuto,
+Suco,100506,Sau,Manatuto,Manatuto,
+Suco,100601,Fatu-Maquerec,Manatuto,Soibada,
+Suco,100602,Leo-Hat,Manatuto,Soibada,
+Suco,100603,Manlala,Manatuto,Soibada,
+Suco,100604,Maun-Fahe,Manatuto,Soibada,
+Suco,100605,Samoro,Manatuto,Soibada,
+Suco,110101,Aituha,Manufahi,Alas,
+Suco,110102,Dotic,Manufahi,Alas,
+Suco,110103,Maha-Quidan,Manufahi,Alas,
+Suco,110104,Taitudac,Manufahi,Alas,
+Suco,110105,Uma Berloic,Manufahi,Alas,
+Suco,110201,Bubususo,Manufahi,Fatuberliu,
+Suco,110202,Caicassa,Manufahi,Fatuberliu,
+Suco,110203,Clacuc,Manufahi,Fatuberliu,
+Suco,110204,Fahinehan,Manufahi,Fatuberliu,
+Suco,110205,Fatucahi,Manufahi,Fatuberliu,
+Suco,110301,Babulo,Manufahi,Same,
+Suco,110302,Betano,Manufahi,Same,
+Suco,110303,Dai-Sua,Manufahi,Same,
+Suco,110304,Grotu,Manufahi,Same,
+Suco,110305,Holarua,Manufahi,Same,
+Suco,110306,Letefoho,Manufahi,Same,
+Suco,110307,Rotuto,Manufahi,Same,
+Suco,110308,Tutuluro,Manufahi,Same,
+Suco,110401,Aitemua,Manufahi,Turiscai,
+Suco,110402,Beremana,Manufahi,Turiscai,
+Suco,110403,Caimauc,Manufahi,Turiscai,
+Suco,110404,Fatucalo,Manufahi,Turiscai,
+Suco,110405,Foholau,Manufahi,Turiscai,
+Suco,110406,Lessuata,Manufahi,Turiscai,
+Suco,110407,Liurai,Manufahi,Turiscai,
+Suco,110408,Manumera,Manufahi,Turiscai,
+Suco,110409,Matorec,Manufahi,Turiscai,
+Suco,110410,Mindelo,Manufahi,Turiscai,
+Suco,110411,Orana,Manufahi,Turiscai,
+Suco,120101,Banafi,Oe-Cusse,Nitibe,
+Suco,120102,Beneufe,Oe-Cusse,Nitibe,
+Suco,120103,Lelaufe,Oe-Cusse,Nitibe,
+Suco,120104,Suniufe,Oe-Cusse,Nitibe,
+Suco,120105,Usitaco,Oe-Cusse,Nitibe,
+Suco,120201,Bobometo,Oe-Cusse,Oesilo,
+Suco,120202,Usitaqueno,Oe-Cusse,Oesilo,
+Suco,120203,Usitasae,Oe-Cusse,Oesilo,
+Suco,120301,Bobocasse,Oe-Cusse,Pante_Macassar,
+Suco,120302,Costa,Oe-Cusse,Pante_Macassar,
+Suco,120303,Cunha,Oe-Cusse,Pante_Macassar,
+Suco,120304,Lalisuc,Oe-Cusse,Pante_Macassar,
+Suco,120305,Lifau,Oe-Cusse,Pante_Macassar,
+Suco,120306,Naimeco,Oe-Cusse,Pante_Macassar,
+Suco,120307,Nipane,Oe-Cusse,Pante_Macassar,
+Suco,120308,Taiboco,Oe-Cusse,Pante_Macassar,
+Suco,120401,Abani,Oe-Cusse,Passabe,
+Suco,120402,Malelat,Oe-Cusse,Passabe,
+Suco,130101,Ahic,Viqueque,Lacluta,
+Suco,130102,Dilor,Viqueque,Lacluta,
+Suco,130103,Laline,Viqueque,Lacluta,
+Suco,130104,Uma Tolu,Viqueque,Lacluta,
+Suco,130201,Builale,Viqueque,Ossu,
+Suco,130210,Builo,Viqueque,Ossu,
+Suco,130202,Liaruca,Viqueque,Ossu,
+Suco,130203,Loi-Huno,Viqueque,Ossu,
+Suco,130204,Nahareca,Viqueque,Ossu,
+Suco,130205,Ossorua,Viqueque,Ossu,
+Suco,130206,Ossu De Cima,Viqueque,Ossu,
+Suco,130207,Uabubo,Viqueque,Ossu,
+Suco,130208,Uaguia,Viqueque,Ossu,
+Suco,130209,Uaibobo,Viqueque,Ossu,
+Suco,130301,Afaloicai,Viqueque,Uato-Lari,
+Suco,130302,Babulo,Viqueque,Uato-Lari,
+Suco,130303,Macadique,Viqueque,Uato-Lari,
+Suco,130304,Matahoi,Viqueque,Uato-Lari,
+Suco,130305,Uaitame,Viqueque,Uato-Lari,
+Suco,130306,Vessoru,Viqueque,Uato-Lari,
+Suco,130401,Afaloicai,Viqueque,Uato-Carbau,
+Suco,130402,Bahatata,Viqueque,Uato-Carbau,
+Suco,130403,Irabin De Baixo,Viqueque,Uato-Carbau,
+Suco,130404,Irabin De Cima,Viqueque,Uato-Carbau,
+Suco,130405,Loi Ulo,Viqueque,Uato-Carbau,
+Suco,130406,Uani Uma,Viqueque,Uato-Carbau,
+Suco,130501,Bahalaraua'in,Viqueque,Viqueque,
+Suco,130502,Bibileo,Viqueque,Viqueque,
+Suco,130503,Caraubalo,Viqueque,Viqueque,
+Suco,130504,Fatudere,Viqueque,Viqueque,
+Suco,130505,Luca,Viqueque,Viqueque,
+Suco,130506,Maluru,Viqueque,Viqueque,
+Suco,130507,Uai-Mori,Viqueque,Viqueque,
+Suco,130508,Uma Quic,Viqueque,Viqueque,
+Suco,130509,Uma Uain Craic,Viqueque,Viqueque,
+Suco,130510,Uma Uain Leten,Viqueque,Viqueque,
+Aldeia,Aituhularan,Aituhularan,Aileu,Aileu,10101
+Aldeia,Bercati,Bercati,Aileu,Aileu,10101
+Aldeia,Bessilau,Bessilau,Aileu,Aileu,10101
+Aldeia,Ercoatun,Ercoatun,Aileu,Aileu,10101
+Aldeia,Hudilaran,Hudilaran,Aileu,Aileu,10101
+Aldeia,Dailor,Dailor,Aileu,Aileu,10102
+Aldeia,Raelete,Raelete,Aileu,Aileu,10102
+Aldeia,Taiblor,Taiblor,Aileu,Aileu,10102
+Aldeia,Daulala,Daulala,Aileu,Aileu,10103
+Aldeia,Fahiria,Fahiria,Aileu,Aileu,10103
+Aldeia,Fatubuti,Fatubuti,Aileu,Aileu,10103
+Aldeia,Manulete,Manulete,Aileu,Aileu,10103
+Aldeia,Sarin,Sarin,Aileu,Aileu,10103
+Aldeia,Sidole,Sidole,Aileu,Aileu,10103
+Aldeia,Caicasa,Caicasa,Aileu,Aileu,10104
+Aldeia,Coulau,Coulau,Aileu,Aileu,10104
+Aldeia,Erhetu,Erhetu,Aileu,Aileu,10104
+Aldeia,Fatubossa,Fatubossa,Aileu,Aileu,10104
+Aldeia,Hoholete,Hoholete,Aileu,Aileu,10104
+Aldeia,Liclaucana,Liclaucana,Aileu,Aileu,10104
+Aldeia,Urhua,Urhua,Aileu,Aileu,10104
+Aldeia,Aslimhati,Aslimhati,Aileu,Aileu,10105
+Aldeia,Hatulai,Hatulai,Aileu,Aileu,10105
+Aldeia,Manubata,Manubata,Aileu,Aileu,10105
+Aldeia,Mau-Uluria,Mau-Uluria,Aileu,Aileu,10105
+Aldeia,Saharai,Saharai,Aileu,Aileu,10105
+Aldeia,Denhuni,Denhuni,Aileu,Aileu,10106
+Aldeia,Eralolo,Eralolo,Aileu,Aileu,10106
+Aldeia,Lacasori,Lacasori,Aileu,Aileu,10106
+Aldeia,Lahae,Lahae,Aileu,Aileu,10106
+Aldeia,Riatelo,Riatelo,Aileu,Aileu,10106
+Aldeia,Erbuti,Erbuti,Aileu,Aileu,10107
+Aldeia,Lausi,Lausi,Aileu,Aileu,10107
+Aldeia,Riafusun,Riafusun,Aileu,Aileu,10107
+Aldeia,Lequitura,Lequitura,Aileu,Aileu,10112
+Aldeia,Rai-Rema,Rai-Rema,Aileu,Aileu,10112
+Aldeia,Riheun,Riheun,Aileu,Aileu,10112
+Aldeia,Erluli,Erluli,Aileu,Aileu,10112
+Aldeia,Bermanuleu,Bermanuleu,Aileu,Aileu,10108
+Aldeia,Lerulete,Lerulete,Aileu,Aileu,10108
+Aldeia,Saboria,Saboria,Aileu,Aileu,10108
+Aldeia,Casamou,Casamou,Aileu,Aileu,10109
+Aldeia,Colihoho,Colihoho,Aileu,Aileu,10109
+Aldeia,Fatumane,Fatumane,Aileu,Aileu,10109
+Aldeia,Faularan,Faularan,Aileu,Aileu,10109
+Aldeia,Halalmeta,Halalmeta,Aileu,Aileu,10109
+Aldeia,Leobraudu,Leobraudu,Aileu,Aileu,10109
+Aldeia,Lio,Lio,Aileu,Aileu,10109
+Aldeia,Raicoalefa,Raicoalefa,Aileu,Aileu,10109
+Aldeia,Tabulasi,Tabulasi,Aileu,Aileu,10109
+Aldeia,Talifurleu,Talifurleu,Aileu,Aileu,10109
+Aldeia,Cotbauru,Cotbauru,Aileu,Aileu,10110
+Aldeia,Hularema,Hularema,Aileu,Aileu,10110
+Aldeia,Cabasfatin,Cabasfatin,Aileu,Aileu,10110
+Aldeia,Malere,Malere,Aileu,Aileu,10110
+Aldeia,Maurusa,Maurusa,Aileu,Aileu,10110
+Aldeia,Taratihi,Taratihi,Aileu,Aileu,10110
+Aldeia,Banderahun,Banderahun,Aileu,Aileu,10111
+Aldeia,Coulaudo,Coulaudo,Aileu,Aileu,10111
+Aldeia,Fatubessi,Fatubessi,Aileu,Aileu,10111
+Aldeia,Fatulmau,Fatulmau,Aileu,Aileu,10111
+Aldeia,Laclo,Laclo,Aileu,Aileu,10111
+Aldeia,Quirilelo,Quirilelo,Aileu,Aileu,10111
+Aldeia,Raimanso,Raimanso,Aileu,Aileu,10111
+Aldeia,Rairema,Rairema,Aileu,Aileu,10111
+Aldeia,Donfonamo,Donfonamo,Aileu,Laulara,10206
+Aldeia,Mauberhatan,Mauberhatan,Aileu,Laulara,10206
+Aldeia,Ermequi,Ermequi,Aileu,Laulara,10206
+Aldeia,Cuncin,Cuncin,Aileu,Laulara,10206
+Aldeia,Binona,Binona,Aileu,Laulara,10201
+Aldeia,Cotolau,Cotolau,Aileu,Laulara,10201
+Aldeia,Lebucucu,Lebucucu,Aileu,Laulara,10201
+Aldeia,Ornai,Ornai,Aileu,Laulara,10201
+Aldeia,Ramerlau,Ramerlau,Aileu,Laulara,10201
+Aldeia,Banro,Banro,Aileu,Laulara,10202
+Aldeia,Maubouc,Maubouc,Aileu,Laulara,10202
+Aldeia,Umanlau,Umanlau,Aileu,Laulara,10202
+Aldeia,Belumhatu,Belumhatu,Aileu,Laulara,10203
+Aldeia,Desmanhata,Desmanhata,Aileu,Laulara,10203
+Aldeia,Lismori,Lismori,Aileu,Laulara,10203
+Aldeia,Manehalo,Manehalo,Aileu,Laulara,10203
+Aldeia,Manufoni,Manufoni,Aileu,Laulara,10203
+Aldeia,Remapati,Remapati,Aileu,Laulara,10203
+Aldeia,Casmantutu,Casmantutu,Aileu,Laulara,10204
+Aldeia,Fatuc-Hun,Fatuc-Hun,Aileu,Laulara,10204
+Aldeia,Quelae,Quelae,Aileu,Laulara,10204
+Aldeia,Talitu,Talitu,Aileu,Laulara,10204
+Aldeia,Acadiro,Acadiro,Aileu,Laulara,10205
+Aldeia,Berlihu-Meta,Berlihu-Meta,Aileu,Laulara,10205
+Aldeia,Tohumeta,Tohumeta,Aileu,Laulara,10205
+Aldeia,Acumata,Acumata,Aileu,Lequidoe,10301
+Aldeia,Biiloco,Biiloco,Aileu,Lequidoe,10301
+Aldeia,Hautoho,Hautoho,Aileu,Lequidoe,10301
+Aldeia,Bereleu,Bereleu,Aileu,Lequidoe,10302
+Aldeia,Lebumetan,Lebumetan,Aileu,Lequidoe,10302
+Aldeia,Lebutu,Lebutu,Aileu,Lequidoe,10302
+Aldeia,Riamori,Riamori,Aileu,Lequidoe,10302
+Aldeia,Tataresi,Tataresi,Aileu,Lequidoe,10302
+Aldeia,Lebutun,Lebutun,Aileu,Lequidoe,10303
+Aldeia,Naumata,Naumata,Aileu,Lequidoe,10303
+Aldeia,Sarabere,Sarabere,Aileu,Lequidoe,10303
+Aldeia,Dailorluta,Dailorluta,Aileu,Lequidoe,10304
+Aldeia,Locotoi,Locotoi,Aileu,Lequidoe,10304
+Aldeia,Tatilisame,Tatilisame,Aileu,Lequidoe,10304
+Aldeia,Cairema,Cairema,Aileu,Lequidoe,10305
+Aldeia,Lebumeran,Lebumeran,Aileu,Lequidoe,10305
+Aldeia,Fatumerin,Fatumerin,Aileu,Lequidoe,10306
+Aldeia,Manutai,Manutai,Aileu,Lequidoe,10306
+Aldeia,Aitoin,Aitoin,Aileu,Lequidoe,10307
+Aldeia,Lacabou,Lacabou,Aileu,Lequidoe,10307
+Aldeia,Maucurunamo,Maucurunamo,Aileu,Lequidoe,10307
+Aldeia,Serema,Serema,Aileu,Lequidoe,10307
+Aldeia,Aimerahun,Aimerahun,Aileu,Remexio,10401
+Aldeia,Fatumanaro,Fatumanaro,Aileu,Remexio,10401
+Aldeia,Leroliça,Leroliça,Aileu,Remexio,10401
+Aldeia,Lequiça,Lequiça,Aileu,Remexio,10402
+Aldeia,Lilitei,Lilitei,Aileu,Remexio,10402
+Aldeia,Raifatu,Raifatu,Aileu,Remexio,10402
+Aldeia,Rileu,Rileu,Aileu,Remexio,10402
+Aldeia,Bereliurai,Bereliurai,Aileu,Remexio,10403
+Aldeia,Deruhati,Deruhati,Aileu,Remexio,10403
+Aldeia,Mautoba,Mautoba,Aileu,Remexio,10403
+Aldeia,Bereliço,Bereliço,Aileu,Remexio,10404
+Aldeia,Caitaso,Caitaso,Aileu,Remexio,10404
+Aldeia,Faculau,Faculau,Aileu,Remexio,10404
+Aldeia,Raemerhei,Raemerhei,Aileu,Remexio,10404
+Aldeia,Aibutihun,Aibutihun,Aileu,Remexio,10405
+Aldeia,Lebutu,Lebutu,Aileu,Remexio,10405
+Aldeia,Raemerhei,Raemerhei,Aileu,Remexio,10405
+Aldeia,Aibana,Aibana,Aileu,Remexio,10406
+Aldeia,Aitoi,Aitoi,Aileu,Remexio,10406
+Aldeia,Tuqueu,Tuqueu,Aileu,Remexio,10406
+Aldeia,Cotomori,Cotomori,Aileu,Remexio,10407
+Aldeia,Laraluha,Laraluha,Aileu,Remexio,10407
+Aldeia,Manutane,Manutane,Aileu,Remexio,10407
+Aldeia,Aicurus,Aicurus,Aileu,Remexio,10408
+Aldeia,Dacilelo,Dacilelo,Aileu,Remexio,10408
+Aldeia,Roluli,Roluli,Aileu,Remexio,10408
+Aldeia,Samalete,Samalete,Aileu,Remexio,10408
+Aldeia,Ainaro,Ainaro,Ainaro,Ainaro,20101
+Aldeia,Builico,Builico,Ainaro,Ainaro,20101
+Aldeia,Hato-Mera,Hato-Mera,Ainaro,Ainaro,20101
+Aldeia,Lugatú,Lugatú,Ainaro,Ainaro,20101
+Aldeia,Nugufú,Nugufú,Ainaro,Ainaro,20101
+Aldeia,Sebagulau,Sebagulau,Ainaro,Ainaro,20101
+Aldeia,Teliga,Teliga,Ainaro,Ainaro,20101
+Aldeia,Boltama,Boltama,Ainaro,Ainaro,20102
+Aldeia,Civil,Civil,Ainaro,Ainaro,20102
+Aldeia,Lailima,Lailima,Ainaro,Ainaro,20102
+Aldeia,Mau-Suca_Bemoris,Mau-Suca Bemoris,Ainaro,Ainaro,20102
+Aldeia,Queça-Mau,Queça-Mau,Ainaro,Ainaro,20102
+Aldeia,Bau-Hati-Lau,Bau-Hati-Lau,Ainaro,Ainaro,20103
+Aldeia,Canudo,Canudo,Ainaro,Ainaro,20103
+Aldeia,Hato-Meta-Udo,Hato-Meta-Udo,Ainaro,Ainaro,20103
+Aldeia,Rae-Buti-Udo,Rae-Buti-Udo,Ainaro,Ainaro,20103
+Aldeia,Aileu,Aileu,Ainaro,Ainaro,20104
+Aldeia,Mama-Lau,Mama-Lau,Ainaro,Ainaro,20104
+Aldeia,Mau-Suca,Mau-Suca,Ainaro,Ainaro,20104
+Aldeia,Dagamessa,Dagamessa,Ainaro,Ainaro,20105
+Aldeia,Hato-Lau,Hato-Lau,Ainaro,Ainaro,20105
+Aldeia,Hato-Lelo,Hato-Lelo,Ainaro,Ainaro,20105
+Aldeia,Mau-Ulo-Pú,Mau-Ulo-Pú,Ainaro,Ainaro,20105
+Aldeia,Mau-Ulu-Lau,Mau-Ulu-Lau,Ainaro,Ainaro,20105
+Aldeia,Guer-Udo,Guer-Udo,Ainaro,Ainaro,20106
+Aldeia,Leolala,Leolala,Ainaro,Ainaro,20106
+Aldeia,Poelau,Poelau,Ainaro,Ainaro,20106
+Aldeia,Terlora,Terlora,Ainaro,Ainaro,20106
+Aldeia,Ailau,Ailau,Ainaro,Ainaro,20107
+Aldeia,Bazar,Bazar,Ainaro,Ainaro,20107
+Aldeia,Nó-Ulo,Nó-Ulo,Ainaro,Ainaro,20107
+Aldeia,Ria-Mori,Ria-Mori,Ainaro,Ainaro,20107
+Aldeia,Ailora,Ailora,Ainaro,Hato-Udo,20201
+Aldeia,Ainaro-Quic,Ainaro-Quic,Ainaro,Hato-Udo,20201
+Aldeia,Baha,Baha,Ainaro,Hato-Udo,20201
+Aldeia,Lebo-Mera,Lebo-Mera,Ainaro,Hato-Udo,20201
+Aldeia,Lesso,Lesso,Ainaro,Hato-Udo,20201
+Aldeia,Raimerlau,Raimerlau,Ainaro,Hato-Udo,20201
+Aldeia,Aimerleu,Aimerleu,Ainaro,Hato-Udo,20202
+Aldeia,Dausur,Dausur,Ainaro,Hato-Udo,20202
+Aldeia,Goulau,Goulau,Ainaro,Hato-Udo,20202
+Aldeia,Groto,Groto,Ainaro,Hato-Udo,20202
+Aldeia,Hutseo,Hutseo,Ainaro,Hato-Udo,20202
+Aldeia,Lesse,Lesse,Ainaro,Hato-Udo,20202
+Aldeia,Luro,Luro,Ainaro,Hato-Udo,20202
+Aldeia,Nuno-Boco,Nuno-Boco,Ainaro,Hato-Udo,20202
+Aldeia,Rae-Soro,Rae-Soro,Ainaro,Hato-Udo,20202
+Aldeia,Suro-Craic,Suro-Craic,Ainaro,Hato-Udo,20202
+Aldeia,Goulora,Goulora,Ainaro,Hato-Builico,20301
+Aldeia,Hato-Quero,Hato-Quero,Ainaro,Hato-Builico,20301
+Aldeia,Leotelo_I,Leotelo I,Ainaro,Hato-Builico,20301
+Aldeia,Leotelo_II,Leotelo II,Ainaro,Hato-Builico,20301
+Aldeia,Mauchiga,Mauchiga,Ainaro,Hato-Builico,20301
+Aldeia,Aituto,Aituto,Ainaro,Hato-Builico,20302
+Aldeia,Bleheto,Bleheto,Ainaro,Hato-Builico,20302
+Aldeia,Hautio,Hautio,Ainaro,Hato-Builico,20302
+Aldeia,Mano-Mera,Mano-Mera,Ainaro,Hato-Builico,20302
+Aldeia,Maulahulo,Maulahulo,Ainaro,Hato-Builico,20302
+Aldeia,Mulo,Mulo,Ainaro,Hato-Builico,20302
+Aldeia,Queorudo,Queorudo,Ainaro,Hato-Builico,20302
+Aldeia,Tatiri,Tatiri,Ainaro,Hato-Builico,20302
+Aldeia,Hato-Builico,Hato-Builico,Ainaro,Hato-Builico,20303
+Aldeia,Hato-Seraquei,Hato-Seraquei,Ainaro,Hato-Builico,20303
+Aldeia,Laqueco,Laqueco,Ainaro,Hato-Builico,20303
+Aldeia,Lebulau,Lebulau,Ainaro,Hato-Builico,20303
+Aldeia,Mausoromata,Mausoromata,Ainaro,Hato-Builico,20303
+Aldeia,Nuno-Mogue-Lau,Nuno-Mogue-Lau,Ainaro,Hato-Builico,20303
+Aldeia,Qeorema,Qeorema,Ainaro,Hato-Builico,20303
+Aldeia,Tucaro,Tucaro,Ainaro,Hato-Builico,20303
+Aldeia,Aihou,Aihou,Ainaro,Maubisse,20401
+Aldeia,Airaca-Lau,Airaca-Lau,Ainaro,Maubisse,20401
+Aldeia,Betulala,Betulala,Ainaro,Maubisse,20401
+Aldeia,Goulolo,Goulolo,Ainaro,Maubisse,20401
+Aldeia,Hato-Buti,Hato-Buti,Ainaro,Maubisse,20401
+Aldeia,Lebututo,Lebututo,Ainaro,Maubisse,20401
+Aldeia,Lientuto,Lientuto,Ainaro,Maubisse,20401
+Aldeia,Mau-Lefo,Mau-Lefo,Ainaro,Maubisse,20401
+Aldeia,Russulau,Russulau,Ainaro,Maubisse,20401
+Aldeia,Demutete,Demutete,Ainaro,Maubisse,20402
+Aldeia,Hebau,Hebau,Ainaro,Maubisse,20402
+Aldeia,Lobibo,Lobibo,Ainaro,Maubisse,20402
+Aldeia,Rai-Mera,Rai-Mera,Ainaro,Maubisse,20402
+Aldeia,Talale,Talale,Ainaro,Maubisse,20402
+Aldeia,Tali-Felo,Tali-Felo,Ainaro,Maubisse,20402
+Aldeia,Caitara,Caitara,Ainaro,Maubisse,20403
+Aldeia,Cassimidei,Cassimidei,Ainaro,Maubisse,20403
+Aldeia,Hohulo,Hohulo,Ainaro,Maubisse,20403
+Aldeia,Rae-Buti-Lau,Rae-Buti-Lau,Ainaro,Maubisse,20403
+Aldeia,Titibauria,Titibauria,Ainaro,Maubisse,20403
+Aldeia,Tutu-Fili,Tutu-Fili,Ainaro,Maubisse,20403
+Aldeia,Cartolo,Cartolo,Ainaro,Maubisse,20404
+Aldeia,Gourema,Gourema,Ainaro,Maubisse,20404
+Aldeia,Hatussao,Hatussao,Ainaro,Maubisse,20404
+Aldeia,Lau-Heli,Lau-Heli,Ainaro,Maubisse,20404
+Aldeia,Bere-Tai,Bere-Tai,Ainaro,Maubisse,20405
+Aldeia,Erbean,Erbean,Ainaro,Maubisse,20405
+Aldeia,Hoho-Naro,Hoho-Naro,Ainaro,Maubisse,20405
+Aldeia,Mau-Mude,Mau-Mude,Ainaro,Maubisse,20405
+Aldeia,Cotomata,Cotomata,Ainaro,Maubisse,20406
+Aldeia,Ernaro,Ernaro,Ainaro,Maubisse,20406
+Aldeia,Hautei,Hautei,Ainaro,Maubisse,20406
+Aldeia,Hautilo,Hautilo,Ainaro,Maubisse,20406
+Aldeia,Boro-Ulo,Boro-Ulo,Ainaro,Maubisse,20407
+Aldeia,Dau-Lelo,Dau-Lelo,Ainaro,Maubisse,20407
+Aldeia,Hahi-Tali,Hahi-Tali,Ainaro,Maubisse,20407
+Aldeia,Lebo-Luli,Lebo-Luli,Ainaro,Maubisse,20407
+Aldeia,Mau-Lai,Mau-Lai,Ainaro,Maubisse,20407
+Aldeia,Quiri-Coli,Quiri-Coli,Ainaro,Maubisse,20407
+Aldeia,Russulau,Russulau,Ainaro,Maubisse,20407
+Aldeia,Cano-Rema,Cano-Rema,Ainaro,Maubisse,20408
+Aldeia,Goulala,Goulala,Ainaro,Maubisse,20408
+Aldeia,Hato-Fae,Hato-Fae,Ainaro,Maubisse,20408
+Aldeia,Hato-Luli,Hato-Luli,Ainaro,Maubisse,20408
+Aldeia,Hautado,Hautado,Ainaro,Maubisse,20408
+Aldeia,Lequi-Tei,Lequi-Tei,Ainaro,Maubisse,20408
+Aldeia,Ria-Leco,Ria-Leco,Ainaro,Maubisse,20408
+Aldeia,Ria-Mori,Ria-Mori,Ainaro,Maubisse,20408
+Aldeia,Sarlala,Sarlala,Ainaro,Maubisse,20408
+Aldeia,Teli-Tuco,Teli-Tuco,Ainaro,Maubisse,20408
+Aldeia,Ura-Hou,Ura-Hou,Ainaro,Maubisse,20408
+Aldeia,Vila,Vila,Ainaro,Maubisse,20408
+Aldeia,Aihosan,Aihosan,Ainaro,Maubisse,20409
+Aldeia,Hahi-Mau,Hahi-Mau,Ainaro,Maubisse,20409
+Aldeia,Hato-Cade,Hato-Cade,Ainaro,Maubisse,20409
+Aldeia,Hato-Lete,Hato-Lete,Ainaro,Maubisse,20409
+Aldeia,Laca-Mali-Cau,Laca-Mali-Cau,Ainaro,Maubisse,20409
+Aldeia,Lumo-Luli,Lumo-Luli,Ainaro,Maubisse,20409
+Aldeia,Maleria,Maleria,Ainaro,Maubisse,20409
+Aldeia,Rita,Rita,Ainaro,Maubisse,20409
+Aldeia,Tara-Bula,Tara-Bula,Ainaro,Maubisse,20409
+Aldeia,Ussululi,Ussululi,Ainaro,Maubisse,20409
+Aldeia,Buibela,Buibela,Baucau,Baguia,30101
+Aldeia,Lena,Lena,Baucau,Baguia,30101
+Aldeia,Oqui-Lari,Oqui-Lari,Baucau,Baguia,30101
+Aldeia,Uai-Mata,Uai-Mata,Baucau,Baguia,30101
+Aldeia,Afaguia,Afaguia,Baucau,Baguia,30102
+Aldeia,Alaua,Alaua,Baucau,Baguia,30102
+Aldeia,Ne-Olidae,Ne-Olidae,Baucau,Baguia,30102
+Aldeia,Sorucama,Sorucama,Baucau,Baguia,30102
+Aldeia,Ua-Sufa,Ua-Sufa,Baucau,Baguia,30102
+Aldeia,Ae-Afa,Ae-Afa,Baucau,Baguia,30103
+Aldeia,Alaua,Alaua,Baucau,Baguia,30103
+Aldeia,Bibilalari,Bibilalari,Baucau,Baguia,30103
+Aldeia,Maurubi-Asa,Maurubi-Asa,Baucau,Baguia,30103
+Aldeia,Selibere,Selibere,Baucau,Baguia,30103
+Aldeia,Defauasi,Defauasi,Baucau,Baguia,30104
+Aldeia,Lari-Bere,Lari-Bere,Baucau,Baguia,30104
+Aldeia,Sae-Meta,Sae-Meta,Baucau,Baguia,30104
+Aldeia,Uarou,Uarou,Baucau,Baguia,30104
+Aldeia,Afalari,Afalari,Baucau,Baguia,30105
+Aldeia,Bahatata,Bahatata,Baucau,Baguia,30105
+Aldeia,Basarauai,Basarauai,Baucau,Baguia,30105
+Aldeia,Lari_Sula,Lari Sula,Baucau,Baguia,30105
+Aldeia,Larigua,Larigua,Baucau,Baguia,30105
+Aldeia,Uaiboro,Uaiboro,Baucau,Baguia,30105
+Aldeia,Baiana,Baiana,Baucau,Baguia,30106
+Aldeia,Bibidae,Bibidae,Baucau,Baguia,30106
+Aldeia,Bubu-Ha,Bubu-Ha,Baucau,Baguia,30106
+Aldeia,Lauhare,Lauhare,Baucau,Baguia,30106
+Aldeia,Tirifalo,Tirifalo,Baucau,Baguia,30106
+Aldeia,Uata_Tefo,Uata Tefo,Baucau,Baguia,30106
+Aldeia,Uro,Uro,Baucau,Baguia,30106
+Aldeia,Fanalolo,Fanalolo,Baucau,Baguia,30107
+Aldeia,Ledana,Ledana,Baucau,Baguia,30107
+Aldeia,Onortibalari,Onortibalari,Baucau,Baguia,30107
+Aldeia,Osso_Issi_Lari,Osso Issi Lari,Baucau,Baguia,30107
+Aldeia,Uabubo,Uabubo,Baucau,Baguia,30107
+Aldeia,Betulari,Betulari,Baucau,Baguia,30108
+Aldeia,Uaibuita'I,Uaibuita'I,Baucau,Baguia,30108
+Aldeia,Uaicadae,Uaicadae,Baucau,Baguia,30108
+Aldeia,Daraloi_Leten,Daraloi Leten,Baucau,Baguia,30109
+Aldeia,Daraloi-Craic,Daraloi-Craic,Baucau,Baguia,30109
+Aldeia,Iraosso,Iraosso,Baucau,Baguia,30109
+Aldeia,Taubere,Taubere,Baucau,Baguia,30109
+Aldeia,Baboro,Baboro,Baucau,Baguia,30110
+Aldeia,Baiafa,Baiafa,Baucau,Baguia,30110
+Aldeia,Betu-Muto,Betu-Muto,Baucau,Baguia,30110
+Aldeia,Uacala,Uacala,Baucau,Baguia,30110
+Aldeia,Ana-Ulo,Ana-Ulo,Baucau,Baucau,30201
+Aldeia,Boi-Le,Boi-Le,Baucau,Baucau,30201
+Aldeia,Lamegua,Lamegua,Baucau,Baucau,30201
+Aldeia,Macadai,Macadai,Baucau,Baucau,30201
+Aldeia,Ro-Ulo,Ro-Ulo,Baucau,Baucau,30201
+Aldeia,Aubaca,Aubaca,Baucau,Baucau,30202
+Aldeia,Lequi_Loi_Uato,Lequi Loi Uato,Baucau,Baucau,30202
+Aldeia,Luliheni,Luliheni,Baucau,Baucau,30202
+Aldeia,Macadai_De_Baixo,Macadai De Baixo,Baucau,Baucau,30202
+Aldeia,Macadai_De_Cima,Macadai De Cima,Baucau,Baucau,30202
+Aldeia,Uaisemo,Uaisemo,Baucau,Baucau,30202
+Aldeia,Alala,Alala,Baucau,Baucau,30203
+Aldeia,Buibau,Buibau,Baucau,Baucau,30203
+Aldeia,Builai,Builai,Baucau,Baucau,30203
+Aldeia,Loidua,Loidua,Baucau,Baucau,30203
+Aldeia,Manulai,Manulai,Baucau,Baucau,30203
+Aldeia,Samalaculiba,Samalaculiba,Baucau,Baucau,30203
+Aldeia,Casmuto,Casmuto,Baucau,Baucau,30204
+Aldeia,Ono-Sere,Ono-Sere,Baucau,Baucau,30204
+Aldeia,Soli-Ua,Soli-Ua,Baucau,Baucau,30204
+Aldeia,Taci,Taci,Baucau,Baucau,30204
+Aldeia,Ana-Uaro,Ana-Uaro,Baucau,Baucau,30205
+Aldeia,Boru-Baha,Boru-Baha,Baucau,Baucau,30205
+Aldeia,Caiobilale,Caiobilale,Baucau,Baucau,30205
+Aldeia,Data-Ua,Data-Ua,Baucau,Baucau,30205
+Aldeia,Haurobu,Haurobu,Baucau,Baucau,30205
+Aldeia,Maulame,Maulame,Baucau,Baucau,30205
+Aldeia,Uani-Ama,Uani-Ama,Baucau,Baucau,30205
+Aldeia,Bahamori,Bahamori,Baucau,Baucau,30206
+Aldeia,Cairiri,Cairiri,Baucau,Baucau,30206
+Aldeia,Darasula,Darasula,Baucau,Baucau,30206
+Aldeia,Gariuai,Gariuai,Baucau,Baucau,30206
+Aldeia,Maucale,Maucale,Baucau,Baucau,30206
+Aldeia,Uaibehana,Uaibehana,Baucau,Baucau,30206
+Aldeia,Uatu-Ua,Uatu-Ua,Baucau,Baucau,30206
+Aldeia,Uaturau,Uaturau,Baucau,Baucau,30206
+Aldeia,Festau,Festau,Baucau,Baucau,30207
+Aldeia,Ossoluga,Ossoluga,Baucau,Baucau,30207
+Aldeia,Samalari,Samalari,Baucau,Baucau,30207
+Aldeia,Sorulai,Sorulai,Baucau,Baucau,30207
+Aldeia,Ague,Ague,Baucau,Baucau,30208
+Aldeia,Hene-Uabubo,Hene-Uabubo,Baucau,Baucau,30208
+Aldeia,Lacoda,Lacoda,Baucau,Baucau,30208
+Aldeia,Loiborouai,Loiborouai,Baucau,Baucau,30208
+Aldeia,Umaquerec,Umaquerec,Baucau,Baucau,30208
+Aldeia,Betulale,Betulale,Baucau,Baucau,30209
+Aldeia,Caicido,Caicido,Baucau,Baucau,30209
+Aldeia,Lialailesso,Lialailesso,Baucau,Baucau,30209
+Aldeia,Lutumuto,Lutumuto,Baucau,Baucau,30209
+Aldeia,Osso-Ua,Osso-Ua,Baucau,Baucau,30209
+Aldeia,Parlamento,Parlamento,Baucau,Baucau,30209
+Aldeia,Aubaca,Aubaca,Baucau,Baucau,30210
+Aldeia,Bado-Ho'O,Bado-Ho'O,Baucau,Baucau,30210
+Aldeia,Lequiloi_Uato,Lequiloi Uato,Baucau,Baucau,30210
+Aldeia,Macadai,Macadai,Baucau,Baucau,30210
+Aldeia,Afacaimau,Afacaimau,Baucau,Baucau,30211
+Aldeia,Afagua,Afagua,Baucau,Baucau,30211
+Aldeia,Alala,Alala,Baucau,Baucau,30211
+Aldeia,Ledatame,Ledatame,Baucau,Baucau,30211
+Aldeia,Manulai,Manulai,Baucau,Baucau,30211
+Aldeia,Samalaculiba,Samalaculiba,Baucau,Baucau,30211
+Aldeia,Uaimanuboe,Uaimanuboe,Baucau,Baucau,30211
+Aldeia,Uatubala,Uatubala,Baucau,Baucau,30211
+Aldeia,Uaturau_De_Baixo,Uaturau De Baixo,Baucau,Baucau,30211
+Aldeia,Uaturau_De_Cima,Uaturau De Cima,Baucau,Baucau,30211
+Aldeia,Atelari,Atelari,Baucau,Laga,30301
+Aldeia,Auraba,Auraba,Baucau,Laga,30301
+Aldeia,Lauadae,Lauadae,Baucau,Laga,30301
+Aldeia,Liarafa,Liarafa,Baucau,Laga,30301
+Aldeia,Loilari,Loilari,Baucau,Laga,30301
+Aldeia,Nelu_Uai,Nelu Uai,Baucau,Laga,30301
+Aldeia,Samagata,Samagata,Baucau,Laga,30301
+Aldeia,Siguilaba,Siguilaba,Baucau,Laga,30301
+Aldeia,Sirimana,Sirimana,Baucau,Laga,30301
+Aldeia,Uatalofo,Uatalofo,Baucau,Laga,30301
+Aldeia,Buibata,Buibata,Baucau,Laga,30302
+Aldeia,Larimuta,Larimuta,Baucau,Laga,30302
+Aldeia,Larino,Larino,Baucau,Laga,30302
+Aldeia,Libagua,Libagua,Baucau,Laga,30302
+Aldeia,Tirilolo,Tirilolo,Baucau,Laga,30302
+Aldeia,Borulau,Borulau,Baucau,Laga,30303
+Aldeia,Buscaulari,Buscaulari,Baucau,Laga,30303
+Aldeia,Lalulai,Lalulai,Baucau,Laga,30303
+Aldeia,Loilaco,Loilaco,Baucau,Laga,30303
+Aldeia,Uasilaua,Uasilaua,Baucau,Laga,30303
+Aldeia,Bubuloma,Bubuloma,Baucau,Laga,30304
+Aldeia,Lari-Ledana,Lari-Ledana,Baucau,Laga,30304
+Aldeia,Lari_Sula,Lari Sula,Baucau,Laga,30304
+Aldeia,Lari_Tau,Lari Tau,Baucau,Laga,30304
+Aldeia,Lau_Hare,Lau Hare,Baucau,Laga,30304
+Aldeia,Riadae,Riadae,Baucau,Laga,30304
+Aldeia,Saelari,Saelari,Baucau,Laga,30304
+Aldeia,Samalolo,Samalolo,Baucau,Laga,30304
+Aldeia,Terubala,Terubala,Baucau,Laga,30304
+Aldeia,Abuti,Abuti,Baucau,Laga,30305
+Aldeia,Alasafa,Alasafa,Baucau,Laga,30305
+Aldeia,Auraba,Auraba,Baucau,Laga,30305
+Aldeia,Beliuali,Beliuali,Baucau,Laga,30305
+Aldeia,Ia_Sula,Ia Sula,Baucau,Laga,30305
+Aldeia,Naha-Afa,Naha-Afa,Baucau,Laga,30305
+Aldeia,One-Bu'O,One-Bu'O,Baucau,Laga,30305
+Aldeia,Samagata,Samagata,Baucau,Laga,30305
+Aldeia,Selegua,Selegua,Baucau,Laga,30305
+Aldeia,Sire-Bu'U,Sire-Bu'U,Baucau,Laga,30305
+Aldeia,Ulabuti,Ulabuti,Baucau,Laga,30305
+Aldeia,Desagua,Desagua,Baucau,Laga,30306
+Aldeia,Lalu_Uai,Lalu Uai,Baucau,Laga,30306
+Aldeia,Lualari,Lualari,Baucau,Laga,30306
+Aldeia,Sae_Uata_Issi,Sae Uata Issi,Baucau,Laga,30306
+Aldeia,Samalari,Samalari,Baucau,Laga,30306
+Aldeia,Sorugua,Sorugua,Baucau,Laga,30306
+Aldeia,Ueru-Mata,Ueru-Mata,Baucau,Laga,30306
+Aldeia,Assa-Nuno,Assa-Nuno,Baucau,Laga,30307
+Aldeia,Bole_Ha,Bole Ha,Baucau,Laga,30307
+Aldeia,Butufalo,Butufalo,Baucau,Laga,30307
+Aldeia,Fatiliri,Fatiliri,Baucau,Laga,30307
+Aldeia,Heu-Uai,Heu-Uai,Baucau,Laga,30307
+Aldeia,Laicua,Laicua,Baucau,Laga,30307
+Aldeia,Bulubai,Bulubai,Baucau,Laga,30308
+Aldeia,Caicasalari,Caicasalari,Baucau,Laga,30308
+Aldeia,Iti-Daho,Iti-Daho,Baucau,Laga,30308
+Aldeia,Samaguia,Samaguia,Baucau,Laga,30308
+Aldeia,Assa-Loqui,Assa-Loqui,Baucau,Quelicai,30401
+Aldeia,Caranu,Caranu,Baucau,Quelicai,30401
+Aldeia,Mumana,Mumana,Baucau,Quelicai,30401
+Aldeia,Telaha,Telaha,Baucau,Quelicai,30401
+Aldeia,Abo_Cairedo,Abo Cairedo,Baucau,Quelicai,30402
+Aldeia,Abo-Da'E-Mena,Abo-Da'E-Mena,Baucau,Quelicai,30402
+Aldeia,Abo-Lir,Abo-Lir,Baucau,Quelicai,30402
+Aldeia,Abo-Matebian,Abo-Matebian,Baucau,Quelicai,30402
+Aldeia,Boralai,Boralai,Baucau,Quelicai,30403
+Aldeia,Uligata,Uligata,Baucau,Quelicai,30403
+Aldeia,Vecubuti,Vecubuti,Baucau,Quelicai,30403
+Aldeia,Butileo,Butileo,Baucau,Quelicai,30404
+Aldeia,Laua-Liu,Laua-Liu,Baucau,Quelicai,30404
+Aldeia,Saraida,Saraida,Baucau,Quelicai,30404
+Aldeia,Lialura,Lialura,Baucau,Quelicai,30405
+Aldeia,Osso-Messa,Osso-Messa,Baucau,Quelicai,30405
+Aldeia,Eu-Afa,Eu-Afa,Baucau,Quelicai,30406
+Aldeia,Fae-Ua,Fae-Ua,Baucau,Quelicai,30406
+Aldeia,Laculela,Laculela,Baucau,Quelicai,30406
+Aldeia,Saebere,Saebere,Baucau,Quelicai,30406
+Aldeia,Uadaboru,Uadaboru,Baucau,Quelicai,30406
+Aldeia,Lacodala,Lacodala,Baucau,Quelicai,30407
+Aldeia,Mucububo,Mucububo,Baucau,Quelicai,30407
+Aldeia,Uaule,Uaule,Baucau,Quelicai,30407
+Aldeia,Dara-Oma,Dara-Oma,Baucau,Quelicai,30408
+Aldeia,Lego,Lego,Baucau,Quelicai,30408
+Aldeia,Saua-Cassa,Saua-Cassa,Baucau,Quelicai,30408
+Aldeia,Ulu-Soro,Ulu-Soro,Baucau,Quelicai,30408
+Aldeia,Baticassa,Baticassa,Baucau,Quelicai,30409
+Aldeia,Uaidaba,Uaidaba,Baucau,Quelicai,30409
+Aldeia,Uata-Liu,Uata-Liu,Baucau,Quelicai,30409
+Aldeia,Dauaduca,Dauaduca,Baucau,Quelicai,30410
+Aldeia,Dessa,Dessa,Baucau,Quelicai,30410
+Aldeia,Maluro,Maluro,Baucau,Quelicai,30410
+Aldeia,Ossoliro,Ossoliro,Baucau,Quelicai,30410
+Aldeia,Lau-Mana,Lau-Mana,Baucau,Quelicai,30411
+Aldeia,Lebenei,Lebenei,Baucau,Quelicai,30411
+Aldeia,Manome,Manome,Baucau,Quelicai,30411
+Aldeia,Ruta,Ruta,Baucau,Quelicai,30411
+Aldeia,Uaidora,Uaidora,Baucau,Quelicai,30411
+Aldeia,Bocilai,Bocilai,Baucau,Quelicai,30412
+Aldeia,Defadae,Defadae,Baucau,Quelicai,30412
+Aldeia,Macalira,Macalira,Baucau,Quelicai,30412
+Aldeia,Loilubo-Uagua,Loilubo-Uagua,Baucau,Quelicai,30413
+Aldeia,Namanei,Namanei,Baucau,Quelicai,30413
+Aldeia,Samafalo,Samafalo,Baucau,Quelicai,30413
+Aldeia,Ua-Robo,Ua-Robo,Baucau,Quelicai,30413
+Aldeia,Cirilaco,Cirilaco,Baucau,Quelicai,30414
+Aldeia,Daicou,Daicou,Baucau,Quelicai,30414
+Aldeia,Loirae,Loirae,Baucau,Quelicai,30414
+Aldeia,Ua-Sufa,Ua-Sufa,Baucau,Quelicai,30414
+Aldeia,Caranu,Caranu,Baucau,Quelicai,30415
+Aldeia,Gamana,Gamana,Baucau,Quelicai,30415
+Aldeia,Gugulai,Gugulai,Baucau,Quelicai,30415
+Aldeia,Sialimo,Sialimo,Baucau,Quelicai,30415
+Aldeia,Bahamori,Bahamori,Baucau,Vemasse,30501
+Aldeia,Caicua,Caicua,Baucau,Vemasse,30501
+Aldeia,Caitaranau,Caitaranau,Baucau,Vemasse,30502
+Aldeia,Nunoti,Nunoti,Baucau,Vemasse,30502
+Aldeia,Uaidau,Uaidau,Baucau,Vemasse,30502
+Aldeia,Caidenulale,Caidenulale,Baucau,Vemasse,30503
+Aldeia,Hoineuai,Hoineuai,Baucau,Vemasse,30503
+Aldeia,Lolinuno,Lolinuno,Baucau,Vemasse,30503
+Aldeia,Uaicnassa,Uaicnassa,Baucau,Vemasse,30503
+Aldeia,Uma_Ana_Ico,Uma Ana Ico,Baucau,Vemasse,30503
+Aldeia,Bahamori,Bahamori,Baucau,Vemasse,30504
+Aldeia,Haunau,Haunau,Baucau,Vemasse,30504
+Aldeia,Ostico,Ostico,Baucau,Vemasse,30504
+Aldeia,Lari,Lari,Baucau,Vemasse,30505
+Aldeia,Mota,Mota,Baucau,Vemasse,30505
+Aldeia,Bahalale,Bahalale,Baucau,Vemasse,30506
+Aldeia,Naulale,Naulale,Baucau,Vemasse,30506
+Aldeia,Uaiharabo'O,Uaiharabo'O,Baucau,Vemasse,30506
+Aldeia,Betulale,Betulale,Baucau,Vemasse,30507
+Aldeia,Lor,Lor,Baucau,Vemasse,30507
+Aldeia,Oralan,Oralan,Baucau,Vemasse,30507
+Aldeia,Raha,Raha,Baucau,Vemasse,30507
+Aldeia,Uaibobo,Uaibobo,Baucau,Venilale,30601
+Aldeia,Uaicana,Uaicana,Baucau,Venilale,30601
+Aldeia,Uataula,Uataula,Baucau,Venilale,30601
+Aldeia,Uatubela_Oli,Uatubela Oli,Baucau,Venilale,30601
+Aldeia,Uma_Ana_Ico,Uma Ana Ico,Baucau,Venilale,30601
+Aldeia,Caimale-Ho'O,Caimale-Ho'O,Baucau,Venilale,30602
+Aldeia,Cumo-Oli,Cumo-Oli,Baucau,Venilale,30602
+Aldeia,Laco-Uma,Laco-Uma,Baucau,Venilale,30602
+Aldeia,Lia-Oli,Lia-Oli,Baucau,Venilale,30602
+Aldeia,Neo-Ho'O,Neo-Ho'O,Baucau,Venilale,30602
+Aldeia,Uai-Toqui,Uai-Toqui,Baucau,Venilale,30602
+Aldeia,Bahadato,Bahadato,Baucau,Venilale,30603
+Aldeia,Osso-Uaque,Osso-Uaque,Baucau,Venilale,30603
+Aldeia,Uai-To-Bono,Uai-To-Bono,Baucau,Venilale,30603
+Aldeia,Uatulia-Ana,Uatulia-Ana,Baucau,Venilale,30603
+Aldeia,Aca_Uatu,Aca Uatu,Baucau,Venilale,30604
+Aldeia,Luli_Bau,Luli Bau,Baucau,Venilale,30604
+Aldeia,Ualae,Ualae,Baucau,Venilale,30604
+Aldeia,Uatu_Missa,Uatu Missa,Baucau,Venilale,30604
+Aldeia,Caihurulale_De_Baixo,Caihurulale De Baixo,Baucau,Venilale,30605
+Aldeia,Caihurulale_De_Cima,Caihurulale De Cima,Baucau,Venilale,30605
+Aldeia,Caubai,Caubai,Baucau,Venilale,30605
+Aldeia,Luha_Oli,Luha Oli,Baucau,Venilale,30605
+Aldeia,Lia_Bala,Lia Bala,Baucau,Venilale,30606
+Aldeia,Ossogori,Ossogori,Baucau,Venilale,30606
+Aldeia,Uai-Tali-Bu'U,Uai-Tali-Bu'U,Baucau,Venilale,30606
+Aldeia,Uatu_Uasa,Uatu Uasa,Baucau,Venilale,30606
+Aldeia,Betunau,Betunau,Baucau,Venilale,30607
+Aldeia,Quele-Boro-Uai,Quele-Boro-Uai,Baucau,Venilale,30607
+Aldeia,Uai-Te,Uai-Te,Baucau,Venilale,30607
+Aldeia,Uatu-Nau,Uatu-Nau,Baucau,Venilale,30607
+Aldeia,Caihula,Caihula,Baucau,Venilale,30608
+Aldeia,Nuno_Doco,Nuno Doco,Baucau,Venilale,30608
+Aldeia,Osso-Gui-Gui,Osso-Gui-Gui,Baucau,Venilale,30608
+Aldeia,Venilale,Venilale,Baucau,Venilale,30608
+Aldeia,Aidabaleten,Aidabaleten,Bobonaro,Atabae,40101
+Aldeia,Biacou,Biacou,Bobonaro,Atabae,40101
+Aldeia,Harame,Harame,Bobonaro,Atabae,40101
+Aldeia,Meguir,Meguir,Bobonaro,Atabae,40101
+Aldeia,Sulilaran,Sulilaran,Bobonaro,Atabae,40101
+Aldeia,Tasi_Mean,Tasi Mean,Bobonaro,Atabae,40101
+Aldeia,Tutubaba,Tutubaba,Bobonaro,Atabae,40101
+Aldeia,Fatubeis,Fatubeis,Bobonaro,Atabae,40102
+Aldeia,Helesu,Helesu,Bobonaro,Atabae,40102
+Aldeia,Lolocolo,Lolocolo,Bobonaro,Atabae,40102
+Aldeia,Made_Bau,Made Bau,Bobonaro,Atabae,40102
+Aldeia,Saburapo,Saburapo,Bobonaro,Atabae,40102
+Aldeia,Aidabaleten,Aidabaleten,Bobonaro,Atabae,40103
+Aldeia,Aidabasalala,Aidabasalala,Bobonaro,Atabae,40103
+Aldeia,Biamaraen,Biamaraen,Bobonaro,Atabae,40103
+Aldeia,Boloi,Boloi,Bobonaro,Atabae,40103
+Aldeia,Faturase,Faturase,Bobonaro,Atabae,40104
+Aldeia,Limanaro,Limanaro,Bobonaro,Atabae,40104
+Aldeia,Rairobo,Rairobo,Bobonaro,Atabae,40104
+Aldeia,Vilamaria,Vilamaria,Bobonaro,Atabae,40104
+Aldeia,Amandato,Amandato,Bobonaro,Balibo,40201
+Aldeia,Atara,Atara,Bobonaro,Balibo,40201
+Aldeia,Balibo_Vila,Balibo Vila,Bobonaro,Balibo,40201
+Aldeia,Belola,Belola,Bobonaro,Balibo,40201
+Aldeia,Builekun,Builekun,Bobonaro,Balibo,40201
+Aldeia,Fatuk_Laran,Fatuk Laran,Bobonaro,Balibo,40201
+Aldeia,Fatululic,Fatululic,Bobonaro,Balibo,40201
+Aldeia,Batugade,Batugade,Bobonaro,Balibo,40202
+Aldeia,Lotan,Lotan,Bobonaro,Balibo,40202
+Aldeia,Nu_Badac,Nu Badac,Bobonaro,Balibo,40202
+Aldeia,Bauai,Bauai,Bobonaro,Balibo,40203
+Aldeia,Futatas,Futatas,Bobonaro,Balibo,40203
+Aldeia,Lalis,Lalis,Bobonaro,Balibo,40203
+Aldeia,Manehat,Manehat,Bobonaro,Balibo,40203
+Aldeia,Rai_Luli,Rai Luli,Bobonaro,Balibo,40203
+Aldeia,Aiasa,Aiasa,Bobonaro,Balibo,40204
+Aldeia,Faloai,Faloai,Bobonaro,Balibo,40204
+Aldeia,Feric_Catuas,Feric Catuas,Bobonaro,Balibo,40204
+Aldeia,Mohac,Mohac,Bobonaro,Balibo,40204
+Aldeia,Rai_Ulun,Rai Ulun,Bobonaro,Balibo,40204
+Aldeia,Bour,Bour,Bobonaro,Balibo,40205
+Aldeia,Duaderoc,Duaderoc,Bobonaro,Balibo,40205
+Aldeia,Faturui,Faturui,Bobonaro,Balibo,40205
+Aldeia,Raifatuc,Raifatuc,Bobonaro,Balibo,40205
+Aldeia,Caco,Caco,Bobonaro,Balibo,40206
+Aldeia,Palaca,Palaca,Bobonaro,Balibo,40206
+Aldeia,Subaleco,Subaleco,Bobonaro,Balibo,40206
+Aldeia,Ai-Assa,Ai-Assa,Bobonaro,Bobonaro,40301
+Aldeia,Aisalgusun,Aisalgusun,Bobonaro,Bobonaro,40301
+Aldeia,Laho,Laho,Bobonaro,Bobonaro,40301
+Aldeia,Mazop,Mazop,Bobonaro,Bobonaro,40301
+Aldeia,Oalgomo,Oalgomo,Bobonaro,Bobonaro,40301
+Aldeia,Odelgomo,Odelgomo,Bobonaro,Bobonaro,40301
+Aldeia,Atuaben,Atuaben,Bobonaro,Bobonaro,40302
+Aldeia,Talite,Talite,Bobonaro,Bobonaro,40302
+Aldeia,Lactil,Lactil,Bobonaro,Bobonaro,40303
+Aldeia,Lesigatal,Lesigatal,Bobonaro,Bobonaro,40303
+Aldeia,Tuluata,Tuluata,Bobonaro,Bobonaro,40303
+Aldeia,Atumnaro,Atumnaro,Bobonaro,Bobonaro,40304
+Aldeia,Carabau,Carabau,Bobonaro,Bobonaro,40304
+Aldeia,Nunubuti,Nunubuti,Bobonaro,Bobonaro,40304
+Aldeia,Tasibalu,Tasibalu,Bobonaro,Bobonaro,40304
+Aldeia,Udu-Ai,Udu-Ai,Bobonaro,Bobonaro,40304
+Aldeia,Atublogo,Atublogo,Bobonaro,Bobonaro,40305
+Aldeia,Beamoas,Beamoas,Bobonaro,Bobonaro,40305
+Aldeia,Lo'O_Dasi,Lo'O Dasi,Bobonaro,Bobonaro,40305
+Aldeia,Manunia,Manunia,Bobonaro,Bobonaro,40305
+Aldeia,Tegoabe,Tegoabe,Bobonaro,Bobonaro,40305
+Aldeia,Aimeta,Aimeta,Bobonaro,Bobonaro,40306
+Aldeia,Oboe,Oboe,Bobonaro,Bobonaro,40306
+Aldeia,Ilat-Laun,Ilat-Laun,Bobonaro,Bobonaro,40307
+Aldeia,Purugoa,Purugoa,Bobonaro,Bobonaro,40307
+Aldeia,Tunero,Tunero,Bobonaro,Bobonaro,40307
+Aldeia,Butuc,Butuc,Bobonaro,Bobonaro,40308
+Aldeia,Holbese,Holbese,Bobonaro,Bobonaro,40308
+Aldeia,Holsa_Taz,Holsa Taz,Bobonaro,Bobonaro,40308
+Aldeia,Leber-Taz,Leber-Taz,Bobonaro,Bobonaro,40308
+Aldeia,Mabelis,Mabelis,Bobonaro,Bobonaro,40308
+Aldeia,Galitaz,Galitaz,Bobonaro,Bobonaro,40309
+Aldeia,Heliquei,Heliquei,Bobonaro,Bobonaro,40309
+Aldeia,Olo-Olo,Olo-Olo,Bobonaro,Bobonaro,40309
+Aldeia,Tazgolo,Tazgolo,Bobonaro,Bobonaro,40309
+Aldeia,Gumer,Gumer,Bobonaro,Bobonaro,40310
+Aldeia,Lourba_Leten,Lourba Leten,Bobonaro,Bobonaro,40310
+Aldeia,Sordoli,Sordoli,Bobonaro,Bobonaro,40310
+Aldeia,Zo-Belis,Zo-Belis,Bobonaro,Bobonaro,40310
+Aldeia,Atu_Lara,Atu Lara,Bobonaro,Bobonaro,40311
+Aldeia,Hatu-Udu,Hatu-Udu,Bobonaro,Bobonaro,40311
+Aldeia,Licaubu,Licaubu,Bobonaro,Bobonaro,40311
+Aldeia,Maliubu,Maliubu,Bobonaro,Bobonaro,40311
+Aldeia,Nunupa,Nunupa,Bobonaro,Bobonaro,40311
+Aldeia,Malilu,Malilu,Bobonaro,Bobonaro,40312
+Aldeia,Malilait,Malilait,Bobonaro,Bobonaro,40312
+Aldeia,Taimea,Taimea,Bobonaro,Bobonaro,40312
+Aldeia,Anapal,Anapal,Bobonaro,Bobonaro,40313
+Aldeia,Lonlolo,Lonlolo,Bobonaro,Bobonaro,40313
+Aldeia,Molop_Taz,Molop Taz,Bobonaro,Bobonaro,40313
+Aldeia,Omelai,Omelai,Bobonaro,Bobonaro,40313
+Aldeia,Mologuen,Mologuen,Bobonaro,Bobonaro,40314
+Aldeia,Oeleo_Taz,Oeleo Taz,Bobonaro,Bobonaro,40314
+Aldeia,Holmesel,Holmesel,Bobonaro,Bobonaro,40315
+Aldeia,Mapeop,Mapeop,Bobonaro,Bobonaro,40315
+Aldeia,Sibuni,Sibuni,Bobonaro,Bobonaro,40315
+Aldeia,Ai-Aras,Ai-Aras,Bobonaro,Bobonaro,40316
+Aldeia,Soileco,Soileco,Bobonaro,Bobonaro,40316
+Aldeia,Oe-Po,Oe-Po,Bobonaro,Bobonaro,40317
+Aldeia,Tapo_Tas,Tapo Tas,Bobonaro,Bobonaro,40317
+Aldeia,Atupae,Atupae,Bobonaro,Bobonaro,40318
+Aldeia,Bugas,Bugas,Bobonaro,Bobonaro,40318
+Aldeia,Tebabui,Tebabui,Bobonaro,Bobonaro,40318
+Aldeia,Atubuti,Atubuti,Bobonaro,Cailaco,40401
+Aldeia,Biateho,Biateho,Bobonaro,Cailaco,40401
+Aldeia,Nuapu,Nuapu,Bobonaro,Cailaco,40401
+Aldeia,Tuturema,Tuturema,Bobonaro,Cailaco,40401
+Aldeia,Cauloco_Lete,Cauloco Lete,Bobonaro,Cailaco,40402
+Aldeia,Sah-Heu,Sah-Heu,Bobonaro,Cailaco,40402
+Aldeia,Ilat-Bote,Ilat-Bote,Bobonaro,Cailaco,40403
+Aldeia,Malilia,Malilia,Bobonaro,Cailaco,40403
+Aldeia,Poetete,Poetete,Bobonaro,Cailaco,40403
+Aldeia,Suri-Ubu,Suri-Ubu,Bobonaro,Cailaco,40403
+Aldeia,Biaboro,Biaboro,Bobonaro,Cailaco,40404
+Aldeia,Melemaga,Melemaga,Bobonaro,Cailaco,40404
+Aldeia,Tirimoso,Tirimoso,Bobonaro,Cailaco,40404
+Aldeia,Lugululi,Lugululi,Bobonaro,Cailaco,40405
+Aldeia,Tapomeac,Tapomeac,Bobonaro,Cailaco,40405
+Aldeia,Tatelori,Tatelori,Bobonaro,Cailaco,40405
+Aldeia,Berleu,Berleu,Bobonaro,Cailaco,40406
+Aldeia,Daulelo,Daulelo,Bobonaro,Cailaco,40406
+Aldeia,Liabote,Liabote,Bobonaro,Cailaco,40406
+Aldeia,Mude,Mude,Bobonaro,Cailaco,40406
+Aldeia,Heda,Heda,Bobonaro,Cailaco,40407
+Aldeia,Lesupu,Lesupu,Bobonaro,Cailaco,40407
+Aldeia,Daru_Asa,Daru Asa,Bobonaro,Cailaco,40408
+Aldeia,Lete_Aituto,Lete Aituto,Bobonaro,Cailaco,40408
+Aldeia,Ohoana,Ohoana,Bobonaro,Cailaco,40408
+Aldeia,Bou-Tal,Bou-Tal,Bobonaro,Lolotoe,40501
+Aldeia,Gole,Gole,Bobonaro,Lolotoe,40501
+Aldeia,Oe-Laca,Oe-Laca,Bobonaro,Lolotoe,40501
+Aldeia,Atos,Atos,Bobonaro,Lolotoe,40502
+Aldeia,Gildapil,Gildapil,Bobonaro,Lolotoe,40502
+Aldeia,Anon,Anon,Bobonaro,Lolotoe,40503
+Aldeia,Gudataz,Gudataz,Bobonaro,Lolotoe,40503
+Aldeia,Oceli,Oceli,Bobonaro,Lolotoe,40503
+Aldeia,Zoilpo,Zoilpo,Bobonaro,Lolotoe,40503
+Aldeia,Mabelis,Mabelis,Bobonaro,Lolotoe,40504
+Aldeia,Mapelai,Mapelai,Bobonaro,Lolotoe,40504
+Aldeia,Ozo,Ozo,Bobonaro,Lolotoe,40505
+Aldeia,Piron,Piron,Bobonaro,Lolotoe,40505
+Aldeia,Tasmil,Tasmil,Bobonaro,Lolotoe,40505
+Aldeia,Dilai,Dilai,Bobonaro,Lolotoe,40506
+Aldeia,Lupaltaz,Lupaltaz,Bobonaro,Lolotoe,40506
+Aldeia,Silagolo,Silagolo,Bobonaro,Lolotoe,40506
+Aldeia,Mape,Mape,Bobonaro,Lolotoe,40507
+Aldeia,Raimea,Raimea,Bobonaro,Lolotoe,40507
+Aldeia,Tepa,Tepa,Bobonaro,Lolotoe,40507
+Aldeia,Bilicou,Bilicou,Bobonaro,Maliana,40601
+Aldeia,Lolooa,Lolooa,Bobonaro,Maliana,40601
+Aldeia,Oplegul,Oplegul,Bobonaro,Maliana,40601
+Aldeia,Secar,Secar,Bobonaro,Maliana,40601
+Aldeia,Solugolo,Solugolo,Bobonaro,Maliana,40601
+Aldeia,Tas,Tas,Bobonaro,Maliana,40601
+Aldeia,Galusapulu,Galusapulu,Bobonaro,Maliana,40602
+Aldeia,Guenuha'An,Guenuha'An,Bobonaro,Maliana,40602
+Aldeia,Aculaca,Aculaca,Bobonaro,Maliana,40602
+Aldeia,Lahomea,Lahomea,Bobonaro,Maliana,40602
+Aldeia,Maliana,Maliana,Bobonaro,Maliana,40602
+Aldeia,Anahun,Anahun,Bobonaro,Maliana,40603
+Aldeia,Guenuha'An,Guenuha'An,Bobonaro,Maliana,40603
+Aldeia,Rai_Maten,Rai Maten,Bobonaro,Maliana,40603
+Aldeia,Rocon,Rocon,Bobonaro,Maliana,40603
+Aldeia,Nunutana,Nunutana,Bobonaro,Maliana,40604
+Aldeia,Raifun_Foho,Raifun Foho,Bobonaro,Maliana,40604
+Aldeia,Raifun_Vila,Raifun Vila,Bobonaro,Maliana,40604
+Aldeia,Cor_Luli,Cor Luli,Bobonaro,Maliana,40605
+Aldeia,Dai_Tete,Dai Tete,Bobonaro,Maliana,40605
+Aldeia,Diruaben,Diruaben,Bobonaro,Maliana,40605
+Aldeia,Halecou,Halecou,Bobonaro,Maliana,40605
+Aldeia,Ma'A_Hui,Ma'A Hui,Bobonaro,Maliana,40605
+Aldeia,Maganutu,Maganutu,Bobonaro,Maliana,40605
+Aldeia,Moleana,Moleana,Bobonaro,Maliana,40605
+Aldeia,Ritabou,Ritabou,Bobonaro,Maliana,40605
+Aldeia,Ritiudu,Ritiudu,Bobonaro,Maliana,40605
+Aldeia,Samelaun,Samelaun,Bobonaro,Maliana,40605
+Aldeia,Timatan,Timatan,Bobonaro,Maliana,40605
+Aldeia,Uat,Uat,Bobonaro,Maliana,40605
+Aldeia,Cossal,Cossal,Bobonaro,Maliana,40606
+Aldeia,Mabiloa,Mabiloa,Bobonaro,Maliana,40606
+Aldeia,Tazmasac,Tazmasac,Bobonaro,Maliana,40606
+Aldeia,Lepguen,Lepguen,Bobonaro,Maliana,40607
+Aldeia,Manu_Aman,Manu Aman,Bobonaro,Maliana,40607
+Aldeia,Pip_Galag_1,Pip Galag 1,Bobonaro,Maliana,40607
+Aldeia,Pip_Galag_2,Pip Galag 2,Bobonaro,Maliana,40607
+Aldeia,Tunu_Bibi,Tunu Bibi,Bobonaro,Maliana,40607
+Aldeia,Uluatin,Uluatin,Bobonaro,Maliana,40607
+Aldeia,Aitoun,Aitoun,Covalima,Fatululic,50101
+Aldeia,Beco,Beco,Covalima,Fatululic,50101
+Aldeia,Beidasi,Beidasi,Covalima,Fatululic,50101
+Aldeia,Fatuloro,Fatuloro,Covalima,Fatululic,50102
+Aldeia,Holba,Holba,Covalima,Fatululic,50102
+Aldeia,Lia_Nain,Lia Nain,Covalima,Fatululic,50102
+Aldeia,Macous,Macous,Covalima,Fatululic,50102
+Aldeia,Taroman,Taroman,Covalima,Fatululic,50102
+Aldeia,Baleo_Quic,Baleo Quic,Covalima,Fatumean,50201
+Aldeia,Belulic_Craic,Belulic Craic,Covalima,Fatumean,50201
+Aldeia,Clau_Halec,Clau Halec,Covalima,Fatumean,50201
+Aldeia,Mane_Quic,Mane Quic,Covalima,Fatumean,50201
+Aldeia,Fatumea,Fatumea,Covalima,Fatumean,50202
+Aldeia,Lebo,Lebo,Covalima,Fatumean,50202
+Aldeia,Moata_Ulun,Moata Ulun,Covalima,Fatumean,50202
+Aldeia,Rai_Oan,Rai Oan,Covalima,Fatumean,50202
+Aldeia,Halic_Nai,Halic Nai,Covalima,Fatumean,50203
+Aldeia,Macocon,Macocon,Covalima,Fatumean,50203
+Aldeia,Nanu,Nanu,Covalima,Fatumean,50203
+Aldeia,Tradu_Cama,Tradu Cama,Covalima,Fatumean,50203
+Aldeia,Aitos,Aitos,Covalima,Fohorem,50301
+Aldeia,Fatulidun,Fatulidun,Covalima,Fohorem,50301
+Aldeia,Hali-Laran,Hali-Laran,Covalima,Fohorem,50301
+Aldeia,Fatuc_Cabuar_Craic,Fatuc Cabuar Craic,Covalima,Fohorem,50302
+Aldeia,Fatuc_Cabuar_Leten,Fatuc Cabuar Leten,Covalima,Fohorem,50302
+Aldeia,Natardic,Natardic,Covalima,Fohorem,50302
+Aldeia,Fatuc_Bitic_Laran,Fatuc Bitic Laran,Covalima,Fohorem,50303
+Aldeia,Fatuc_Laran,Fatuc Laran,Covalima,Fohorem,50303
+Aldeia,Lo'O_Hali,Lo'O Hali,Covalima,Fohorem,50303
+Aldeia,Loroquida,Loroquida,Covalima,Fohorem,50303
+Aldeia,Sadahur,Sadahur,Covalima,Fohorem,50303
+Aldeia,Au-Lulic,Au-Lulic,Covalima,Fohorem,50304
+Aldeia,Cacaut,Cacaut,Covalima,Fohorem,50304
+Aldeia,Calobor,Calobor,Covalima,Fohorem,50304
+Aldeia,Fatuc_Laran,Fatuc Laran,Covalima,Fohorem,50304
+Aldeia,Busado,Busado,Covalima,Maucatar,50401
+Aldeia,Dais,Dais,Covalima,Maucatar,50401
+Aldeia,Du'Ut,Du'Ut,Covalima,Maucatar,50401
+Aldeia,Gazolo,Gazolo,Covalima,Maucatar,50401
+Aldeia,Ila,Ila,Covalima,Maucatar,50401
+Aldeia,Loloba,Loloba,Covalima,Maucatar,50401
+Aldeia,Loloua,Loloua,Covalima,Maucatar,50401
+Aldeia,Fatuc_Oan,Fatuc Oan,Covalima,Maucatar,50402
+Aldeia,Hatu,Hatu,Covalima,Maucatar,50402
+Aldeia,Lela,Lela,Covalima,Maucatar,50402
+Aldeia,Leogore,Leogore,Covalima,Maucatar,50402
+Aldeia,Manulor,Manulor,Covalima,Maucatar,50402
+Aldeia,Nainare,Nainare,Covalima,Maucatar,50402
+Aldeia,Lohorai,Lohorai,Covalima,Maucatar,50403
+Aldeia,Maior/Cunain,Maior/Cunain,Covalima,Maucatar,50403
+Aldeia,Matai,Matai,Covalima,Maucatar,50403
+Aldeia,Quiar,Quiar,Covalima,Maucatar,50403
+Aldeia,Baulela,Baulela,Covalima,Maucatar,50404
+Aldeia,Foho_Rua,Foho Rua,Covalima,Maucatar,50404
+Aldeia,Ogues,Ogues,Covalima,Maucatar,50404
+Aldeia,Orun,Orun,Covalima,Maucatar,50404
+Aldeia,Soga,Soga,Covalima,Maucatar,50404
+Aldeia,Aidantuic,Aidantuic,Covalima,Suai,50501
+Aldeia,Beco,Beco,Covalima,Suai,50501
+Aldeia,Bibiatan,Bibiatan,Covalima,Suai,50501
+Aldeia,Haemanu,Haemanu,Covalima,Suai,50501
+Aldeia,Halic,Halic,Covalima,Suai,50501
+Aldeia,Holbolu,Holbolu,Covalima,Suai,50501
+Aldeia,Leoualu,Leoualu,Covalima,Suai,50501
+Aldeia,Maucola,Maucola,Covalima,Suai,50501
+Aldeia,Teda,Teda,Covalima,Suai,50501
+Aldeia,Tobur,Tobur,Covalima,Suai,50501
+Aldeia,Zuuac,Zuuac,Covalima,Suai,50501
+Aldeia,Ailoc_Laran,Ailoc Laran,Covalima,Suai,50502
+Aldeia,Fatuisin,Fatuisin,Covalima,Suai,50502
+Aldeia,Manequin,Manequin,Covalima,Suai,50502
+Aldeia,Sanfuc,Sanfuc,Covalima,Suai,50502
+Aldeia,Ahinarai,Ahinarai,Covalima,Suai,50503
+Aldeia,Asumaten,Asumaten,Covalima,Suai,50503
+Aldeia,Asurai,Asurai,Covalima,Suai,50503
+Aldeia,Busacucun,Busacucun,Covalima,Suai,50503
+Aldeia,Laconac_Babu,Laconac Babu,Covalima,Suai,50503
+Aldeia,Laconac_Besic,Laconac Besic,Covalima,Suai,50503
+Aldeia,Lo'Oque,Lo'Oque,Covalima,Suai,50503
+Aldeia,Lontale,Lontale,Covalima,Suai,50503
+Aldeia,Tabacolot,Tabacolot,Covalima,Suai,50503
+Aldeia,Bonuc,Bonuc,Covalima,Suai,50504
+Aldeia,Holba,Holba,Covalima,Suai,50504
+Aldeia,Meop,Meop,Covalima,Suai,50504
+Aldeia,Mucbelis,Mucbelis,Covalima,Suai,50504
+Aldeia,Roec,Roec,Covalima,Suai,50504
+Aldeia,Acar_Laran,Acar Laran,Covalima,Suai,50505
+Aldeia,Lo'O,Lo'O,Covalima,Suai,50505
+Aldeia,Mane_Icun,Mane Icun,Covalima,Suai,50505
+Aldeia,Sucabe_Laran,Sucabe Laran,Covalima,Suai,50505
+Aldeia,Suco_Loro,Suco Loro,Covalima,Suai,50505
+Aldeia,Baer,Baer,Covalima,Tilomar,50601
+Aldeia,Fatuc_Metan,Fatuc Metan,Covalima,Tilomar,50601
+Aldeia,Foholulic,Foholulic,Covalima,Tilomar,50601
+Aldeia,Maubesi,Maubesi,Covalima,Tilomar,50601
+Aldeia,Niquiir,Niquiir,Covalima,Tilomar,50601
+Aldeia,Uala,Uala,Covalima,Tilomar,50601
+Aldeia,Uetaba,Uetaba,Covalima,Tilomar,50601
+Aldeia,Cauauman,Cauauman,Covalima,Tilomar,50602
+Aldeia,Coloama,Coloama,Covalima,Tilomar,50602
+Aldeia,Tabolo,Tabolo,Covalima,Tilomar,50602
+Aldeia,Ai_Oan,Ai Oan,Covalima,Tilomar,50603
+Aldeia,Bitis,Bitis,Covalima,Tilomar,50603
+Aldeia,Halemea,Halemea,Covalima,Tilomar,50603
+Aldeia,Cota_Foun,Cota Foun,Covalima,Tilomar,50603
+Aldeia,Salele_Bot,Salele Bot,Covalima,Tilomar,50603
+Aldeia,Tulaeduc,Tulaeduc,Covalima,Tilomar,50603
+Aldeia,Ai-Taman,Ai-Taman,Covalima,Tilomar,50604
+Aldeia,Besac_Oan,Besac Oan,Covalima,Tilomar,50604
+Aldeia,Caicoli,Caicoli,Covalima,Tilomar,50604
+Aldeia,Coitau,Coitau,Covalima,Tilomar,50604
+Aldeia,Fau-Laran,Fau-Laran,Covalima,Tilomar,50604
+Aldeia,Onu-Laran,Onu-Laran,Covalima,Tilomar,50604
+Aldeia,Sadahur,Sadahur,Covalima,Tilomar,50604
+Aldeia,Biata,Biata,Covalima,Zumalai,50701
+Aldeia,Colu,Colu,Covalima,Zumalai,50701
+Aldeia,Fatuleto_Canua,Fatuleto Canua,Covalima,Zumalai,50701
+Aldeia,Nalaop,Nalaop,Covalima,Zumalai,50701
+Aldeia,Zobete,Zobete,Covalima,Zumalai,50701
+Aldeia,Aisal_Leuc,Aisal Leuc,Covalima,Zumalai,50702
+Aldeia,Baulolo,Baulolo,Covalima,Zumalai,50702
+Aldeia,Biatuma,Biatuma,Covalima,Zumalai,50702
+Aldeia,Horba,Horba,Covalima,Zumalai,50702
+Aldeia,Lepo_Canua,Lepo Canua,Covalima,Zumalai,50702
+Aldeia,Lae_Gatal,Lae Gatal,Covalima,Zumalai,50703
+Aldeia,Pelet,Pelet,Covalima,Zumalai,50703
+Aldeia,Ritiluli,Ritiluli,Covalima,Zumalai,50703
+Aldeia,Salasa,Salasa,Covalima,Zumalai,50703
+Aldeia,Somo_Canua,Somo Canua,Covalima,Zumalai,50703
+Aldeia,Tilis,Tilis,Covalima,Zumalai,50703
+Aldeia,Uluc_Lolo,Uluc Lolo,Covalima,Zumalai,50703
+Aldeia,Daro,Daro,Covalima,Zumalai,50704
+Aldeia,Mape_Canua,Mape Canua,Covalima,Zumalai,50704
+Aldeia,Polo,Polo,Covalima,Zumalai,50704
+Aldeia,Beilaco,Beilaco,Covalima,Zumalai,50705
+Aldeia,Loro,Loro,Covalima,Zumalai,50705
+Aldeia,Uma_Claran,Uma Claran,Covalima,Zumalai,50705
+Aldeia,Uebaba,Uebaba,Covalima,Zumalai,50705
+Aldeia,Basana,Basana,Covalima,Zumalai,50706
+Aldeia,Baura_Icun,Baura Icun,Covalima,Zumalai,50706
+Aldeia,Culu_Oan,Culu Oan,Covalima,Zumalai,50706
+Aldeia,Galitaz,Galitaz,Covalima,Zumalai,50706
+Aldeia,Leudula,Leudula,Covalima,Zumalai,50707
+Aldeia,Reaçu,Reaçu,Covalima,Zumalai,50707
+Aldeia,Lale,Lale,Covalima,Zumalai,50708
+Aldeia,Leogol,Leogol,Covalima,Zumalai,50708
+Aldeia,Obuc_Mil,Obuc Mil,Covalima,Zumalai,50708
+Aldeia,Zulo_Tas,Zulo Tas,Covalima,Zumalai,50708
+Aldeia,Adara,Adara,Dili,Atauro,60101
+Aldeia,Arlo,Arlo,Dili,Atauro,60101
+Aldeia,Maquer,Maquer,Dili,Atauro,60101
+Aldeia,Usubemaço,Usubemaço,Dili,Atauro,60101
+Aldeia,Ilicnamo,Ilicnamo,Dili,Atauro,60102
+Aldeia,Ilidua_Douro,Ilidua Douro,Dili,Atauro,60102
+Aldeia,Pala,Pala,Dili,Atauro,60102
+Aldeia,Uaro-Ana,Uaro-Ana,Dili,Atauro,60102
+Aldeia,Anartuto,Anartuto,Dili,Atauro,60103
+Aldeia,Berau,Berau,Dili,Atauro,60103
+Aldeia,Bite,Bite,Dili,Atauro,60103
+Aldeia,Ili-Timur,Ili-Timur,Dili,Atauro,60103
+Aldeia,Fatulela,Fatulela,Dili,Atauro,60104
+Aldeia,Macelihu,Macelihu,Dili,Atauro,60104
+Aldeia,Mau-Laku,Mau-Laku,Dili,Atauro,60104
+Aldeia,Mau-Meta,Mau-Meta,Dili,Atauro,60104
+Aldeia,Eclae,Eclae,Dili,Atauro,60105
+Aldeia,Ilimanu,Ilimanu,Dili,Atauro,60105
+Aldeia,Ilitecaraquia,Ilitecaraquia,Dili,Atauro,60105
+Aldeia,Carau_Mate,Carau Mate,Dili,Cristo_Rei,60208
+Aldeia,Culau_Laletec,Culau Laletec,Dili,Cristo_Rei,60208
+Aldeia,Malboro/Maliqueo,Malboro/Maliqueo,Dili,Cristo_Rei,60208
+Aldeia,Quituto,Quituto,Dili,Cristo_Rei,60208
+Aldeia,Fatu_Loda,Fatu Loda,Dili,Cristo_Rei,60201
+Aldeia,Lacoto,Lacoto,Dili,Cristo_Rei,60201
+Aldeia,Lorico,Lorico,Dili,Cristo_Rei,60201
+Aldeia,Tancae,Tancae,Dili,Cristo_Rei,60201
+Aldeia,Au-Hun,Au-Hun,Dili,Cristo_Rei,60202
+Aldeia,Becusi_Centro,Becusi Centro,Dili,Cristo_Rei,60202
+Aldeia,Becusi_Craic,Becusi Craic,Dili,Cristo_Rei,60202
+Aldeia,Berebidu,Berebidu,Dili,Cristo_Rei,60202
+Aldeia,Caqueu_Laran,Caqueu Laran,Dili,Cristo_Rei,60202
+Aldeia,Clac_Fuic,Clac Fuic,Dili,Cristo_Rei,60202
+Aldeia,Darlau,Darlau,Dili,Cristo_Rei,60202
+Aldeia,Maucocomate,Maucocomate,Dili,Cristo_Rei,60202
+Aldeia,Mota_Ulun,Mota Ulun,Dili,Cristo_Rei,60202
+Aldeia,Romit,Romit,Dili,Cristo_Rei,60202
+Aldeia,Bidau_Mota_Claran,Bidau Mota Claran,Dili,Cristo_Rei,60203
+Aldeia,Manu_Mata,Manu Mata,Dili,Cristo_Rei,60203
+Aldeia,Sagrada_Familia,Sagrada Familia,Dili,Cristo_Rei,60203
+Aldeia,Toko_Baru,Toko Baru,Dili,Cristo_Rei,60203
+Aldeia,Aidac_Bihare,Aidac Bihare,Dili,Cristo_Rei,60204
+Aldeia,Ailele_Hun,Ailele Hun,Dili,Cristo_Rei,60204
+Aldeia,Ailoc_Laran,Ailoc Laran,Dili,Cristo_Rei,60204
+Aldeia,Bedois,Bedois,Dili,Cristo_Rei,60204
+Aldeia,Buburlau,Buburlau,Dili,Cristo_Rei,60204
+Aldeia,Caisabe,Caisabe,Dili,Cristo_Rei,60204
+Aldeia,Fatuc_Francisco,Fatuc Francisco,Dili,Cristo_Rei,60204
+Aldeia,Has_Laran,Has Laran,Dili,Cristo_Rei,60204
+Aldeia,Lases,Lases,Dili,Cristo_Rei,60204
+Aldeia,Lenuc_Hun,Lenuc Hun,Dili,Cristo_Rei,60204
+Aldeia,Namalai,Namalai,Dili,Cristo_Rei,60204
+Aldeia,Suco_Laran,Suco Laran,Dili,Cristo_Rei,60204
+Aldeia,Terminal,Terminal,Dili,Cristo_Rei,60204
+Aldeia,Funu_Hotu,Funu Hotu,Dili,Cristo_Rei,60205
+Aldeia,Lao_Rai/Caregatiro,Lao Rai/Caregatiro,Dili,Cristo_Rei,60205
+Aldeia,Loe_Laco,Loe Laco,Dili,Cristo_Rei,60205
+Aldeia,Nato,Nato,Dili,Cristo_Rei,60205
+Aldeia,Soru_Motu_Badame,Soru Motu Badame,Dili,Cristo_Rei,60205
+Aldeia,Tane_Muto,Tane Muto,Dili,Cristo_Rei,60205
+Aldeia,Toko_Baru_II_(Antigo_ASLS),Toko Baru II (Antigo ASLS),Dili,Cristo_Rei,60205
+Aldeia,Acanuno,Acanuno,Dili,Cristo_Rei,60206
+Aldeia,Ailoc_Laran,Ailoc Laran,Dili,Cristo_Rei,60206
+Aldeia,Hali_Dolar,Hali Dolar,Dili,Cristo_Rei,60206
+Aldeia,Moris_Foun,Moris Foun,Dili,Cristo_Rei,60206
+Aldeia,Mota_Quic,Mota Quic,Dili,Cristo_Rei,60206
+Aldeia,Sucaer_Laran,Sucaer Laran,Dili,Cristo_Rei,60206
+Aldeia,17_de_Abril,17 de Abril,Dili,Cristo_Rei,60207
+Aldeia,Carungu_Lau,Carungu Lau,Dili,Cristo_Rei,60207
+Aldeia,Fatu_Cama,Fatu Cama,Dili,Cristo_Rei,60207
+Aldeia,5_de_Outubro,5 de Outubro,Dili,Dom_Aleixo,60301
+Aldeia,Andevil,Andevil,Dili,Dom_Aleixo,60301
+Aldeia,Avança,Avança,Dili,Dom_Aleixo,60301
+Aldeia,Bita-Ba,Bita-Ba,Dili,Dom_Aleixo,60301
+Aldeia,Buca_Fini,Buca Fini,Dili,Dom_Aleixo,60301
+Aldeia,Fatumeta,Fatumeta,Dili,Dom_Aleixo,60301
+Aldeia,Frecat,Frecat,Dili,Dom_Aleixo,60301
+Aldeia,Fuslam,Fuslam,Dili,Dom_Aleixo,60301
+Aldeia,Haburas,Haburas,Dili,Dom_Aleixo,60301
+Aldeia,Hale_Mutin,Hale Mutin,Dili,Dom_Aleixo,60301
+Aldeia,Laloran,Laloran,Dili,Dom_Aleixo,60301
+Aldeia,Licarapoma,Licarapoma,Dili,Dom_Aleixo,60301
+Aldeia,Moris_Ba_Dame,Moris Ba Dame,Dili,Dom_Aleixo,60301
+Aldeia,Moris_Foun,Moris Foun,Dili,Dom_Aleixo,60301
+Aldeia,Niken,Niken,Dili,Dom_Aleixo,60301
+Aldeia,Rainain,Rainain,Dili,Dom_Aleixo,60301
+Aldeia,Ribeira_Maloa,Ribeira Maloa,Dili,Dom_Aleixo,60301
+Aldeia,Rio_de_Janeiro,Rio de Janeiro,Dili,Dom_Aleixo,60301
+Aldeia,Ruin_Naclecar,Ruin Naclecar,Dili,Dom_Aleixo,60301
+Aldeia,São_José_Nazare,São José Nazare,Dili,Dom_Aleixo,60301
+Aldeia,Tane_Timor,Tane Timor,Dili,Dom_Aleixo,60301
+Aldeia,Teki-Teki,Teki-Teki,Dili,Dom_Aleixo,60301
+Aldeia,Timor_Cmanec,Timor Cmanec,Dili,Dom_Aleixo,60301
+Aldeia,Transporte_Air_Timor/TAT,Transporte Air Timor/TAT,Dili,Dom_Aleixo,60301
+Aldeia,We_Dalac,We Dalac,Dili,Dom_Aleixo,60301
+Aldeia,Xamatama,Xamatama,Dili,Dom_Aleixo,60301
+Aldeia,20_de_Setembro,20 de Setembro,Dili,Dom_Aleixo,60305
+Aldeia,Metin_I,Metin I,Dili,Dom_Aleixo,60305
+Aldeia,Metin_II,Metin II,Dili,Dom_Aleixo,60305
+Aldeia,Metin_III,Metin III,Dili,Dom_Aleixo,60305
+Aldeia,Metin_IV,Metin IV,Dili,Dom_Aleixo,60305
+Aldeia,12_de_Outubro,12 de Outubro,Dili,Dom_Aleixo,60302
+Aldeia,30_de_Agosto,30 de Agosto,Dili,Dom_Aleixo,60302
+Aldeia,4_de_Setembro,4 de Setembro,Dili,Dom_Aleixo,60302
+Aldeia,Aimutin,Aimutin,Dili,Dom_Aleixo,60302
+Aldeia,Bayaleste,Bayaleste,Dili,Dom_Aleixo,60302
+Aldeia,Fomento_I,Fomento I,Dili,Dom_Aleixo,60302
+Aldeia,Fomento_II,Fomento II,Dili,Dom_Aleixo,60302
+Aldeia,Fomento_III,Fomento III,Dili,Dom_Aleixo,60302
+Aldeia,Golgota,Golgota,Dili,Dom_Aleixo,60302
+Aldeia,Moris_Foun,Moris Foun,Dili,Dom_Aleixo,60302
+Aldeia,Posto_Penal,Posto Penal,Dili,Dom_Aleixo,60302
+Aldeia,Ramelau_Delta,Ramelau Delta,Dili,Dom_Aleixo,60302
+Aldeia,São_José,São José,Dili,Dom_Aleixo,60302
+Aldeia,São_Miguel,São Miguel,Dili,Dom_Aleixo,60302
+Aldeia,Zero_I,Zero I,Dili,Dom_Aleixo,60303
+Aldeia,Zero_II,Zero II,Dili,Dom_Aleixo,60303
+Aldeia,Zero_III,Zero III,Dili,Dom_Aleixo,60303
+Aldeia,Zero_IV,Zero IV,Dili,Dom_Aleixo,60303
+Aldeia,Zero_V,Zero V,Dili,Dom_Aleixo,60303
+Aldeia,Anin_Fuic_(Atarac_Laran),Anin Fuic (Atarac Laran),Dili,Dom_Aleixo,60304
+Aldeia,Hamahon,Hamahon,Dili,Dom_Aleixo,60304
+Aldeia,Rai_Lacan,Rai Lacan,Dili,Dom_Aleixo,60304
+Aldeia,7_de_Desembro,7 de Desembro,Dili,Dom_Aleixo,60306
+Aldeia,Aninfuic,Aninfuic,Dili,Dom_Aleixo,60306
+Aldeia,Beto_Leste,Beto Leste,Dili,Dom_Aleixo,60306
+Aldeia,Betotasi,Betotasi,Dili,Dom_Aleixo,60306
+Aldeia,Loron_Matan_B.T,Loron Matan B.T,Dili,Dom_Aleixo,60306
+Aldeia,Naroman_B.T,Naroman B.T,Dili,Dom_Aleixo,60306
+Aldeia,Rosario,Rosario,Dili,Dom_Aleixo,60306
+Aldeia,Terra_Santa,Terra Santa,Dili,Dom_Aleixo,60306
+Aldeia,Badiac,Badiac,Dili,Dom_Aleixo,60307
+Aldeia,Efaca,Efaca,Dili,Dom_Aleixo,60307
+Aldeia,Lau-Lora,Lau-Lora,Dili,Dom_Aleixo,60307
+Aldeia,Lemocari,Lemocari,Dili,Dom_Aleixo,60307
+Aldeia,Lisbutac,Lisbutac,Dili,Dom_Aleixo,60307
+Aldeia,Mane_Mesac,Mane Mesac,Dili,Dom_Aleixo,60307
+Aldeia,Manleuana,Manleuana,Dili,Dom_Aleixo,60307
+Aldeia,Mauc,Mauc,Dili,Dom_Aleixo,60307
+Aldeia,Mundo_Perdido,Mundo Perdido,Dili,Dom_Aleixo,60307
+Aldeia,Ramelau,Ramelau,Dili,Dom_Aleixo,60307
+Aldeia,Besahe,Besahe,Dili,Metinaro,60403
+Aldeia,Birahu_Matan,Birahu Matan,Dili,Metinaro,60403
+Aldeia,Has_Laran,Has Laran,Dili,Metinaro,60403
+Aldeia,Lebutun,Lebutun,Dili,Metinaro,60403
+Aldeia,Mantelolão,Mantelolão,Dili,Metinaro,60403
+Aldeia,Manularan,Manularan,Dili,Metinaro,60403
+Aldeia,Acadiru_Laran,Acadiru Laran,Dili,Metinaro,60402
+Aldeia,Behauc,Behauc,Dili,Metinaro,60402
+Aldeia,Behoquir,Behoquir,Dili,Metinaro,60402
+Aldeia,Sabuli,Sabuli,Dili,Metinaro,60402
+Aldeia,Manuleu,Manuleu,Dili,Metinaro,60401
+Aldeia,Rai_Mean,Rai Mean,Dili,Metinaro,60401
+Aldeia,Saham,Saham,Dili,Metinaro,60401
+Aldeia,Wenunuc,Wenunuc,Dili,Metinaro,60401
+Aldeia,Bedic,Bedic,Dili,Nain_Feto,60501
+Aldeia,Culuhun_De_Baixo,Culuhun De Baixo,Dili,Nain_Feto,60501
+Aldeia,Nu'U_Badac,Nu'U Badac,Dili,Nain_Feto,60501
+Aldeia,Ailele_Hun,Ailele Hun,Dili,Nain_Feto,60502
+Aldeia,Baba_Liu_Rai_Leste,Baba Liu Rai Leste,Dili,Nain_Feto,60502
+Aldeia,Baba_Liu_Rai_Oeste,Baba Liu Rai Oeste,Dili,Nain_Feto,60502
+Aldeia,Bemori_Central,Bemori Central,Dili,Nain_Feto,60502
+Aldeia,Centro,Centro,Dili,Nain_Feto,60502
+Aldeia,Has_Laran,Has Laran,Dili,Nain_Feto,60502
+Aldeia,My_Friend,My Friend,Dili,Nain_Feto,60502
+Aldeia,Capela,Capela,Dili,Nain_Feto,60503
+Aldeia,Lecidere,Lecidere,Dili,Nain_Feto,60503
+Aldeia,Bairo_Central,Bairo Central,Dili,Nain_Feto,60504
+Aldeia,Bairo_Dos_Grilos,Bairo Dos Grilos,Dili,Nain_Feto,60504
+Aldeia,Bairo_Formosa,Bairo Formosa,Dili,Nain_Feto,60504
+Aldeia,Alcrin,Alcrin,Dili,Nain_Feto,60505
+Aldeia,Becoe,Becoe,Dili,Nain_Feto,60505
+Aldeia,Deambata_Bessi,Deambata Bessi,Dili,Nain_Feto,60505
+Aldeia,Deposito_Penal,Deposito Penal,Dili,Nain_Feto,60505
+Aldeia,Marabia,Marabia,Dili,Nain_Feto,60505
+Aldeia,Metin,Metin,Dili,Nain_Feto,60505
+Aldeia,Monumento_Calma,Monumento Calma,Dili,Nain_Feto,60505
+Aldeia,Rai_Mean,Rai Mean,Dili,Nain_Feto,60505
+Aldeia,Sare,Sare,Dili,Nain_Feto,60505
+Aldeia,Suhu_Rama,Suhu Rama,Dili,Nain_Feto,60505
+Aldeia,Temporal,Temporal,Dili,Nain_Feto,60505
+Aldeia,Tubarai,Tubarai,Dili,Nain_Feto,60505
+Aldeia,Vale_De_Lahane,Vale De Lahane,Dili,Nain_Feto,60505
+Aldeia,12_de_Novembro,12 de Novembro,Dili,Nain_Feto,60506
+Aldeia,25_de_Abril,25 de Abril,Dili,Nain_Feto,60506
+Aldeia,4_de_Setembro,4 de Setembro,Dili,Nain_Feto,60506
+Aldeia,7_de_Dezembro,7 de Dezembro,Dili,Nain_Feto,60506
+Aldeia,Audian,Audian,Dili,Nain_Feto,60506
+Aldeia,Baheda,Baheda,Dili,Nain_Feto,60506
+Aldeia,Donoge,Donoge,Dili,Nain_Feto,60506
+Aldeia,Loceneon,Loceneon,Dili,Nain_Feto,60506
+Aldeia,Moris_Foun,Moris Foun,Dili,Nain_Feto,60506
+Aldeia,Mura,Mura,Dili,Nain_Feto,60506
+Aldeia,Centro_Da_Unidade,Centro Da Unidade,Dili,Vera_Cruz,60601
+Aldeia,De_12_Divino,De 12 Divino,Dili,Vera_Cruz,60601
+Aldeia,Sacoco,Sacoco,Dili,Vera_Cruz,60601
+Aldeia,Tahu_Laran,Tahu Laran,Dili,Vera_Cruz,60601
+Aldeia,Foho_Rai_Boot,Foho Rai Boot,Dili,Vera_Cruz,60601
+Aldeia,Manu_Fuic,Manu Fuic,Dili,Vera_Cruz,60602
+Aldeia,Rai_Nain,Rai Nain,Dili,Vera_Cruz,60602
+Aldeia,Casnafar,Casnafar,Dili,Vera_Cruz,60603
+Aldeia,Coalau_I,Coalau I,Dili,Vera_Cruz,60603
+Aldeia,Coalau_II,Coalau II,Dili,Vera_Cruz,60603
+Aldeia,Fatu_Naba,Fatu Naba,Dili,Vera_Cruz,60603
+Aldeia,Fila_Beba_Tua,Fila Beba Tua,Dili,Vera_Cruz,60603
+Aldeia,Fuguira/Bauloc,Fuguira/Bauloc,Dili,Vera_Cruz,60603
+Aldeia,Leilaus,Leilaus,Dili,Vera_Cruz,60603
+Aldeia,Lemorana,Lemorana,Dili,Vera_Cruz,60603
+Aldeia,Nahaec,Nahaec,Dili,Vera_Cruz,60603
+Aldeia,Suca_Lau,Suca Lau,Dili,Vera_Cruz,60603
+Aldeia,Ainitas_Hun,Ainitas Hun,Dili,Vera_Cruz,60604
+Aldeia,Bedois,Bedois,Dili,Vera_Cruz,60604
+Aldeia,Bela_Vista,Bela Vista,Dili,Vera_Cruz,60604
+Aldeia,Care_Laran,Care Laran,Dili,Vera_Cruz,60604
+Aldeia,Correio,Correio,Dili,Vera_Cruz,60604
+Aldeia,Gomes_Araujo,Gomes Araujo,Dili,Vera_Cruz,60604
+Aldeia,Hospital_Militar,Hospital Militar,Dili,Vera_Cruz,60604
+Aldeia,Mota_Ulun,Mota Ulun,Dili,Vera_Cruz,60604
+Aldeia,Paiol,Paiol,Dili,Vera_Cruz,60604
+Aldeia,Rai_Cuac,Rai Cuac,Dili,Vera_Cruz,60604
+Aldeia,Teca_Hudi_Laran,Teca Hudi Laran,Dili,Vera_Cruz,60604
+Aldeia,Aldeia_03,Aldeia 03,Dili,Vera_Cruz,60605
+Aldeia,Alto_Balide,Alto Balide,Dili,Vera_Cruz,60605
+Aldeia,Alto_P.M.,Alto P.M.,Dili,Vera_Cruz,60605
+Aldeia,Baixo_Balide,Baixo Balide,Dili,Vera_Cruz,60605
+Aldeia,Baixo_P.M.,Baixo P.M.,Dili,Vera_Cruz,60605
+Aldeia,Manu_Cocorec,Manu Cocorec,Dili,Vera_Cruz,60605
+Aldeia,Bee_Dalan,Bee Dalan,Dili,Vera_Cruz,60606
+Aldeia,Boa_Morena,Boa Morena,Dili,Vera_Cruz,60606
+Aldeia,Halibur,Halibur,Dili,Vera_Cruz,60606
+Aldeia,Hura,Hura,Dili,Vera_Cruz,60606
+Aldeia,Lirio,Lirio,Dili,Vera_Cruz,60606
+Aldeia,1_de_Setembro,1 de Setembro,Dili,Vera_Cruz,60607
+Aldeia,Gideon,Gideon,Dili,Vera_Cruz,60607
+Aldeia,Lemorai,Lemorai,Dili,Vera_Cruz,60607
+Aldeia,Mate_Moris,Mate Moris,Dili,Vera_Cruz,60607
+Aldeia,Mate_Restu,Mate Restu,Dili,Vera_Cruz,60607
+Aldeia,Matua,Matua,Dili,Vera_Cruz,60607
+Aldeia,Nopen,Nopen,Dili,Vera_Cruz,60607
+Aldeia,Terus_Nain,Terus Nain,Dili,Vera_Cruz,60607
+Aldeia,Virgolosa,Virgolosa,Dili,Vera_Cruz,60607
+Aldeia,Airae,Airae,Ermera,Atsabe,70101
+Aldeia,Batubala,Batubala,Ermera,Atsabe,70101
+Aldeia,Dadubere,Dadubere,Ermera,Atsabe,70101
+Aldeia,Malimea/Uabe,Malimea/Uabe,Ermera,Atsabe,70101
+Aldeia,Mania,Mania,Ermera,Atsabe,70101
+Aldeia,Tapoabe,Tapoabe,Ermera,Atsabe,70101
+Aldeia,Uabe-Nc,Uabe-Nc,Ermera,Atsabe,70101
+Aldeia,Atudose,Atudose,Ermera,Atsabe,70102
+Aldeia,Cailulic,Cailulic,Ermera,Atsabe,70102
+Aldeia,Colimali,Colimali,Ermera,Atsabe,70102
+Aldeia,Lauabe,Lauabe,Ermera,Atsabe,70102
+Aldeia,Lelobere,Lelobere,Ermera,Atsabe,70102
+Aldeia,Raibuti,Raibuti,Ermera,Atsabe,70102
+Aldeia,Coilequi,Coilequi,Ermera,Atsabe,70103
+Aldeia,Ilat,Ilat,Ermera,Atsabe,70103
+Aldeia,Liabe,Liabe,Ermera,Atsabe,70103
+Aldeia,Raelau,Raelau,Ermera,Atsabe,70103
+Aldeia,Batu_Ero,Batu Ero,Ermera,Atsabe,70104
+Aldeia,Batu'U,Batu'U,Ermera,Atsabe,70104
+Aldeia,Batumano,Batumano,Ermera,Atsabe,70104
+Aldeia,Mutubau,Mutubau,Ermera,Atsabe,70104
+Aldeia,Aiabe,Aiabe,Ermera,Atsabe,70105
+Aldeia,Ataubu,Ataubu,Ermera,Atsabe,70105
+Aldeia,Nunumea,Nunumea,Ermera,Atsabe,70105
+Aldeia,Taiubu,Taiubu,Ermera,Atsabe,70105
+Aldeia,Aileso,Aileso,Ermera,Atsabe,70106
+Aldeia,Malitada,Malitada,Ermera,Atsabe,70106
+Aldeia,Sorate,Sorate,Ermera,Atsabe,70106
+Aldeia,Tapomea,Tapomea,Ermera,Atsabe,70106
+Aldeia,Biabote,Biabote,Ermera,Atsabe,70107
+Aldeia,Purogoa,Purogoa,Ermera,Atsabe,70107
+Aldeia,Sirui/Purogoa,Sirui/Purogoa,Ermera,Atsabe,70107
+Aldeia,Ahigara,Ahigara,Ermera,Atsabe,70108
+Aldeia,Biabuti,Biabuti,Ermera,Atsabe,70108
+Aldeia,Buibaro,Buibaro,Ermera,Atsabe,70108
+Aldeia,Leulara,Leulara,Ermera,Atsabe,70108
+Aldeia,Olacata,Olacata,Ermera,Atsabe,70108
+Aldeia,Orbeto,Orbeto,Ermera,Atsabe,70108
+Aldeia,Raebou,Raebou,Ermera,Atsabe,70108
+Aldeia,Raelia,Raelia,Ermera,Atsabe,70108
+Aldeia,Batumigi,Batumigi,Ermera,Atsabe,70109
+Aldeia,Bobaleta,Bobaleta,Ermera,Atsabe,70109
+Aldeia,Ilat_Cora,Ilat Cora,Ermera,Atsabe,70109
+Aldeia,Malabe,Malabe,Ermera,Atsabe,70109
+Aldeia,Atubrao,Atubrao,Ermera,Atsabe,70110
+Aldeia,Atulara,Atulara,Ermera,Atsabe,70110
+Aldeia,Biliubu,Biliubu,Ermera,Atsabe,70110
+Aldeia,Locoubu,Locoubu,Ermera,Atsabe,70110
+Aldeia,Motoubu,Motoubu,Ermera,Atsabe,70110
+Aldeia,Obeto,Obeto,Ermera,Atsabe,70110
+Aldeia,Suriubu,Suriubu,Ermera,Atsabe,70110
+Aldeia,Airae,Airae,Ermera,Atsabe,70111
+Aldeia,Aliatu/Aileso,Aliatu/Aileso,Ermera,Atsabe,70111
+Aldeia,Asio,Asio,Ermera,Atsabe,70111
+Aldeia,Atubuti,Atubuti,Ermera,Atsabe,70111
+Aldeia,Atupae,Atupae,Ermera,Atsabe,70111
+Aldeia,Ilat,Ilat,Ermera,Atsabe,70111
+Aldeia,Tiarlelo-Ilat,Tiarlelo-Ilat,Ermera,Atsabe,70112
+Aldeia,Cotabot,Cotabot,Ermera,Atsabe,70112
+Aldeia,Soilacudu,Soilacudu,Ermera,Atsabe,70112
+Aldeia,Coracao_De_Jesus,Coracao De Jesus,Ermera,Ermera,70201
+Aldeia,Coulao_Haburas,Coulao Haburas,Ermera,Ermera,70201
+Aldeia,Hamric_Metin,Hamric Metin,Ermera,Ermera,70201
+Aldeia,Huitaso,Huitaso,Ermera,Ermera,70201
+Aldeia,Indau_Lulic,Indau Lulic,Ermera,Ermera,70201
+Aldeia,Lihmo,Lihmo,Ermera,Ermera,70201
+Aldeia,Moris_Mesac,Moris Mesac,Ermera,Ermera,70201
+Aldeia,Railacan,Railacan,Ermera,Ermera,70201
+Aldeia,Saramata,Saramata,Ermera,Ermera,70201
+Aldeia,Sinai,Sinai,Ermera,Ermera,70201
+Aldeia,Tajaquina,Tajaquina,Ermera,Ermera,70201
+Aldeia,Tatoli,Tatoli,Ermera,Ermera,70201
+Aldeia,Borohei,Borohei,Ermera,Ermera,70202
+Aldeia,Dirlau,Dirlau,Ermera,Ermera,70202
+Aldeia,Hatali,Hatali,Ermera,Ermera,70202
+Aldeia,Poeana,Poeana,Ermera,Ermera,70202
+Aldeia,Ervilhat,Ervilhat,Ermera,Ermera,70203
+Aldeia,Nona_Bite,Nona Bite,Ermera,Ermera,70203
+Aldeia,Sari,Sari,Ermera,Ermera,70203
+Aldeia,Hatuleta,Hatuleta,Ermera,Ermera,70204
+Aldeia,Leguimea,Leguimea,Ermera,Ermera,70204
+Aldeia,Poehei,Poehei,Ermera,Ermera,70204
+Aldeia,Sinlelo,Sinlelo,Ermera,Ermera,70204
+Aldeia,Tidir,Tidir,Ermera,Ermera,70204
+Aldeia,Titihar,Titihar,Ermera,Ermera,70204
+Aldeia,Apido,Apido,Ermera,Ermera,70205
+Aldeia,Hotino,Hotino,Ermera,Ermera,70205
+Aldeia,Railori,Railori,Ermera,Ermera,70205
+Aldeia,Atabauria,Atabauria,Ermera,Ermera,70205
+Aldeia,Aldeia_Vila,Aldeia Vila,Ermera,Ermera,70206
+Aldeia,Biluli,Biluli,Ermera,Ermera,70206
+Aldeia,Gueguemara,Gueguemara,Ermera,Ermera,70206
+Aldeia,Lequisi,Lequisi,Ermera,Ermera,70206
+Aldeia,Loblala,Loblala,Ermera,Ermera,70206
+Aldeia,Poepun,Poepun,Ermera,Ermera,70206
+Aldeia,Rematu,Rematu,Ermera,Ermera,70206
+Aldeia,Samatrae,Samatrae,Ermera,Ermera,70206
+Aldeia,Taclela,Taclela,Ermera,Ermera,70206
+Aldeia,Tidibessi,Tidibessi,Ermera,Ermera,70206
+Aldeia,Urletoho,Urletoho,Ermera,Ermera,70206
+Aldeia,Urluli,Urluli,Ermera,Ermera,70206
+Aldeia,Cota_Heu,Cota Heu,Ermera,Ermera,70207
+Aldeia,Eroho,Eroho,Ermera,Ermera,70207
+Aldeia,Hatuposi,Hatuposi,Ermera,Ermera,70207
+Aldeia,Nunupu,Nunupu,Ermera,Ermera,70207
+Aldeia,Sacoco,Sacoco,Ermera,Ermera,70207
+Aldeia,Lohmo,Lohmo,Ermera,Ermera,70208
+Aldeia,Mate_Resto,Mate Resto,Ermera,Ermera,70208
+Aldeia,Moris_Foun,Moris Foun,Ermera,Ermera,70208
+Aldeia,Nazare,Nazare,Ermera,Ermera,70208
+Aldeia,Rai_Maran,Rai Maran,Ermera,Ermera,70208
+Aldeia,Timlele_Buras,Timlele Buras,Ermera,Ermera,70208
+Aldeia,Gomhei,Gomhei,Ermera,Ermera,70209
+Aldeia,Hatlour,Hatlour,Ermera,Ermera,70209
+Aldeia,Mangero,Mangero,Ermera,Ermera,70209
+Aldeia,Raebliri,Raebliri,Ermera,Ermera,70209
+Aldeia,Sasoher,Sasoher,Ermera,Ermera,70209
+Aldeia,Bura,Bura,Ermera,Ermera,70210
+Aldeia,Leberti,Leberti,Ermera,Ermera,70210
+Aldeia,Lima_Mesak,Lima Mesak,Ermera,Ermera,70210
+Aldeia,Moris_Foun,Moris Foun,Ermera,Ermera,70210
+Aldeia,Nunusua,Nunusua,Ermera,Ermera,70210
+Aldeia,Bermoslau,Bermoslau,Ermera,Hatulia,70301
+Aldeia,Dirhatilau,Dirhatilau,Ermera,Hatulia,70301
+Aldeia,Noerem,Noerem,Ermera,Hatulia,70301
+Aldeia,Poelete,Poelete,Ermera,Hatulia,70301
+Aldeia,Raimate,Raimate,Ermera,Hatulia,70301
+Aldeia,Sare,Sare,Ermera,Hatulia,70301
+Aldeia,Betopu,Betopu,Ermera,Hatulia,70302
+Aldeia,Leirema,Leirema,Ermera,Hatulia,70302
+Aldeia,Santa_Cruz,Santa Cruz,Ermera,Hatulia,70302
+Aldeia,Tata,Tata,Ermera,Hatulia,70302
+Aldeia,Aihatadiu,Aihatadiu,Ermera,Hatulia,70303
+Aldeia,Cletrema,Cletrema,Ermera,Hatulia,70303
+Aldeia,Hau-Hei,Hau-Hei,Ermera,Hatulia,70303
+Aldeia,Manucate,Manucate,Ermera,Hatulia,70303
+Aldeia,Manulete,Manulete,Ermera,Hatulia,70303
+Aldeia,Raegoa,Raegoa,Ermera,Hatulia,70303
+Aldeia,Teuro,Teuro,Ermera,Hatulia,70303
+Aldeia,Assulau_Hautete,Assulau Hautete,Ermera,Hatulia,70304
+Aldeia,Lebumeo,Lebumeo,Ermera,Hatulia,70304
+Aldeia,Matanoba,Matanoba,Ermera,Hatulia,70304
+Aldeia,Peregrinação,Peregrinação,Ermera,Hatulia,70304
+Aldeia,Sabsoi,Sabsoi,Ermera,Hatulia,70304
+Aldeia,Sao_Francisco,Sao Francisco,Ermera,Hatulia,70304
+Aldeia,Aitemua,Aitemua,Ermera,Hatulia,70305
+Aldeia,Apirado,Apirado,Ermera,Hatulia,70305
+Aldeia,Fatubolo,Fatubolo,Ermera,Hatulia,70305
+Aldeia,Poerema,Poerema,Ermera,Hatulia,70305
+Aldeia,Aimeraulo,Aimeraulo,Ermera,Hatulia,70306
+Aldeia,Hatu_Batu,Hatu Batu,Ermera,Hatulia,70306
+Aldeia,Hohopu,Hohopu,Ermera,Hatulia,70306
+Aldeia,Simohei,Simohei,Ermera,Hatulia,70306
+Aldeia,Gunutur,Gunutur,Ermera,Hatulia,70307
+Aldeia,Hatupae,Hatupae,Ermera,Hatulia,70307
+Aldeia,Laquiama,Laquiama,Ermera,Hatulia,70307
+Aldeia,Brug-Bou,Brug-Bou,Ermera,Hatulia,70308
+Aldeia,Leo-Dato,Leo-Dato,Ermera,Hatulia,70308
+Aldeia,Gaelema,Gaelema,Ermera,Hatulia,70309
+Aldeia,Hatupae,Hatupae,Ermera,Hatulia,70309
+Aldeia,Lauraehou,Lauraehou,Ermera,Hatulia,70309
+Aldeia,Naumanaro,Naumanaro,Ermera,Hatulia,70309
+Aldeia,Tataeulo,Tataeulo,Ermera,Hatulia,70309
+Aldeia,Tidibessi,Tidibessi,Ermera,Hatulia,70309
+Aldeia,Bauana,Bauana,Ermera,Hatulia,70310
+Aldeia,Cuccara,Cuccara,Ermera,Hatulia,70310
+Aldeia,Hatete,Hatete,Ermera,Hatulia,70310
+Aldeia,Lugulaulau,Lugulaulau,Ermera,Hatulia,70310
+Aldeia,Otete,Otete,Ermera,Hatulia,70310
+Aldeia,Arleu,Arleu,Ermera,Hatulia,70311
+Aldeia,Caisoru,Caisoru,Ermera,Hatulia,70311
+Aldeia,Grotu,Grotu,Ermera,Hatulia,70311
+Aldeia,Leburema,Leburema,Ermera,Hatulia,70311
+Aldeia,Petalara,Petalara,Ermera,Hatulia,70312
+Aldeia,Railuli,Railuli,Ermera,Hatulia,70312
+Aldeia,Caiturloa,Caiturloa,Ermera,Hatulia,70313
+Aldeia,Dosmagar,Dosmagar,Ermera,Hatulia,70313
+Aldeia,Hatlailete,Hatlailete,Ermera,Hatulia,70313
+Aldeia,Laulema,Laulema,Ermera,Hatulia,70313
+Aldeia,Manuhatu,Manuhatu,Ermera,Hatulia,70313
+Aldeia,Raimean,Raimean,Ermera,Hatulia,70313
+Aldeia,Duhoho,Duhoho,Ermera,Letefoho,70401
+Aldeia,Fahiluha,Fahiluha,Ermera,Letefoho,70401
+Aldeia,Hohulo,Hohulo,Ermera,Letefoho,70401
+Aldeia,Lumutou,Lumutou,Ermera,Letefoho,70401
+Aldeia,Merigue,Merigue,Ermera,Letefoho,70401
+Aldeia,Raebou,Raebou,Ermera,Letefoho,70401
+Aldeia,Tunufahi,Tunufahi,Ermera,Letefoho,70401
+Aldeia,Assui_Craic,Assui Craic,Ermera,Letefoho,70402
+Aldeia,Assui_Leten,Assui Leten,Ermera,Letefoho,70402
+Aldeia,Eratoi,Eratoi,Ermera,Letefoho,70402
+Aldeia,Hatuhei,Hatuhei,Ermera,Letefoho,70402
+Aldeia,Lacau,Lacau,Ermera,Letefoho,70402
+Aldeia,Laclo,Laclo,Ermera,Letefoho,70402
+Aldeia,Lebudu,Lebudu,Ermera,Letefoho,70402
+Aldeia,Lebululi,Lebululi,Ermera,Letefoho,70402
+Aldeia,Manusae,Manusae,Ermera,Letefoho,70402
+Aldeia,Raerema,Raerema,Ermera,Letefoho,70402
+Aldeia,Renomata,Renomata,Ermera,Letefoho,70402
+Aldeia,Rotutu,Rotutu,Ermera,Letefoho,70402
+Aldeia,Sabelo,Sabelo,Ermera,Letefoho,70402
+Aldeia,Darudu,Darudu,Ermera,Letefoho,70403
+Aldeia,Goulala,Goulala,Ermera,Letefoho,70403
+Aldeia,Lequi_Sala,Lequi Sala,Ermera,Letefoho,70403
+Aldeia,Madede,Madede,Ermera,Letefoho,70403
+Aldeia,Olopana,Olopana,Ermera,Letefoho,70403
+Aldeia,Taurema,Taurema,Ermera,Letefoho,70403
+Aldeia,Beturema,Beturema,Ermera,Letefoho,70404
+Aldeia,Cailiti,Cailiti,Ermera,Letefoho,70404
+Aldeia,Goulala,Goulala,Ermera,Letefoho,70404
+Aldeia,Goulolo,Goulolo,Ermera,Letefoho,70404
+Aldeia,Cailiti,Cailiti,Ermera,Letefoho,70405
+Aldeia,Hatugau,Hatugau,Ermera,Letefoho,70405
+Aldeia,Hunda,Hunda,Ermera,Letefoho,70405
+Aldeia,Riaheu,Riaheu,Ermera,Letefoho,70405
+Aldeia,Rialau,Rialau,Ermera,Letefoho,70405
+Aldeia,Sauria,Sauria,Ermera,Letefoho,70405
+Aldeia,Assi,Assi,Ermera,Letefoho,70406
+Aldeia,Beturema,Beturema,Ermera,Letefoho,70406
+Aldeia,Duhoho,Duhoho,Ermera,Letefoho,70406
+Aldeia,Hatuhou,Hatuhou,Ermera,Letefoho,70406
+Aldeia,Hauleo,Hauleo,Ermera,Letefoho,70406
+Aldeia,Haupu,Haupu,Ermera,Letefoho,70406
+Aldeia,Cairia,Cairia,Ermera,Letefoho,70406
+Aldeia,Lutlala,Lutlala,Ermera,Letefoho,70406
+Aldeia,Manucati_Leten,Manucati Leten,Ermera,Letefoho,70406
+Aldeia,Raepusa,Raepusa,Ermera,Letefoho,70406
+Aldeia,Riamori,Riamori,Ermera,Letefoho,70406
+Aldeia,Riatoni,Riatoni,Ermera,Letefoho,70406
+Aldeia,Baulisuria,Baulisuria,Ermera,Letefoho,70407
+Aldeia,Colo_Coli,Colo Coli,Ermera,Letefoho,70407
+Aldeia,Hatudmei,Hatudmei,Ermera,Letefoho,70407
+Aldeia,Hatugeo,Hatugeo,Ermera,Letefoho,70407
+Aldeia,Hatulete,Hatulete,Ermera,Letefoho,70407
+Aldeia,Leburema,Leburema,Ermera,Letefoho,70407
+Aldeia,Manturai,Manturai,Ermera,Letefoho,70407
+Aldeia,Manucoliria,Manucoliria,Ermera,Letefoho,70407
+Aldeia,Mausormata,Mausormata,Ermera,Letefoho,70407
+Aldeia,Alosai,Alosai,Ermera,Letefoho,70408
+Aldeia,Grotu,Grotu,Ermera,Letefoho,70408
+Aldeia,Hatugeo,Hatugeo,Ermera,Letefoho,70408
+Aldeia,Lemiluhi,Lemiluhi,Ermera,Letefoho,70408
+Aldeia,Leubasa,Leubasa,Ermera,Letefoho,70408
+Aldeia,Liabe,Liabe,Ermera,Letefoho,70408
+Aldeia,Quiri_Lelo,Quiri Lelo,Ermera,Letefoho,70408
+Aldeia,Raebou/Ainapa,Raebou/Ainapa,Ermera,Letefoho,70408
+Aldeia,Raebou/Sloi,Raebou/Sloi,Ermera,Letefoho,70408
+Aldeia,Roulo,Roulo,Ermera,Letefoho,70408
+Aldeia,Boeh-Mata,Boeh-Mata,Ermera,Railaco,70501
+Aldeia,Lebubo,Lebubo,Ermera,Railaco,70501
+Aldeia,Caitarahei,Caitarahei,Ermera,Railaco,70502
+Aldeia,Palimano,Palimano,Ermera,Railaco,70502
+Aldeia,Camalpun,Camalpun,Ermera,Railaco,70503
+Aldeia,Camalraehei,Camalraehei,Ermera,Railaco,70503
+Aldeia,Hi,Hi,Ermera,Railaco,70503
+Aldeia,Raeudu,Raeudu,Ermera,Railaco,70503
+Aldeia,Colaco,Colaco,Ermera,Railaco,70504
+Aldeia,Mauane,Mauane,Ermera,Railaco,70504
+Aldeia,Taemausoru,Taemausoru,Ermera,Railaco,70504
+Aldeia,Titibuti,Titibuti,Ermera,Railaco,70504
+Aldeia,Cucoa,Cucoa,Ermera,Railaco,70505
+Aldeia,Fatucado,Fatucado,Ermera,Railaco,70505
+Aldeia,Riamori,Riamori,Ermera,Railaco,70505
+Aldeia,Sobrequeque,Sobrequeque,Ermera,Railaco,70505
+Aldeia,Colhuinamo,Colhuinamo,Ermera,Railaco,70506
+Aldeia,Darema,Darema,Ermera,Railaco,70506
+Aldeia,Manuponihei,Manuponihei,Ermera,Railaco,70506
+Aldeia,Tuileso,Tuileso,Ermera,Railaco,70506
+Aldeia,Tunlero,Tunlero,Ermera,Railaco,70506
+Aldeia,Aiurlala,Aiurlala,Ermera,Railaco,70507
+Aldeia,Eraulo,Eraulo,Ermera,Railaco,70507
+Aldeia,Leburema,Leburema,Ermera,Railaco,70507
+Aldeia,Datoleo,Datoleo,Ermera,Railaco,70508
+Aldeia,Laqueco,Laqueco,Ermera,Railaco,70508
+Aldeia,Caisahe,Caisahe,Ermera,Railaco,70509
+Aldeia,Marobo,Marobo,Ermera,Railaco,70509
+Aldeia,Tahobote,Tahobote,Ermera,Railaco,70509
+Aldeia,Heitali,Heitali,Lautém,Iliomar,80101
+Aldeia,Lalumato,Lalumato,Lautém,Iliomar,80101
+Aldeia,Leilor,Leilor,Lautém,Iliomar,80101
+Aldeia,Marafal,Marafal,Lautém,Iliomar,80101
+Aldeia,Caidavalarin,Caidavalarin,Lautém,Iliomar,80102
+Aldeia,Larimi,Larimi,Lautém,Iliomar,80102
+Aldeia,Liufalun,Liufalun,Lautém,Iliomar,80102
+Aldeia,Maluhira,Maluhira,Lautém,Iliomar,80102
+Aldeia,Titiravein,Titiravein,Lautém,Iliomar,80102
+Aldeia,Acadirulo,Acadirulo,Lautém,Iliomar,80103
+Aldeia,Rumutau,Rumutau,Lautém,Iliomar,80103
+Aldeia,Vataomar,Vataomar,Lautém,Iliomar,80103
+Aldeia,Ara'Ara,Ara'Ara,Lautém,Iliomar,80104
+Aldeia,Caentau,Caentau,Lautém,Iliomar,80104
+Aldeia,Iliomar,Iliomar,Lautém,Iliomar,80104
+Aldeia,Ossohira,Ossohira,Lautém,Iliomar,80104
+Aldeia,Vatamatar,Vatamatar,Lautém,Iliomar,80104
+Aldeia,Acara,Acara,Lautém,Iliomar,80105
+Aldeia,Boquila,Boquila,Lautém,Iliomar,80105
+Aldeia,Caidabu,Caidabu,Lautém,Iliomar,80105
+Aldeia,Lihina,Lihina,Lautém,Iliomar,80105
+Aldeia,Madarira,Madarira,Lautém,Iliomar,80105
+Aldeia,Etevata,Etevata,Lautém,Iliomar,80106
+Aldeia,Tatalalarin,Tatalalarin,Lautém,Iliomar,80106
+Aldeia,Tirilolo,Tirilolo,Lautém,Iliomar,80106
+Aldeia,Irapala,Irapala,Lautém,Lautém,80201
+Aldeia,Laculomano,Laculomano,Lautém,Lautém,80201
+Aldeia,Luadau,Luadau,Lautém,Lautém,80201
+Aldeia,Malailada,Malailada,Lautém,Lautém,80201
+Aldeia,Tamaro,Tamaro,Lautém,Lautém,80201
+Aldeia,Etepiti,Etepiti,Lautém,Lautém,80202
+Aldeia,Ira'Ono,Ira'Ono,Lautém,Lautém,80202
+Aldeia,Lohomato,Lohomato,Lautém,Lautém,80202
+Aldeia,Muapusso,Muapusso,Lautém,Lautém,80202
+Aldeia,Pitileti,Pitileti,Lautém,Lautém,80202
+Aldeia,Vailovaia,Vailovaia,Lautém,Lautém,80202
+Aldeia,Aelafa,Aelafa,Lautém,Lautém,80203
+Aldeia,Anarua,Anarua,Lautém,Lautém,80203
+Aldeia,Macalodo,Macalodo,Lautém,Lautém,80203
+Aldeia,Nassuloi,Nassuloi,Lautém,Lautém,80203
+Aldeia,Sagueli,Sagueli,Lautém,Lautém,80203
+Aldeia,Samaira,Samaira,Lautém,Lautém,80203
+Aldeia,Uanambere,Uanambere,Lautém,Lautém,80203
+Aldeia,Vassatoi,Vassatoi,Lautém,Lautém,80203
+Aldeia,Barliu,Barliu,Lautém,Lautém,80204
+Aldeia,Borubatu,Borubatu,Lautém,Lautém,80204
+Aldeia,Vaniria,Vaniria,Lautém,Lautém,80204
+Aldeia,Samalari,Samalari,Lautém,Lautém,80205
+Aldeia,Titilari,Titilari,Lautém,Lautém,80205
+Aldeia,Dauluturo,Dauluturo,Lautém,Lautém,80206
+Aldeia,Mauvedara,Mauvedara,Lautém,Lautém,80206
+Aldeia,Narunteino,Narunteino,Lautém,Lautém,80206
+Aldeia,Paiahara,Paiahara,Lautém,Lautém,80206
+Aldeia,Soleresi,Soleresi,Lautém,Lautém,80206
+Aldeia,Codo,Codo,Lautém,Lautém,80207
+Aldeia,Lereado,Lereado,Lautém,Lautém,80207
+Aldeia,Lereira,Lereira,Lautém,Lautém,80207
+Aldeia,Oirata,Oirata,Lautém,Lautém,80207
+Aldeia,Queduloro,Queduloro,Lautém,Lautém,80207
+Aldeia,Caporo,Caporo,Lautém,Lautém,80208
+Aldeia,Ira-Tchau,Ira-Tchau,Lautém,Lautém,80208
+Aldeia,Levono,Levono,Lautém,Lautém,80208
+Aldeia,Puno,Puno,Lautém,Lautém,80208
+Aldeia,Iparira,Iparira,Lautém,Lautém,80209
+Aldeia,Ira'Ara,Ira'Ara,Lautém,Lautém,80209
+Aldeia,Laiara,Laiara,Lautém,Lautém,80209
+Aldeia,Moro,Moro,Lautém,Lautém,80209
+Aldeia,Soiquili,Soiquili,Lautém,Lautém,80209
+Aldeia,Adavari,Adavari,Lautém,Lautém,80210
+Aldeia,Poruvari,Poruvari,Lautém,Lautém,80210
+Aldeia,Ra'Ano,Ra'Ano,Lautém,Lautém,80210
+Aldeia,Bauro,Bauro,Lautém,Lospalos,80301
+Aldeia,Iralafai,Iralafai,Lautém,Lospalos,80301
+Aldeia,Sepelata,Sepelata,Lautém,Lospalos,80301
+Aldeia,Somotcho,Somotcho,Lautém,Lospalos,80301
+Aldeia,Luarai,Luarai,Lautém,Lospalos,80301
+Aldeia,Laiara,Laiara,Lautém,Lospalos,80302
+Aldeia,Paihira,Paihira,Lautém,Lospalos,80302
+Aldeia,Solepara,Solepara,Lautém,Lospalos,80302
+Aldeia,Tcharano,Tcharano,Lautém,Lospalos,80302
+Aldeia,30_de_Agosto,30 de Agosto,Lautém,Lospalos,80303
+Aldeia,Assalaino,Assalaino,Lautém,Lospalos,80303
+Aldeia,Bemoris,Bemoris,Lautém,Lospalos,80303
+Aldeia,Central,Central,Lautém,Lospalos,80303
+Aldeia,Ira'Ara,Ira'Ara,Lautém,Lospalos,80303
+Aldeia,Kuluhun,Kuluhun,Lautém,Lospalos,80303
+Aldeia,Lereloho,Lereloho,Lautém,Lospalos,80303
+Aldeia,Lospala,Lospala,Lautém,Lospalos,80303
+Aldeia,Nakroman,Nakroman,Lautém,Lospalos,80303
+Aldeia,Tchauluturo,Tchauluturo,Lautém,Lospalos,80303
+Aldeia,Titilari,Titilari,Lautém,Lospalos,80303
+Aldeia,Larinatcha,Larinatcha,Lautém,Lospalos,80304
+Aldeia,Lilapuhu,Lilapuhu,Lautém,Lospalos,80304
+Aldeia,Reisoru,Reisoru,Lautém,Lospalos,80304
+Aldeia,Tchenuloro,Tchenuloro,Lautém,Lospalos,80304
+Aldeia,Leuro,Leuro,Lautém,Lospalos,80305
+Aldeia,Luturula,Luturula,Lautém,Lospalos,80305
+Aldeia,Soro_Moco,Soro Moco,Lautém,Lospalos,80305
+Aldeia,Tcharano,Tcharano,Lautém,Lospalos,80305
+Aldeia,Horolata,Horolata,Lautém,Lospalos,80306
+Aldeia,Maluro,Maluro,Lautém,Lospalos,80306
+Aldeia,Otcho-Tchau,Otcho-Tchau,Lautém,Lospalos,80306
+Aldeia,Tchai,Tchai,Lautém,Lospalos,80306
+Aldeia,Titilari,Titilari,Lautém,Lospalos,80306
+Aldeia,Vailana,Vailana,Lautém,Lospalos,80306
+Aldeia,Haitupuca,Haitupuca,Lautém,Lospalos,80307
+Aldeia,Ililapa,Ililapa,Lautém,Lospalos,80307
+Aldeia,Nuhalata,Nuhalata,Lautém,Lospalos,80307
+Aldeia,Lopuloho,Lopuloho,Lautém,Lospalos,80308
+Aldeia,Malahara,Malahara,Lautém,Lospalos,80308
+Aldeia,Muapitine,Muapitine,Lautém,Lospalos,80308
+Aldeia,Pehefito,Pehefito,Lautém,Lospalos,80308
+Aldeia,Vailoro,Vailoro,Lautém,Lospalos,80308
+Aldeia,Maulo'O,Maulo'O,Lautém,Lospalos,80309
+Aldeia,Raça,Raça,Lautém,Lospalos,80309
+Aldeia,Tchailoro,Tchailoro,Lautém,Lospalos,80309
+Aldeia,Foema'A,Foema'A,Lautém,Lospalos,80310
+Aldeia,Louro,Louro,Lautém,Lospalos,80310
+Aldeia,Nairete,Nairete,Lautém,Lospalos,80310
+Aldeia,Nanacuro,Nanacuro,Lautém,Lospalos,80310
+Aldeia,Omocano,Omocano,Lautém,Lospalos,80310
+Aldeia,Soru-Lua,Soru-Lua,Lautém,Lospalos,80310
+Aldeia,Tchaivatcha,Tchaivatcha,Lautém,Lospalos,80310
+Aldeia,Dalari,Dalari,Lautém,Luro,80401
+Aldeia,Jefaliu,Jefaliu,Lautém,Luro,80401
+Aldeia,Afaia,Afaia,Lautém,Luro,80402
+Aldeia,Sarelari,Sarelari,Lautém,Luro,80402
+Aldeia,Ussufassu,Ussufassu,Lautém,Luro,80402
+Aldeia,Buanomar,Buanomar,Lautém,Luro,80403
+Aldeia,Etanisi,Etanisi,Lautém,Luro,80403
+Aldeia,Ouroma,Ouroma,Lautém,Luro,80403
+Aldeia,Borugae,Borugae,Lautém,Luro,80404
+Aldeia,Boruvali,Boruvali,Lautém,Luro,80404
+Aldeia,Oneraba,Oneraba,Lautém,Luro,80404
+Aldeia,Abere,Abere,Lautém,Luro,80405
+Aldeia,Alahira,Alahira,Lautém,Luro,80405
+Aldeia,Amahira,Amahira,Lautém,Luro,80405
+Aldeia,Hailarino,Hailarino,Lautém,Luro,80405
+Aldeia,Vatalarino,Vatalarino,Lautém,Luro,80405
+Aldeia,Afanami,Afanami,Lautém,Luro,80406
+Aldeia,Iuto,Iuto,Lautém,Luro,80406
+Aldeia,Liarafa,Liarafa,Lautém,Luro,80406
+Aldeia,Luturo,Luturo,Lautém,Luro,80406
+Aldeia,Soba,Soba,Lautém,Luro,80406
+Aldeia,Loiquero,Loiquero,Lautém,Tutuala,80501
+Aldeia,Porlamano,Porlamano,Lautém,Tutuala,80501
+Aldeia,Poros,Poros,Lautém,Tutuala,80501
+Aldeia,Ioro,Ioro,Lautém,Tutuala,80502
+Aldeia,Pitileti,Pitileti,Lautém,Tutuala,80502
+Aldeia,Tchailoro,Tchailoro,Lautém,Tutuala,80502
+Aldeia,Vero,Vero,Lautém,Tutuala,80502
+Aldeia,Fatuneso,Fatuneso,Liquiçá,Bazartete,90101
+Aldeia,Tuhilo_Craic,Tuhilo Craic,Liquiçá,Bazartete,90101
+Aldeia,Tuhilo_Leten,Tuhilo Leten,Liquiçá,Bazartete,90101
+Aldeia,Bazartete,Bazartete,Liquiçá,Bazartete,90102
+Aldeia,Durubasa,Durubasa,Liquiçá,Bazartete,90102
+Aldeia,Legumea,Legumea,Liquiçá,Bazartete,90102
+Aldeia,Metir,Metir,Liquiçá,Bazartete,90102
+Aldeia,Caimegulo,Caimegulo,Liquiçá,Bazartete,90103
+Aldeia,Camalehou,Camalehou,Liquiçá,Bazartete,90103
+Aldeia,Pissu_Craic,Pissu Craic,Liquiçá,Bazartete,90103
+Aldeia,Pissu_Leten,Pissu Leten,Liquiçá,Bazartete,90103
+Aldeia,Raucassa,Raucassa,Liquiçá,Bazartete,90103
+Aldeia,Baura,Baura,Liquiçá,Bazartete,90104
+Aldeia,Bucumera,Bucumera,Liquiçá,Bazartete,90104
+Aldeia,Cutulau,Cutulau,Liquiçá,Bazartete,90104
+Aldeia,Ergoa,Ergoa,Liquiçá,Bazartete,90104
+Aldeia,Fatunero,Fatunero,Liquiçá,Bazartete,90104
+Aldeia,Hatu-Hou,Hatu-Hou,Liquiçá,Bazartete,90104
+Aldeia,Manu-Lete,Manu-Lete,Liquiçá,Bazartete,90104
+Aldeia,Railuli,Railuli,Liquiçá,Bazartete,90104
+Aldeia,Urema,Urema,Liquiçá,Bazartete,90104
+Aldeia,Urluli,Urluli,Liquiçá,Bazartete,90104
+Aldeia,Caimegohou,Caimegohou,Liquiçá,Bazartete,90105
+Aldeia,Darmudapu,Darmudapu,Liquiçá,Bazartete,90105
+Aldeia,Maumetalau,Maumetalau,Liquiçá,Bazartete,90105
+Aldeia,Nartutu,Nartutu,Liquiçá,Bazartete,90105
+Aldeia,Assorlema,Assorlema,Liquiçá,Bazartete,90106
+Aldeia,Caleulema,Caleulema,Liquiçá,Bazartete,90106
+Aldeia,Metiluli,Metiluli,Liquiçá,Bazartete,90106
+Aldeia,Classo,Classo,Liquiçá,Bazartete,90107
+Aldeia,Mau-Luto,Mau-Luto,Liquiçá,Bazartete,90107
+Aldeia,Mota_Icun,Mota Icun,Liquiçá,Bazartete,90107
+Aldeia,Fatunia,Fatunia,Liquiçá,Bazartete,90108
+Aldeia,Libaulelo,Libaulelo,Liquiçá,Bazartete,90108
+Aldeia,Mau-Soi,Mau-Soi,Liquiçá,Bazartete,90108
+Aldeia,Turleu,Turleu,Liquiçá,Bazartete,90108
+Aldeia,Ermeta,Ermeta,Liquiçá,Bazartete,90109
+Aldeia,Essirat,Essirat,Liquiçá,Bazartete,90109
+Aldeia,Fatubesilolo,Fatubesilolo,Liquiçá,Bazartete,90109
+Aldeia,Mane-Mori,Mane-Mori,Liquiçá,Bazartete,90109
+Aldeia,Mane-Muno,Mane-Muno,Liquiçá,Bazartete,90109
+Aldeia,Nauner,Nauner,Liquiçá,Bazartete,90109
+Aldeia,Neran,Neran,Liquiçá,Bazartete,90109
+Aldeia,Terlau,Terlau,Liquiçá,Bazartete,90109
+Aldeia,Tetsari,Tetsari,Liquiçá,Bazartete,90109
+Aldeia,Caicasaico,Caicasaico,Liquiçá,Liquiçá,90201
+Aldeia,Hatumatilu,Hatumatilu,Liquiçá,Liquiçá,90201
+Aldeia,Quirilelo,Quirilelo,Liquiçá,Liquiçá,90201
+Aldeia,Siscoelema,Siscoelema,Liquiçá,Liquiçá,90201
+Aldeia,Caileli,Caileli,Liquiçá,Liquiçá,90202
+Aldeia,Carulema,Carulema,Liquiçá,Liquiçá,90202
+Aldeia,Lebu-Ae,Lebu-Ae,Liquiçá,Liquiçá,90202
+Aldeia,Manupatia,Manupatia,Liquiçá,Liquiçá,90202
+Aldeia,Cabuilimo,Cabuilimo,Liquiçá,Liquiçá,90203
+Aldeia,Camalehohoru,Camalehohoru,Liquiçá,Liquiçá,90203
+Aldeia,Camalelara,Camalelara,Liquiçá,Liquiçá,90203
+Aldeia,Hecar,Hecar,Liquiçá,Liquiçá,90203
+Aldeia,Laclolema,Laclolema,Liquiçá,Liquiçá,90203
+Aldeia,Lebuhei,Lebuhei,Liquiçá,Liquiçá,90203
+Aldeia,Leopa,Leopa,Liquiçá,Liquiçá,90203
+Aldeia,Lisa-Ico,Lisa-Ico,Liquiçá,Liquiçá,90203
+Aldeia,Puquelara,Puquelara,Liquiçá,Liquiçá,90203
+Aldeia,Quirilelo,Quirilelo,Liquiçá,Liquiçá,90203
+Aldeia,Caicoletohoho,Caicoletohoho,Liquiçá,Liquiçá,90204
+Aldeia,Caidico,Caidico,Liquiçá,Liquiçá,90204
+Aldeia,Hatarlema,Hatarlema,Liquiçá,Liquiçá,90204
+Aldeia,Hatuquessilete,Hatuquessilete,Liquiçá,Liquiçá,90204
+Aldeia,Lebusalara,Lebusalara,Liquiçá,Liquiçá,90204
+Aldeia,Nunubrihati,Nunubrihati,Liquiçá,Liquiçá,90204
+Aldeia,Nunuhou,Nunuhou,Liquiçá,Liquiçá,90204
+Aldeia,Tautalo,Tautalo,Liquiçá,Liquiçá,90204
+Aldeia,Caimegoluli,Caimegoluli,Liquiçá,Liquiçá,90205
+Aldeia,Hatumasi,Hatumasi,Liquiçá,Liquiçá,90205
+Aldeia,Lepa,Lepa,Liquiçá,Liquiçá,90205
+Aldeia,Manati,Manati,Liquiçá,Liquiçá,90205
+Aldeia,Tolema,Tolema,Liquiçá,Liquiçá,90205
+Aldeia,Cotalara,Cotalara,Liquiçá,Liquiçá,90206
+Aldeia,Hatululi,Hatululi,Liquiçá,Liquiçá,90206
+Aldeia,Manucol-Hata,Manucol-Hata,Liquiçá,Liquiçá,90206
+Aldeia,Soatala,Soatala,Liquiçá,Liquiçá,90206
+Aldeia,Hunehei,Hunehei,Liquiçá,Liquiçá,90207
+Aldeia,Lebuana,Lebuana,Liquiçá,Liquiçá,90207
+Aldeia,Metagou,Metagou,Liquiçá,Liquiçá,90207
+Aldeia,Natarae,Natarae,Liquiçá,Liquiçá,90207
+Aldeia,Cai-Cassa,Cai-Cassa,Liquiçá,Maubara,90301
+Aldeia,Dair,Dair,Liquiçá,Maubara,90301
+Aldeia,Erito,Erito,Liquiçá,Maubara,90301
+Aldeia,Lautecas,Lautecas,Liquiçá,Maubara,90301
+Aldeia,Lauvou,Lauvou,Liquiçá,Maubara,90301
+Aldeia,Lebulugor,Lebulugor,Liquiçá,Maubara,90301
+Aldeia,Lissa-Lara,Lissa-Lara,Liquiçá,Maubara,90301
+Aldeia,Palistla,Palistla,Liquiçá,Maubara,90301
+Aldeia,Puquelete,Puquelete,Liquiçá,Maubara,90301
+Aldeia,Raenaba,Raenaba,Liquiçá,Maubara,90301
+Aldeia,Vatumori,Vatumori,Liquiçá,Maubara,90301
+Aldeia,Caicassavou,Caicassavou,Liquiçá,Maubara,90302
+Aldeia,Irlelo,Irlelo,Liquiçá,Maubara,90302
+Aldeia,Mau-Uno,Mau-Uno,Liquiçá,Maubara,90302
+Aldeia,Pandevou,Pandevou,Liquiçá,Maubara,90302
+Aldeia,Vatu-Vei,Vatu-Vei,Liquiçá,Maubara,90302
+Aldeia,Bautalo,Bautalo,Liquiçá,Maubara,90303
+Aldeia,Cai-Cassa,Cai-Cassa,Liquiçá,Maubara,90303
+Aldeia,Darulema,Darulema,Liquiçá,Maubara,90303
+Aldeia,Glai,Glai,Liquiçá,Maubara,90303
+Aldeia,Lebuhae,Lebuhae,Liquiçá,Maubara,90303
+Aldeia,Manuquibia,Manuquibia,Liquiçá,Maubara,90303
+Aldeia,Nunulisa,Nunulisa,Liquiçá,Maubara,90303
+Aldeia,Baiquenulau,Baiquenulau,Liquiçá,Maubara,90304
+Aldeia,Darulema,Darulema,Liquiçá,Maubara,90304
+Aldeia,Lissalara,Lissalara,Liquiçá,Maubara,90304
+Aldeia,Nunulete,Nunulete,Liquiçá,Maubara,90304
+Aldeia,Vatuguili,Vatuguili,Liquiçá,Maubara,90304
+Aldeia,Cai-Bair,Cai-Bair,Liquiçá,Maubara,90305
+Aldeia,Raeglelu,Raeglelu,Liquiçá,Maubara,90305
+Aldeia,Sabulau,Sabulau,Liquiçá,Maubara,90305
+Aldeia,Tatamolobu,Tatamolobu,Liquiçá,Maubara,90305
+Aldeia,Vaupu,Vaupu,Liquiçá,Maubara,90305
+Aldeia,Bouraevei,Bouraevei,Liquiçá,Maubara,90306
+Aldeia,Gariana,Gariana,Liquiçá,Maubara,90306
+Aldeia,Lebucailiti,Lebucailiti,Liquiçá,Maubara,90306
+Aldeia,Lissa-Ico,Lissa-Ico,Liquiçá,Maubara,90306
+Aldeia,Lissalara,Lissalara,Liquiçá,Maubara,90306
+Aldeia,Manuquibia,Manuquibia,Liquiçá,Maubara,90306
+Aldeia,Mau-Ubu,Mau-Ubu,Liquiçá,Maubara,90306
+Aldeia,Raeme,Raeme,Liquiçá,Maubara,90306
+Aldeia,Samanaru,Samanaru,Liquiçá,Maubara,90306
+Aldeia,Vatu-Nau,Vatu-Nau,Liquiçá,Maubara,90306
+Aldeia,Darulara,Darulara,Liquiçá,Maubara,90307
+Aldeia,Delesuvati,Delesuvati,Liquiçá,Maubara,90307
+Aldeia,Lebumeta,Lebumeta,Liquiçá,Maubara,90307
+Aldeia,Morae,Morae,Liquiçá,Maubara,90307
+Aldeia,Nunuana,Nunuana,Liquiçá,Maubara,90307
+Aldeia,Pametapu,Pametapu,Liquiçá,Maubara,90307
+Aldeia,Vila,Vila,Liquiçá,Maubara,90307
+Aldeia,Camedar,Camedar,Manatuto,Barique,100101
+Aldeia,Ranac,Ranac,Manatuto,Barique,100101
+Aldeia,Bubur_Laran,Bubur Laran,Manatuto,Barique,100102
+Aldeia,Wecadi,Wecadi,Manatuto,Barique,100102
+Aldeia,Caunua,Caunua,Manatuto,Barique,100103
+Aldeia,Weubani,Weubani,Manatuto,Barique,100103
+Aldeia,Dambua_Hun,Dambua Hun,Manatuto,Barique,100104
+Aldeia,Isadan,Isadan,Manatuto,Barique,100104
+Aldeia,Nu-Ahuc,Nu-Ahuc,Manatuto,Barique,100104
+Aldeia,Fehuc_Rin,Fehuc Rin,Manatuto,Barique,100105
+Aldeia,Halibur,Halibur,Manatuto,Barique,100105
+Aldeia,Oe-Onu,Oe-Onu,Manatuto,Barique,100106
+Aldeia,Ue-Kandia,Ue-Kandia,Manatuto,Barique,100106
+Aldeia,Anicolaun,Anicolaun,Manatuto,Lacló,100201
+Aldeia,Hatu_Ermera,Hatu Ermera,Manatuto,Lacló,100201
+Aldeia,Hatanaun,Hatanaun,Manatuto,Lacló,100201
+Aldeia,Miri_Huhun,Miri Huhun,Manatuto,Lacló,100201
+Aldeia,Hatu_Conan,Hatu Conan,Manatuto,Lacló,100202
+Aldeia,Labubu,Labubu,Manatuto,Lacló,100202
+Aldeia,Nacaleo,Nacaleo,Manatuto,Lacló,100202
+Aldeia,Readodoc,Readodoc,Manatuto,Lacló,100202
+Aldeia,Tahagamu,Tahagamu,Manatuto,Lacló,100202
+Aldeia,Bahadic,Bahadic,Manatuto,Lacló,100205
+Aldeia,Licore,Licore,Manatuto,Lacló,100205
+Aldeia,Rea-Hatu,Rea-Hatu,Manatuto,Lacló,100205
+Aldeia,Hatu-Ruin,Hatu-Ruin,Manatuto,Lacló,100205
+Aldeia,Condar,Condar,Manatuto,Lacló,100203
+Aldeia,Hahi_Hoho,Hahi Hoho,Manatuto,Lacló,100203
+Aldeia,Ili-Mano,Ili-Mano,Manatuto,Lacló,100203
+Aldeia,Rebutik_Geong,Rebutik Geong,Manatuto,Lacló,100203
+Aldeia,Bua,Bua,Manatuto,Lacló,100204
+Aldeia,Hahi-Lacor,Hahi-Lacor,Manatuto,Lacló,100204
+Aldeia,Uma_Naruc,Uma Naruc,Manatuto,Lacló,100204
+Aldeia,Uma_Surat,Uma Surat,Manatuto,Lacló,100204
+Aldeia,Are_Ain,Are Ain,Manatuto,Laclubar,100301
+Aldeia,Balulin,Balulin,Manatuto,Laclubar,100301
+Aldeia,Fatuha,Fatuha,Manatuto,Laclubar,100301
+Aldeia,Werulun,Werulun,Manatuto,Laclubar,100301
+Aldeia,Laramera,Laramera,Manatuto,Laclubar,100302
+Aldeia,Lisuata,Lisuata,Manatuto,Laclubar,100302
+Aldeia,Sasahi,Sasahi,Manatuto,Laclubar,100302
+Aldeia,Bamatac,Bamatac,Manatuto,Laclubar,100303
+Aldeia,Fahi_Lihun,Fahi Lihun,Manatuto,Laclubar,100303
+Aldeia,Lawado,Lawado,Manatuto,Laclubar,100303
+Aldeia,Maucucurian,Maucucurian,Manatuto,Laclubar,100303
+Aldeia,Aman_Un,Aman Un,Manatuto,Laclubar,100304
+Aldeia,Calohan,Calohan,Manatuto,Laclubar,100304
+Aldeia,Futumanuc,Futumanuc,Manatuto,Laclubar,100304
+Aldeia,Aceno,Aceno,Manatuto,Laclubar,100304
+Aldeia,Lafulau,Lafulau,Manatuto,Laclubar,100304
+Aldeia,Mane-Atun,Mane-Atun,Manatuto,Laclubar,100304
+Aldeia,Aimaulin,Aimaulin,Manatuto,Laclubar,100305
+Aldeia,Diric_Un,Diric Un,Manatuto,Laclubar,100305
+Aldeia,Fatulaun,Fatulaun,Manatuto,Laclubar,100305
+Aldeia,Le'I,Le'I,Manatuto,Laclubar,100305
+Aldeia,Naule'En,Naule'En,Manatuto,Laclubar,100305
+Aldeia,Orlalan,Orlalan,Manatuto,Laclubar,100305
+Aldeia,Pualaca,Pualaca,Manatuto,Laclubar,100305
+Aldeia,Torilalan,Torilalan,Manatuto,Laclubar,100305
+Aldeia,Fatu-Uc,Fatu-Uc,Manatuto,Laclubar,100306
+Aldeia,Ruhetun,Ruhetun,Manatuto,Laclubar,100306
+Aldeia,Tanusa,Tanusa,Manatuto,Laclubar,100306
+Aldeia,Waidarec,Waidarec,Manatuto,Laclubar,100306
+Aldeia,Bia-Ba'E,Bia-Ba'E,Manatuto,Laleia,100401
+Aldeia,Corohoco,Corohoco,Manatuto,Laleia,100401
+Aldeia,Hatu-Karau,Hatu-Karau,Manatuto,Laleia,100401
+Aldeia,Rai-Bu,Rai-Bu,Manatuto,Laleia,100401
+Aldeia,Rai-Mea,Rai-Mea,Manatuto,Laleia,100401
+Aldeia,Uai-Nunu,Uai-Nunu,Manatuto,Laleia,100401
+Aldeia,Uatu-Sili,Uatu-Sili,Manatuto,Laleia,100401
+Aldeia,Ralan,Ralan,Manatuto,Laleia,100402
+Aldeia,Uma-Iuc,Uma-Iuc,Manatuto,Laleia,100402
+Aldeia,Ueboro,Ueboro,Manatuto,Laleia,100402
+Aldeia,Lenao,Lenao,Manatuto,Laleia,100403
+Aldeia,Uma-Clalan,Uma-Clalan,Manatuto,Laleia,100403
+Aldeia,Uma-Rentau,Uma-Rentau,Manatuto,Laleia,100403
+Aldeia,Belebato,Belebato,Manatuto,Manatuto,100501
+Aldeia,Iun,Iun,Manatuto,Manatuto,100501
+Aldeia,Bi-Uac,Bi-Uac,Manatuto,Manatuto,100502
+Aldeia,Carlilu,Carlilu,Manatuto,Manatuto,100502
+Aldeia,Rembor,Rembor,Manatuto,Manatuto,100502
+Aldeia,Umasau,Umasau,Manatuto,Manatuto,100502
+Aldeia,Athoc,Athoc,Manatuto,Manatuto,100503
+Aldeia,Caunua,Caunua,Manatuto,Manatuto,100503
+Aldeia,Ranac,Ranac,Manatuto,Manatuto,100503
+Aldeia,Tuquete,Tuquete,Manatuto,Manatuto,100503
+Aldeia,Ueubani,Ueubani,Manatuto,Manatuto,100503
+Aldeia,I-Un,I-Un,Manatuto,Manatuto,100504
+Aldeia,Ili-Huli,Ili-Huli,Manatuto,Manatuto,100504
+Aldeia,Ma'Abat,Ma'Abat,Manatuto,Manatuto,100505
+Aldeia,Soraha,Soraha,Manatuto,Manatuto,100505
+Aldeia,Obrato,Obrato,Manatuto,Manatuto,100506
+Aldeia,Sau,Sau,Manatuto,Manatuto,100506
+Aldeia,Lesuata,Lesuata,Manatuto,Soibada,100601
+Aldeia,Sasahi,Sasahi,Manatuto,Soibada,100601
+Aldeia,Leo-Hat,Leo-Hat,Manatuto,Soibada,100602
+Aldeia,Malus_Hun,Malus Hun,Manatuto,Soibada,100602
+Aldeia,Dauloroc,Dauloroc,Manatuto,Soibada,100603
+Aldeia,Manlala,Manlala,Manatuto,Soibada,100603
+Aldeia,Maun-Fahe,Maun-Fahe,Manatuto,Soibada,100604
+Aldeia,Teras,Teras,Manatuto,Soibada,100604
+Aldeia,Uma_Querec_Leten,Uma Querec Leten,Manatuto,Soibada,100605
+Aldeia,Uma_Querec_Lor,Uma Querec Lor,Manatuto,Soibada,100605
+Aldeia,Leodato,Leodato,Manufahi,Alas,110101
+Aldeia,Raikesa,Raikesa,Manufahi,Alas,110101
+Aldeia,Lacaluan,Lacaluan,Manufahi,Alas,110102
+Aldeia,Sarin,Sarin,Manufahi,Alas,110102
+Aldeia,Ueberec,Ueberec,Manufahi,Alas,110102
+Aldeia,Beremanec,Beremanec,Manufahi,Alas,110103
+Aldeia,Debuuain,Debuuain,Manufahi,Alas,110103
+Aldeia,Cnua_Alas,Cnua Alas,Manufahi,Alas,110103
+Aldeia,Tahu_Bein,Tahu Bein,Manufahi,Alas,110103
+Aldeia,Uma_Mean,Uma Mean,Manufahi,Alas,110103
+Aldeia,Ailora,Ailora,Manufahi,Alas,110104
+Aldeia,Caqueuc_Laletec,Caqueuc Laletec,Manufahi,Alas,110104
+Aldeia,Lurin,Lurin,Manufahi,Alas,110104
+Aldeia,Mahaclusin,Mahaclusin,Manufahi,Alas,110104
+Aldeia,Manus,Manus,Manufahi,Alas,110104
+Aldeia,Baria_Laran,Baria Laran,Manufahi,Alas,110105
+Aldeia,Colocau,Colocau,Manufahi,Alas,110105
+Aldeia,Culuhun,Culuhun,Manufahi,Alas,110105
+Aldeia,Uma_Feric,Uma Feric,Manufahi,Alas,110105
+Aldeia,Aituha,Aituha,Manufahi,Fatuberliu,110201
+Aldeia,Bubulora,Bubulora,Manufahi,Fatuberliu,110201
+Aldeia,Bubussuso,Bubussuso,Manufahi,Fatuberliu,110201
+Aldeia,Lihu_Lau,Lihu Lau,Manufahi,Fatuberliu,110201
+Aldeia,Orlora,Orlora,Manufahi,Fatuberliu,110201
+Aldeia,Ailalec,Ailalec,Manufahi,Fatuberliu,110202
+Aldeia,Bubur_Laletec,Bubur Laletec,Manufahi,Fatuberliu,110202
+Aldeia,Caicassa,Caicassa,Manufahi,Fatuberliu,110202
+Aldeia,Sucaer_Oan,Sucaer Oan,Manufahi,Fatuberliu,110202
+Aldeia,Mane_Hat,Mane Hat,Manufahi,Fatuberliu,110203
+Aldeia,Nalolo,Nalolo,Manufahi,Fatuberliu,110203
+Aldeia,Saluquim,Saluquim,Manufahi,Fatuberliu,110203
+Aldeia,Tiro,Tiro,Manufahi,Fatuberliu,110203
+Aldeia,Uebicas,Uebicas,Manufahi,Fatuberliu,110203
+Aldeia,Ainessi,Ainessi,Manufahi,Fatuberliu,110204
+Aldeia,Daramata,Daramata,Manufahi,Fatuberliu,110204
+Aldeia,Daurata,Daurata,Manufahi,Fatuberliu,110204
+Aldeia,Riamori,Riamori,Manufahi,Fatuberliu,110204
+Aldeia,Cledic,Cledic,Manufahi,Fatuberliu,110205
+Aldeia,Fatubessi,Fatubessi,Manufahi,Fatuberliu,110205
+Aldeia,Fatuboe,Fatuboe,Manufahi,Fatuberliu,110205
+Aldeia,Fatumutin,Fatumutin,Manufahi,Fatuberliu,110205
+Aldeia,Fuquiran,Fuquiran,Manufahi,Fatuberliu,110205
+Aldeia,Lapuro,Lapuro,Manufahi,Same,110301
+Aldeia,Lia-Nai,Lia-Nai,Manufahi,Same,110301
+Aldeia,Nunu-Fu,Nunu-Fu,Manufahi,Same,110301
+Aldeia,Raimera,Raimera,Manufahi,Same,110301
+Aldeia,Searema,Searema,Manufahi,Same,110301
+Aldeia,Turon,Turon,Manufahi,Same,110301
+Aldeia,Uma-Liurai,Uma-Liurai,Manufahi,Same,110301
+Aldeia,Uma-Luli,Uma-Luli,Manufahi,Same,110301
+Aldeia,Bemetan,Bemetan,Manufahi,Same,110302
+Aldeia,Lalica,Lalica,Manufahi,Same,110302
+Aldeia,Leo-Ai,Leo-Ai,Manufahi,Same,110302
+Aldeia,Loro,Loro,Manufahi,Same,110302
+Aldeia,Rai-Fussa,Rai-Fussa,Manufahi,Same,110302
+Aldeia,Selihassan,Selihassan,Manufahi,Same,110302
+Aldeia,Sessurai,Sessurai,Manufahi,Same,110302
+Aldeia,Dai-Sua,Dai-Sua,Manufahi,Same,110303
+Aldeia,Leço-Ai,Leço-Ai,Manufahi,Same,110303
+Aldeia,Leço-Lau,Leço-Lau,Manufahi,Same,110303
+Aldeia,Loti,Loti,Manufahi,Same,110303
+Aldeia,Ria-Tu,Ria-Tu,Manufahi,Same,110303
+Aldeia,Coli_Dassi,Coli Dassi,Manufahi,Same,110304
+Aldeia,Dato_Rae,Dato Rae,Manufahi,Same,110304
+Aldeia,Leo_Dato,Leo Dato,Manufahi,Same,110304
+Aldeia,Anilumo,Anilumo,Manufahi,Same,110305
+Aldeia,Blaro,Blaro,Manufahi,Same,110305
+Aldeia,Carbulau,Carbulau,Manufahi,Same,110305
+Aldeia,Datina,Datina,Manufahi,Same,110305
+Aldeia,Deunai,Deunai,Manufahi,Same,110305
+Aldeia,Fahiluhan,Fahiluhan,Manufahi,Same,110305
+Aldeia,Falitehu,Falitehu,Manufahi,Same,110305
+Aldeia,Fatuco,Fatuco,Manufahi,Same,110305
+Aldeia,Hatu-Rae,Hatu-Rae,Manufahi,Same,110305
+Aldeia,Orema,Orema,Manufahi,Same,110305
+Aldeia,Russo,Russo,Manufahi,Same,110305
+Aldeia,Tirilolo,Tirilolo,Manufahi,Same,110305
+Aldeia,Uru_Fu,Uru Fu,Manufahi,Same,110305
+Aldeia,Ailuli,Ailuli,Manufahi,Same,110306
+Aldeia,Cotalala,Cotalala,Manufahi,Same,110306
+Aldeia,Ladiqui,Ladiqui,Manufahi,Same,110306
+Aldeia,Manico,Manico,Manufahi,Same,110306
+Aldeia,Rai-Ubo,Rai-Ubo,Manufahi,Same,110306
+Aldeia,Ria-Lau,Ria-Lau,Manufahi,Same,110306
+Aldeia,Tomonamo,Tomonamo,Manufahi,Same,110306
+Aldeia,Bere-Teni,Bere-Teni,Manufahi,Same,110307
+Aldeia,Foe-Hei,Foe-Hei,Manufahi,Same,110307
+Aldeia,Hatu-Hei,Hatu-Hei,Manufahi,Same,110307
+Aldeia,Leo-Fat,Leo-Fat,Manufahi,Same,110307
+Aldeia,Sabou,Sabou,Manufahi,Same,110307
+Aldeia,Ailau,Ailau,Manufahi,Same,110308
+Aldeia,Batas,Batas,Manufahi,Same,110308
+Aldeia,Bubolau,Bubolau,Manufahi,Same,110308
+Aldeia,Dalun,Dalun,Manufahi,Same,110308
+Aldeia,Hastetuc,Hastetuc,Manufahi,Same,110308
+Aldeia,Roin,Roin,Manufahi,Same,110308
+Aldeia,Sosemera,Sosemera,Manufahi,Same,110308
+Aldeia,Furac_Lau,Furac Lau,Manufahi,Turiscai,110401
+Aldeia,Laclo,Laclo,Manufahi,Turiscai,110401
+Aldeia,Beremana,Beremana,Manufahi,Turiscai,110402
+Aldeia,Dalubo,Dalubo,Manufahi,Turiscai,110402
+Aldeia,Fahilebo,Fahilebo,Manufahi,Turiscai,110402
+Aldeia,Bussacoa,Bussacoa,Manufahi,Turiscai,110403
+Aldeia,Fohua,Fohua,Manufahi,Turiscai,110403
+Aldeia,Lemano,Lemano,Manufahi,Turiscai,110403
+Aldeia,Railete,Railete,Manufahi,Turiscai,110403
+Aldeia,Risso,Risso,Manufahi,Turiscai,110403
+Aldeia,Darufu,Darufu,Manufahi,Turiscai,110404
+Aldeia,Ermori,Ermori,Manufahi,Turiscai,110404
+Aldeia,Leubuti,Leubuti,Manufahi,Turiscai,110405
+Aldeia,Lutarmata,Lutarmata,Manufahi,Turiscai,110405
+Aldeia,Tarabula,Tarabula,Manufahi,Turiscai,110405
+Aldeia,Ailulimau,Ailulimau,Manufahi,Turiscai,110406
+Aldeia,Bitibo,Bitibo,Manufahi,Turiscai,110406
+Aldeia,Lebucoa,Lebucoa,Manufahi,Turiscai,110406
+Aldeia,Namoluli,Namoluli,Manufahi,Turiscai,110406
+Aldeia,Bilimano,Bilimano,Manufahi,Turiscai,110407
+Aldeia,Fanolelo,Fanolelo,Manufahi,Turiscai,110407
+Aldeia,Fohonaru,Fohonaru,Manufahi,Turiscai,110407
+Aldeia,Marcoluli,Marcoluli,Manufahi,Turiscai,110407
+Aldeia,Titilauai,Titilauai,Manufahi,Turiscai,110407
+Aldeia,Turiscai_Lau,Turiscai Lau,Manufahi,Turiscai,110407
+Aldeia,Assumata,Assumata,Manufahi,Turiscai,110408
+Aldeia,Cotalaulara,Cotalaulara,Manufahi,Turiscai,110408
+Aldeia,Faturedalau,Faturedalau,Manufahi,Turiscai,110408
+Aldeia,Toilero,Toilero,Manufahi,Turiscai,110408
+Aldeia,Fatu_Hei,Fatu Hei,Manufahi,Turiscai,110409
+Aldeia,Foho_Tu,Foho Tu,Manufahi,Turiscai,110409
+Aldeia,Orluli,Orluli,Manufahi,Turiscai,110409
+Aldeia,Rimori,Rimori,Manufahi,Turiscai,110409
+Aldeia,Aidila,Aidila,Manufahi,Turiscai,110410
+Aldeia,Binani,Binani,Manufahi,Turiscai,110410
+Aldeia,Maubissi,Maubissi,Manufahi,Turiscai,110410
+Aldeia,Orcenaco,Orcenaco,Manufahi,Turiscai,110410
+Aldeia,Fatulelo,Fatulelo,Manufahi,Turiscai,110411
+Aldeia,Orana,Orana,Manufahi,Turiscai,110411
+Aldeia,Teberai,Teberai,Manufahi,Turiscai,110411
+Aldeia,Cuanobe,Cuanobe,Oe-Cusse,Nitibe,120101
+Aldeia,Hautefo,Hautefo,Oe-Cusse,Nitibe,120101
+Aldeia,Nefometan,Nefometan,Oe-Cusse,Nitibe,120101
+Aldeia,Citrana,Citrana,Oe-Cusse,Nitibe,120102
+Aldeia,Lamasi,Lamasi,Oe-Cusse,Nitibe,120102
+Aldeia,Manan,Manan,Oe-Cusse,Nitibe,120102
+Aldeia,Bebo,Bebo,Oe-Cusse,Nitibe,120103
+Aldeia,Cuatenes,Cuatenes,Oe-Cusse,Nitibe,120103
+Aldeia,Haoufe,Haoufe,Oe-Cusse,Nitibe,120103
+Aldeia,Mahata,Mahata,Oe-Cusse,Nitibe,120103
+Aldeia,Cabana,Cabana,Oe-Cusse,Nitibe,120104
+Aldeia,Fuabano,Fuabano,Oe-Cusse,Nitibe,120104
+Aldeia,Oelnanoe,Oelnanoe,Oe-Cusse,Nitibe,120104
+Aldeia,Cuantua,Cuantua,Oe-Cusse,Nitibe,120105
+Aldeia,Fatunababo,Fatunababo,Oe-Cusse,Nitibe,120105
+Aldeia,Nitibe,Nitibe,Oe-Cusse,Nitibe,120105
+Aldeia,Oamna,Oamna,Oe-Cusse,Nitibe,120105
+Aldeia,Hoineno,Hoineno,Oe-Cusse,Oesilo,120201
+Aldeia,Nianapu,Nianapu,Oe-Cusse,Oesilo,120201
+Aldeia,Nonquican,Nonquican,Oe-Cusse,Oesilo,120201
+Aldeia,Oebaha,Oebaha,Oe-Cusse,Oesilo,120201
+Aldeia,Oenoah,Oenoah,Oe-Cusse,Oesilo,120201
+Aldeia,Quiubiselo,Quiubiselo,Oe-Cusse,Oesilo,120201
+Aldeia,Saben,Saben,Oe-Cusse,Oesilo,120201
+Aldeia,Tumin,Tumin,Oe-Cusse,Oesilo,120201
+Aldeia,Usapicolen,Usapicolen,Oe-Cusse,Oesilo,120201
+Aldeia,Nibin,Nibin,Oe-Cusse,Oesilo,120202
+Aldeia,Buqui,Buqui,Oe-Cusse,Oesilo,120203
+Aldeia,Pune,Pune,Oe-Cusse,Oesilo,120203
+Aldeia,Sifin,Sifin,Oe-Cusse,Oesilo,120203
+Aldeia,Bihala,Bihala,Oe-Cusse,Pante_Macassar,120301
+Aldeia,Fatubijae,Fatubijae,Oe-Cusse,Pante_Macassar,120301
+Aldeia,Lacufoan,Lacufoan,Oe-Cusse,Pante_Macassar,120302
+Aldeia,Mahata,Mahata,Oe-Cusse,Pante_Macassar,120302
+Aldeia,Oesono,Oesono,Oe-Cusse,Pante_Macassar,120302
+Aldeia,Oetfo,Oetfo,Oe-Cusse,Pante_Macassar,120302
+Aldeia,Sanane,Sanane,Oe-Cusse,Pante_Macassar,120302
+Aldeia,Maunaben,Maunaben,Oe-Cusse,Pante_Macassar,120303
+Aldeia,Noafafo,Noafafo,Oe-Cusse,Pante_Macassar,120303
+Aldeia,Noapai,Noapai,Oe-Cusse,Pante_Macassar,120303
+Aldeia,Noeninen,Noeninen,Oe-Cusse,Pante_Macassar,120303
+Aldeia,Umenoah,Umenoah,Oe-Cusse,Pante_Macassar,120303
+Aldeia,Banoco,Banoco,Oe-Cusse,Pante_Macassar,120304
+Aldeia,Manuinpena,Manuinpena,Oe-Cusse,Pante_Macassar,120304
+Aldeia,Padiae,Padiae,Oe-Cusse,Pante_Macassar,120304
+Aldeia,Usapibela,Usapibela,Oe-Cusse,Pante_Macassar,120304
+Aldeia,Nefobai,Nefobai,Oe-Cusse,Pante_Macassar,120305
+Aldeia,Oemolo,Oemolo,Oe-Cusse,Pante_Macassar,120305
+Aldeia,Tulaica,Tulaica,Oe-Cusse,Pante_Macassar,120305
+Aldeia,Baqui,Baqui,Oe-Cusse,Pante_Macassar,120306
+Aldeia,Bonemese,Bonemese,Oe-Cusse,Pante_Macassar,120306
+Aldeia,Noque,Noque,Oe-Cusse,Pante_Macassar,120306
+Aldeia,Teinae,Teinae,Oe-Cusse,Pante_Macassar,120306
+Aldeia,Bausiu,Bausiu,Oe-Cusse,Pante_Macassar,120307
+Aldeia,Sacato,Sacato,Oe-Cusse,Pante_Macassar,120307
+Aldeia,Hauboni,Hauboni,Oe-Cusse,Pante_Macassar,120308
+Aldeia,Maquelab,Maquelab,Oe-Cusse,Pante_Macassar,120308
+Aldeia,Nemun,Nemun,Oe-Cusse,Pante_Macassar,120308
+Aldeia,Ulas,Ulas,Oe-Cusse,Pante_Macassar,120308
+Aldeia,Haemnanu,Haemnanu,Oe-Cusse,Passabe,120401
+Aldeia,Naetuna,Naetuna,Oe-Cusse,Passabe,120401
+Aldeia,Passabe,Passabe,Oe-Cusse,Passabe,120401
+Aldeia,Malelat,Malelat,Oe-Cusse,Passabe,120402
+Aldeia,Ai_Lo_Oc,Ai Lo Oc,Viqueque,Lacluta,130101
+Aldeia,Cai_Ua,Cai Ua,Viqueque,Lacluta,130101
+Aldeia,Crarec_Bocu,Crarec Bocu,Viqueque,Lacluta,130101
+Aldeia,Hali_Mean,Hali Mean,Viqueque,Lacluta,130101
+Aldeia,Hali_Oan,Hali Oan,Viqueque,Lacluta,130101
+Aldeia,Acadiru_Hun,Acadiru Hun,Viqueque,Lacluta,130102
+Aldeia,Aidac_Laran,Aidac Laran,Viqueque,Lacluta,130102
+Aldeia,Boruc,Boruc,Viqueque,Lacluta,130102
+Aldeia,Rade_Uman,Rade Uman,Viqueque,Lacluta,130102
+Aldeia,Tula_Oli,Tula Oli,Viqueque,Lacluta,130102
+Aldeia,Aimeta_Hun,Aimeta Hun,Viqueque,Lacluta,130103
+Aldeia,Fatu_Cado,Fatu Cado,Viqueque,Lacluta,130103
+Aldeia,Mau_Ama,Mau Ama,Viqueque,Lacluta,130103
+Aldeia,Micradec,Micradec,Viqueque,Lacluta,130103
+Aldeia,Santo_Antonio,Santo Antonio,Viqueque,Lacluta,130103
+Aldeia,Ai_Sucu_Nuc,Ai Sucu Nuc,Viqueque,Lacluta,130104
+Aldeia,Crarec_Maruc,Crarec Maruc,Viqueque,Lacluta,130104
+Aldeia,Data_Metan,Data Metan,Viqueque,Lacluta,130104
+Aldeia,Fahi_Lain,Fahi Lain,Viqueque,Lacluta,130104
+Aldeia,Tali_Oan,Tali Oan,Viqueque,Lacluta,130104
+Aldeia,Bete_Cai_Ana,Bete Cai Ana,Viqueque,Ossu,130201
+Aldeia,Cai_Leti_Ana,Cai Leti Ana,Viqueque,Ossu,130201
+Aldeia,Cai_Tara_Hu,Cai Tara Hu,Viqueque,Ossu,130201
+Aldeia,Heni_Uta,Heni Uta,Viqueque,Ossu,130201
+Aldeia,Liaro,Liaro,Viqueque,Ossu,130201
+Aldeia,Buareca,Buareca,Viqueque,Ossu,130210
+Aldeia,Builo,Builo,Viqueque,Ossu,130210
+Aldeia,Derulo,Derulo,Viqueque,Ossu,130210
+Aldeia,Lutuguia,Lutuguia,Viqueque,Ossu,130210
+Aldeia,Baha-Neo,Baha-Neo,Viqueque,Ossu,130202
+Aldeia,Cai-Ua,Cai-Ua,Viqueque,Ossu,130202
+Aldeia,Liacuda,Liacuda,Viqueque,Ossu,130202
+Aldeia,Liaruca,Liaruca,Viqueque,Ossu,130202
+Aldeia,Selele,Selele,Viqueque,Ossu,130202
+Aldeia,Cai_Latu_Lale,Cai Latu Lale,Viqueque,Ossu,130203
+Aldeia,Lia_Uai_Oli,Lia Uai Oli,Viqueque,Ossu,130203
+Aldeia,Samaliu,Samaliu,Viqueque,Ossu,130203
+Aldeia,Uai-Heda,Uai-Heda,Viqueque,Ossu,130203
+Aldeia,Uala_Uau,Uala Uau,Viqueque,Ossu,130203
+Aldeia,Darenau,Darenau,Viqueque,Ossu,130204
+Aldeia,Macabu_U,Macabu U,Viqueque,Ossu,130204
+Aldeia,Maurate,Maurate,Viqueque,Ossu,130204
+Aldeia,Raila_A,Raila A,Viqueque,Ossu,130204
+Aldeia,Samarogo,Samarogo,Viqueque,Ossu,130204
+Aldeia,Fatu_Dere,Fatu Dere,Viqueque,Ossu,130205
+Aldeia,Laisorule,Laisorule,Viqueque,Ossu,130205
+Aldeia,Raimuti,Raimuti,Viqueque,Ossu,130205
+Aldeia,Sama-Lari,Sama-Lari,Viqueque,Ossu,130205
+Aldeia,Uai-Bobo,Uai-Bobo,Viqueque,Ossu,130205
+Aldeia,Uatu-Laua,Uatu-Laua,Viqueque,Ossu,130205
+Aldeia,Umabere,Umabere,Viqueque,Ossu,130205
+Aldeia,Umatamene,Umatamene,Viqueque,Ossu,130205
+Aldeia,Baca-Isi,Baca-Isi,Viqueque,Ossu,130206
+Aldeia,Belas,Belas,Viqueque,Ossu,130206
+Aldeia,Borala,Borala,Viqueque,Ossu,130206
+Aldeia,Cai_Uai_Hoo,Cai Uai Hoo,Viqueque,Ossu,130206
+Aldeia,Liamida,Liamida,Viqueque,Ossu,130206
+Aldeia,Lugabuti,Lugabuti,Viqueque,Ossu,130206
+Aldeia,Uairio,Uairio,Viqueque,Ossu,130206
+Aldeia,Uma_Ana_Ico,Uma Ana Ico,Viqueque,Ossu,130206
+Aldeia,Buanurac,Buanurac,Viqueque,Ossu,130207
+Aldeia,Dauborobaha,Dauborobaha,Viqueque,Ossu,130207
+Aldeia,Laritame,Laritame,Viqueque,Ossu,130207
+Aldeia,Leque-Buti,Leque-Buti,Viqueque,Ossu,130207
+Aldeia,Ossogori,Ossogori,Viqueque,Ossu,130207
+Aldeia,Uai-Lia,Uai-Lia,Viqueque,Ossu,130207
+Aldeia,Dasarai,Dasarai,Viqueque,Ossu,130208
+Aldeia,Dolibuti,Dolibuti,Viqueque,Ossu,130208
+Aldeia,Luhabere,Luhabere,Viqueque,Ossu,130208
+Aldeia,Manulari,Manulari,Viqueque,Ossu,130208
+Aldeia,Uaitutumata,Uaitutumata,Viqueque,Ossu,130208
+Aldeia,Uatumanutuco,Uatumanutuco,Viqueque,Ossu,130208
+Aldeia,Darenau,Darenau,Viqueque,Ossu,130209
+Aldeia,Leo,Leo,Viqueque,Ossu,130209
+Aldeia,Mundailo,Mundailo,Viqueque,Ossu,130209
+Aldeia,Samaliurai,Samaliurai,Viqueque,Ossu,130209
+Aldeia,Sogau,Sogau,Viqueque,Ossu,130209
+Aldeia,Uaitau,Uaitau,Viqueque,Ossu,130209
+Aldeia,Uanise,Uanise,Viqueque,Ossu,130209
+Aldeia,Buibela,Buibela,Viqueque,Uato-Lari,130301
+Aldeia,Cailaque,Cailaque,Viqueque,Uato-Lari,130301
+Aldeia,Caitau,Caitau,Viqueque,Uato-Lari,130301
+Aldeia,Daco_Ate,Daco Ate,Viqueque,Uato-Lari,130301
+Aldeia,Lari,Lari,Viqueque,Uato-Lari,130301
+Aldeia,Lena,Lena,Viqueque,Uato-Lari,130301
+Aldeia,Loro_Sa_E,Loro Sa E,Viqueque,Uato-Lari,130301
+Aldeia,Ossocaiua,Ossocaiua,Viqueque,Uato-Lari,130301
+Aldeia,Uaicai,Uaicai,Viqueque,Uato-Lari,130301
+Aldeia,Uato_Ita,Uato Ita,Viqueque,Uato-Lari,130301
+Aldeia,Abadere,Abadere,Viqueque,Uato-Lari,130302
+Aldeia,Aha_B_Uu,Aha B Uu,Viqueque,Uato-Lari,130302
+Aldeia,Asa_Muta,Asa Muta,Viqueque,Uato-Lari,130302
+Aldeia,Beli,Beli,Viqueque,Uato-Lari,130302
+Aldeia,Cota_Nisi,Cota Nisi,Viqueque,Uato-Lari,130302
+Aldeia,Daralari,Daralari,Viqueque,Uato-Lari,130302
+Aldeia,Lia_Sidi,Lia Sidi,Viqueque,Uato-Lari,130302
+Aldeia,Roma,Roma,Viqueque,Uato-Lari,130302
+Aldeia,Betulari,Betulari,Viqueque,Uato-Lari,130303
+Aldeia,Bobolaco,Bobolaco,Viqueque,Uato-Lari,130303
+Aldeia,Bobulita,Bobulita,Viqueque,Uato-Lari,130303
+Aldeia,Borobai,Borobai,Viqueque,Uato-Lari,130303
+Aldeia,Caidaualari,Caidaualari,Viqueque,Uato-Lari,130303
+Aldeia,Caidaulata,Caidaulata,Viqueque,Uato-Lari,130303
+Aldeia,Comiuro,Comiuro,Viqueque,Uato-Lari,130303
+Aldeia,Coquilaco,Coquilaco,Viqueque,Uato-Lari,130303
+Aldeia,Daralari,Daralari,Viqueque,Uato-Lari,130303
+Aldeia,Digamasi,Digamasi,Viqueque,Uato-Lari,130303
+Aldeia,Edemumo,Edemumo,Viqueque,Uato-Lari,130303
+Aldeia,Lacarate,Lacarate,Viqueque,Uato-Lari,130303
+Aldeia,Lau-Uma,Lau-Uma,Viqueque,Uato-Lari,130303
+Aldeia,Liacaiua,Liacaiua,Viqueque,Uato-Lari,130303
+Aldeia,Luroboro,Luroboro,Viqueque,Uato-Lari,130303
+Aldeia,Lutuguia,Lutuguia,Viqueque,Uato-Lari,130303
+Aldeia,Macadique,Macadique,Viqueque,Uato-Lari,130303
+Aldeia,Mata_Dalan,Mata Dalan,Viqueque,Uato-Lari,130303
+Aldeia,Namanei,Namanei,Viqueque,Uato-Lari,130303
+Aldeia,Ossolari,Ossolari,Viqueque,Uato-Lari,130303
+Aldeia,Quetorai,Quetorai,Viqueque,Uato-Lari,130303
+Aldeia,Aele,Aele,Viqueque,Uato-Lari,130304
+Aldeia,Buca_Dalan_-_Matahoi,Buca Dalan - Matahoi,Viqueque,Uato-Lari,130304
+Aldeia,Calohan_-_Uatulo,Calohan - Uatulo,Viqueque,Uato-Lari,130304
+Aldeia,Dalan_Los_-_Uanama,Dalan Los - Uanama,Viqueque,Uato-Lari,130304
+Aldeia,Iraler,Iraler,Viqueque,Uato-Lari,130304
+Aldeia,Loco_Loco,Loco Loco,Viqueque,Uato-Lari,130304
+Aldeia,Mau_Ciac,Mau Ciac,Viqueque,Uato-Lari,130304
+Aldeia,Mauseloc,Mauseloc,Viqueque,Uato-Lari,130304
+Aldeia,Tatilari,Tatilari,Viqueque,Uato-Lari,130304
+Aldeia,Uani_Uma,Uani Uma,Viqueque,Uato-Lari,130304
+Aldeia,Uasufa,Uasufa,Viqueque,Uato-Lari,130304
+Aldeia,Ulusu,Ulusu,Viqueque,Uato-Lari,130304
+Aldeia,Fohomano,Fohomano,Viqueque,Uato-Lari,130305
+Aldeia,Macadique,Macadique,Viqueque,Uato-Lari,130305
+Aldeia,Rai_Laa,Rai Laa,Viqueque,Uato-Lari,130305
+Aldeia,Sana,Sana,Viqueque,Uato-Lari,130305
+Aldeia,Uma_Qui_Ic,Uma Qui Ic,Viqueque,Uato-Lari,130305
+Aldeia,Baila-O,Baila-O,Viqueque,Uato-Lari,130306
+Aldeia,Bailabuga,Bailabuga,Viqueque,Uato-Lari,130306
+Aldeia,Bailabasiba,Bailabasiba,Viqueque,Uato-Lari,130306
+Aldeia,Culudere,Culudere,Viqueque,Uato-Lari,130306
+Aldeia,Matau,Matau,Viqueque,Uato-Lari,130306
+Aldeia,Mauboro,Mauboro,Viqueque,Uato-Lari,130306
+Aldeia,Uani_Uma,Uani Uma,Viqueque,Uato-Lari,130306
+Aldeia,Cai_Uailita,Cai Uailita,Viqueque,Uato-Carbau,130401
+Aldeia,Daralari,Daralari,Viqueque,Uato-Carbau,130401
+Aldeia,Lacuhu,Lacuhu,Viqueque,Uato-Carbau,130401
+Aldeia,Lequiuala,Lequiuala,Viqueque,Uato-Carbau,130401
+Aldeia,Builacurae,Builacurae,Viqueque,Uato-Carbau,130402
+Aldeia,Nelu-Uai,Nelu-Uai,Viqueque,Uato-Carbau,130402
+Aldeia,Tatadere,Tatadere,Viqueque,Uato-Carbau,130402
+Aldeia,Uaimare,Uaimare,Viqueque,Uato-Carbau,130402
+Aldeia,Beturia,Beturia,Viqueque,Uato-Carbau,130403
+Aldeia,Lacoloro_Ho'O,Lacoloro Ho'O,Viqueque,Uato-Carbau,130403
+Aldeia,Macaqui,Macaqui,Viqueque,Uato-Carbau,130403
+Aldeia,Macausa,Macausa,Viqueque,Uato-Carbau,130403
+Aldeia,Taradai,Taradai,Viqueque,Uato-Carbau,130403
+Aldeia,Taradiga,Taradiga,Viqueque,Uato-Carbau,130403
+Aldeia,Uatodere,Uatodere,Viqueque,Uato-Carbau,130403
+Aldeia,Caida_Ho'O,Caida Ho'O,Viqueque,Uato-Carbau,130404
+Aldeia,Cao_Oli_Ho'O,Cao Oli Ho'O,Viqueque,Uato-Carbau,130404
+Aldeia,Mar_Rae,Mar Rae,Viqueque,Uato-Carbau,130404
+Aldeia,Tetumori,Tetumori,Viqueque,Uato-Carbau,130404
+Aldeia,Uatubita,Uatubita,Viqueque,Uato-Carbau,130404
+Aldeia,Assafadae,Assafadae,Viqueque,Uato-Carbau,130405
+Aldeia,Bualale,Bualale,Viqueque,Uato-Carbau,130405
+Aldeia,Deni-Hare,Deni-Hare,Viqueque,Uato-Carbau,130405
+Aldeia,Lau-Aba,Lau-Aba,Viqueque,Uato-Carbau,130405
+Aldeia,Liabuta,Liabuta,Viqueque,Uato-Carbau,130405
+Aldeia,Alaoli,Alaoli,Viqueque,Uato-Carbau,130406
+Aldeia,Boro-Bohae,Boro-Bohae,Viqueque,Uato-Carbau,130406
+Aldeia,Osso-Mali,Osso-Mali,Viqueque,Uato-Carbau,130406
+Aldeia,Uatoliloli,Uatoliloli,Viqueque,Uato-Carbau,130406
+Aldeia,Udu,Udu,Viqueque,Uato-Carbau,130406
+Aldeia,Aidac,Aidac,Viqueque,Viqueque,130501
+Aldeia,Aisahe,Aisahe,Viqueque,Viqueque,130501
+Aldeia,Camelitur,Camelitur,Viqueque,Viqueque,130501
+Aldeia,Caninuc,Caninuc,Viqueque,Viqueque,130501
+Aldeia,Welaco,Welaco,Viqueque,Viqueque,130501
+Aldeia,Wetalitua,Wetalitua,Viqueque,Viqueque,130501
+Aldeia,Aisahe,Aisahe,Viqueque,Viqueque,130502
+Aldeia,Amarleza,Amarleza,Viqueque,Viqueque,130502
+Aldeia,Balideoan,Balideoan,Viqueque,Viqueque,130502
+Aldeia,Fatohosan,Fatohosan,Viqueque,Viqueque,130502
+Aldeia,Hareoan,Hareoan,Viqueque,Viqueque,130502
+Aldeia,Lacouai,Lacouai,Viqueque,Viqueque,130502
+Aldeia,Mane_Claran,Mane Claran,Viqueque,Viqueque,130502
+Aldeia,Webae,Webae,Viqueque,Viqueque,130502
+Aldeia,Cabira_Oan,Cabira Oan,Viqueque,Viqueque,130503
+Aldeia,Has_Abut,Has Abut,Viqueque,Viqueque,130503
+Aldeia,Lamaclaran,Lamaclaran,Viqueque,Viqueque,130503
+Aldeia,Mamulac,Mamulac,Viqueque,Viqueque,130503
+Aldeia,Manehat,Manehat,Viqueque,Viqueque,130503
+Aldeia,Siralari,Siralari,Viqueque,Viqueque,130503
+Aldeia,Wessa,Wessa,Viqueque,Viqueque,130503
+Aldeia,Aidilalita,Aidilalita,Viqueque,Viqueque,130504
+Aldeia,Barabeto,Barabeto,Viqueque,Viqueque,130504
+Aldeia,Culale,Culale,Viqueque,Viqueque,130504
+Aldeia,Canlor,Canlor,Viqueque,Viqueque,130505
+Aldeia,Iramer,Iramer,Viqueque,Viqueque,130505
+Aldeia,Uma_Boot,Uma Boot,Viqueque,Viqueque,130505
+Aldeia,Uma_Lor,Uma Lor,Viqueque,Viqueque,130505
+Aldeia,Loho_Oan,Loho Oan,Viqueque,Viqueque,130506
+Aldeia,Macalosso,Macalosso,Viqueque,Viqueque,130506
+Aldeia,Maluru,Maluru,Viqueque,Viqueque,130506
+Aldeia,Lulei,Lulei,Viqueque,Viqueque,130507
+Aldeia,Mea-Uai,Mea-Uai,Viqueque,Viqueque,130507
+Aldeia,Uaibubo,Uaibubo,Viqueque,Viqueque,130507
+Aldeia,Uatulesu,Uatulesu,Viqueque,Viqueque,130507
+Aldeia,Uma-Bo_O,Uma-Bo O,Viqueque,Viqueque,130507
+Aldeia,Uma-Liurai,Uma-Liurai,Viqueque,Viqueque,130507
+Aldeia,Aidac_Bein,Aidac Bein,Viqueque,Viqueque,130508
+Aldeia,Aina_Uain,Aina Uain,Viqueque,Viqueque,130508
+Aldeia,Bahabunac,Bahabunac,Viqueque,Viqueque,130508
+Aldeia,Bahafou,Bahafou,Viqueque,Viqueque,130508
+Aldeia,Lua,Lua,Viqueque,Viqueque,130508
+Aldeia,Macadean,Macadean,Viqueque,Viqueque,130508
+Aldeia,Maroman,Maroman,Viqueque,Viqueque,130508
+Aldeia,Raihun,Raihun,Viqueque,Viqueque,130508
+Aldeia,Bosabein,Bosabein,Viqueque,Viqueque,130509
+Aldeia,Cailoi,Cailoi,Viqueque,Viqueque,130509
+Aldeia,Duducai,Duducai,Viqueque,Viqueque,130509
+Aldeia,Fahi_Berec,Fahi Berec,Viqueque,Viqueque,130509
+Aldeia,Fatuhadan,Fatuhadan,Viqueque,Viqueque,130509
+Aldeia,Halderai,Halderai,Viqueque,Viqueque,130509
+Aldeia,Loho,Loho,Viqueque,Viqueque,130509
+Aldeia,Naeboruc,Naeboruc,Viqueque,Viqueque,130509
+Aldeia,Uhacae,Uhacae,Viqueque,Viqueque,130509
+Aldeia,Bahauai,Bahauai,Viqueque,Viqueque,130510
+Aldeia,Baria,Baria,Viqueque,Viqueque,130510
+Aldeia,Cailoibere,Cailoibere,Viqueque,Viqueque,130510
+Aldeia,Lialura,Lialura,Viqueque,Viqueque,130510
+Aldeia,Macalico,Macalico,Viqueque,Viqueque,130510
+Aldeia,Retica,Retica,Viqueque,Viqueque,130510
+Aldeia,Tutcui,Tutcui,Viqueque,Viqueque,130510
+Aldeia,Ucalale,Ucalale,Viqueque,Viqueque,130510
+vj5ow15,hau_nia_umakai,"Hau nia umakain laiha ""lista benefisiáriu apoiu osan""",,,
+vj5ow15,hau_nia_umakai_1,Hau nia umakain iha “lista” maibe lasimu pagamentu,,,
+vj5ow15,hau_nia_umakai_2,Hau nia umakain iha lista eskluidu,,,
+vj5ow15,hau_simu_osan_,Hau simu osan maibe la to’o montante mensiona($100),,,
+vj5ow15,ekipa_pagament,Ekipa pagamentu la aseita substituisaun xefe familia tuir hau husu,,,
+vj5ow15,seluk,Seluk,,,
+xm8eb26,k__eleitoral,K. Eleitoral,,,
+xm8eb26,b__identidade,B. Identidade,,,
+xm8eb26,deklarasaun_xefe_suco,Deklarasaun Xefe Suco,,,
+xm8eb26,seluk,Seluk,,,

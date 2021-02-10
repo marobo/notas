@@ -10,7 +10,7 @@ cffi==1.10.0
 click==6.7
 configobj==5.0.6
 configparser==3.5.0
-cryptography==3.2
+cryptography==3.3.2
 cycler==0.10.0
 darksky==0.3
 decorator==4.0.11

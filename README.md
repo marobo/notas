@@ -2,9 +2,9 @@
 
 ## What is this?
 
-The idea is that this is the place where we share information.
+The idea is the place where we share information.
 
-The Table of Contents is bellow. Each section is in a different folder and each folder has a `README.md` file in it which should provide a quick summary of that section. 
+The Table of Contents is below. Each section is in a different folder and each folder has a `README.md` file in it which should provide a quick summary of that section. 
 
 
 ## How do I contribute to this wealth of knowledge?
